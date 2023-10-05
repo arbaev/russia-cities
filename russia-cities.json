@@ -1,6 +1,7 @@
 [
   {
     "name": "Ишимбай",
+    "name_alt": "Ишимбай",
     "label": "ishimbay",
     "type": "Город",
     "typeShort": "г",
@@ -65,6 +66,7 @@
   },
   {
     "name": "Кумертау",
+    "name_alt": "Кумертау",
     "label": "kumertau",
     "type": "Город",
     "typeShort": "г",
@@ -129,6 +131,7 @@
   },
   {
     "name": "Межгорье",
+    "name_alt": "Межгорье",
     "label": "mezhgorye",
     "type": "Город",
     "typeShort": "г",
@@ -193,6 +196,7 @@
   },
   {
     "name": "Мелеуз",
+    "name_alt": "Мелеуз",
     "label": "meleuz",
     "type": "Город",
     "typeShort": "г",
@@ -257,6 +261,7 @@
   },
   {
     "name": "Нефтекамск",
+    "name_alt": "Нефтекамск",
     "label": "neftekamsk",
     "type": "Город",
     "typeShort": "г",
@@ -321,6 +326,7 @@
   },
   {
     "name": "Октябрьский",
+    "name_alt": "Октябрьский",
     "label": "oktyabrsky",
     "type": "Город",
     "typeShort": "г",
@@ -385,6 +391,7 @@
   },
   {
     "name": "Салават",
+    "name_alt": "Салават",
     "label": "salavat",
     "type": "Город",
     "typeShort": "г",
@@ -449,6 +456,7 @@
   },
   {
     "name": "Сибай",
+    "name_alt": "Сибай",
     "label": "sibay",
     "type": "Город",
     "typeShort": "г.",
@@ -513,6 +521,7 @@
   },
   {
     "name": "Стерлитамак",
+    "name_alt": "Стерлитамак",
     "label": "sterlitamak",
     "type": "Город",
     "typeShort": "г",
@@ -577,6 +586,7 @@
   },
   {
     "name": "Туймазы",
+    "name_alt": "Туймазы",
     "label": "tujmazy",
     "type": "Город",
     "typeShort": "г",
@@ -641,6 +651,7 @@
   },
   {
     "name": "Уфа",
+    "name_alt": "Уфа",
     "label": "ufa",
     "type": "Город",
     "typeShort": "г",
@@ -705,6 +716,7 @@
   },
   {
     "name": "Учалы",
+    "name_alt": "Учалы",
     "label": "uchaly",
     "type": "Город",
     "typeShort": "г",
@@ -769,6 +781,7 @@
   },
   {
     "name": "Янаул",
+    "name_alt": "Янаул",
     "label": "yanaul",
     "type": "Город",
     "typeShort": "г",
@@ -833,6 +846,7 @@
   },
   {
     "name": "Бабушкин",
+    "name_alt": "Бабушкин",
     "label": "babushkin",
     "type": "Город",
     "typeShort": "г",
@@ -896,7 +910,8 @@
   },
   {
     "name": "Гусиноозёрск",
-    "label": "gusinoozyorsk",
+    "name_alt": "Гусиноозерск",
+    "label": "gusinoozersk",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -959,6 +974,7 @@
   },
   {
     "name": "Закаменск",
+    "name_alt": "Закаменск",
     "label": "zakamensk",
     "type": "Город",
     "typeShort": "г",
@@ -1022,6 +1038,7 @@
   },
   {
     "name": "Кяхта",
+    "name_alt": "Кяхта",
     "label": "kyakhta",
     "type": "Город",
     "typeShort": "г",
@@ -1085,6 +1102,7 @@
   },
   {
     "name": "Северобайкальск",
+    "name_alt": "Северобайкальск",
     "label": "severobaikalsk",
     "type": "Город",
     "typeShort": "г",
@@ -1148,6 +1166,7 @@
   },
   {
     "name": "Улан-Удэ",
+    "name_alt": "Улан-Удэ",
     "label": "ulan_ude",
     "type": "Город",
     "typeShort": "г",
@@ -1211,6 +1230,7 @@
   },
   {
     "name": "Горно-Алтайск",
+    "name_alt": "Горно-Алтайск",
     "label": "gorno_altaysk",
     "type": "Город",
     "typeShort": "г",
@@ -1274,6 +1294,7 @@
   },
   {
     "name": "Майкоп",
+    "name_alt": "Майкоп",
     "label": "maykop",
     "type": "Город",
     "typeShort": "г",
@@ -1337,6 +1358,7 @@
   },
   {
     "name": "Адыгейск",
+    "name_alt": "Адыгейск",
     "label": "adygeysk",
     "type": "Город",
     "typeShort": "г",
@@ -1400,6 +1422,7 @@
   },
   {
     "name": "Агидель",
+    "name_alt": "Агидель",
     "label": "agidel",
     "type": "Город",
     "typeShort": "г",
@@ -1464,6 +1487,7 @@
   },
   {
     "name": "Баймак",
+    "name_alt": "Баймак",
     "label": "baymak",
     "type": "Город",
     "typeShort": "г",
@@ -1528,6 +1552,7 @@
   },
   {
     "name": "Белебей",
+    "name_alt": "Белебей",
     "label": "belebei",
     "type": "Город",
     "typeShort": "г",
@@ -1592,6 +1617,7 @@
   },
   {
     "name": "Белорецк",
+    "name_alt": "Белорецк",
     "label": "beloretsk",
     "type": "Город",
     "typeShort": "г",
@@ -1656,6 +1682,7 @@
   },
   {
     "name": "Бирск",
+    "name_alt": "Бирск",
     "label": "birsk",
     "type": "Город",
     "typeShort": "г",
@@ -1720,6 +1747,7 @@
   },
   {
     "name": "Благовещенск",
+    "name_alt": "Благовещенск",
     "label": "blagoveshchensk_bashkortostan",
     "type": "Город",
     "typeShort": "г",
@@ -1784,6 +1812,7 @@
   },
   {
     "name": "Давлеканово",
+    "name_alt": "Давлеканово",
     "label": "davlekanovo",
     "type": "Город",
     "typeShort": "г",
@@ -1848,6 +1877,7 @@
   },
   {
     "name": "Дюртюли",
+    "name_alt": "Дюртюли",
     "label": "dyurtyuli",
     "type": "Город",
     "typeShort": "г",
@@ -1912,6 +1942,7 @@
   },
   {
     "name": "Буйнакск",
+    "name_alt": "Буйнакск",
     "label": "buynaksk",
     "type": "Город",
     "typeShort": "г",
@@ -1975,6 +2006,7 @@
   },
   {
     "name": "Дагестанские Огни",
+    "name_alt": "Дагестанские Огни",
     "label": "dagestanskiye_ogni",
     "type": "Город",
     "typeShort": "г",
@@ -2038,6 +2070,7 @@
   },
   {
     "name": "Дербент",
+    "name_alt": "Дербент",
     "label": "derbent",
     "type": "Город",
     "typeShort": "г",
@@ -2101,6 +2134,7 @@
   },
   {
     "name": "Избербаш",
+    "name_alt": "Избербаш",
     "label": "izberbash",
     "type": "Город",
     "typeShort": "г",
@@ -2164,6 +2198,7 @@
   },
   {
     "name": "Каспийск",
+    "name_alt": "Каспийск",
     "label": "kaspiysk",
     "type": "Город",
     "typeShort": "г",
@@ -2227,6 +2262,7 @@
   },
   {
     "name": "Кизилюрт",
+    "name_alt": "Кизилюрт",
     "label": "kizilyurt",
     "type": "Город",
     "typeShort": "г",
@@ -2290,6 +2326,7 @@
   },
   {
     "name": "Кизляр",
+    "name_alt": "Кизляр",
     "label": "kizlyar",
     "type": "Город",
     "typeShort": "г",
@@ -2353,6 +2390,7 @@
   },
   {
     "name": "Махачкала",
+    "name_alt": "Махачкала",
     "label": "makhachkala",
     "type": "Город",
     "typeShort": "г",
@@ -2416,6 +2454,7 @@
   },
   {
     "name": "Хасавюрт",
+    "name_alt": "Хасавюрт",
     "label": "khasavyurt",
     "type": "Город",
     "typeShort": "г",
@@ -2479,6 +2518,7 @@
   },
   {
     "name": "Южно-Сухокумск",
+    "name_alt": "Южно-Сухокумск",
     "label": "yuzhno_sukhokumsk",
     "type": "Город",
     "typeShort": "г",
@@ -2542,6 +2582,7 @@
   },
   {
     "name": "Карабулак",
+    "name_alt": "Карабулак",
     "label": "karabulak",
     "type": "Город",
     "typeShort": "г",
@@ -2605,6 +2646,7 @@
   },
   {
     "name": "Магас",
+    "name_alt": "Магас",
     "label": "magas",
     "type": "Город",
     "typeShort": "г",
@@ -2668,6 +2710,7 @@
   },
   {
     "name": "Малгобек",
+    "name_alt": "Малгобек",
     "label": "malgobek",
     "type": "Город",
     "typeShort": "г",
@@ -2731,6 +2774,7 @@
   },
   {
     "name": "Назрань",
+    "name_alt": "Назрань",
     "label": "nazran",
     "type": "Город",
     "typeShort": "г",
@@ -2794,6 +2838,7 @@
   },
   {
     "name": "Сунжа",
+    "name_alt": "Сунжа",
     "label": "sunzha",
     "type": "Город",
     "typeShort": "г.",
@@ -2857,6 +2902,7 @@
   },
   {
     "name": "Баксан",
+    "name_alt": "Баксан",
     "label": "baksan",
     "type": "Город",
     "typeShort": "г",
@@ -2921,6 +2967,7 @@
   },
   {
     "name": "Майский",
+    "name_alt": "Майский",
     "label": "mayskiy",
     "type": "Город",
     "typeShort": "г",
@@ -2985,6 +3032,7 @@
   },
   {
     "name": "Нальчик",
+    "name_alt": "Нальчик",
     "label": "nalchik",
     "type": "Город",
     "typeShort": "г",
@@ -3049,6 +3097,7 @@
   },
   {
     "name": "Нарткала",
+    "name_alt": "Нарткала",
     "label": "nartkala",
     "type": "Город",
     "typeShort": "г",
@@ -3113,6 +3162,7 @@
   },
   {
     "name": "Прохладный",
+    "name_alt": "Прохладный",
     "label": "prokhladny",
     "type": "Город",
     "typeShort": "г",
@@ -3177,6 +3227,7 @@
   },
   {
     "name": "Терек",
+    "name_alt": "Терек",
     "label": "terek",
     "type": "Город",
     "typeShort": "г",
@@ -3241,6 +3292,7 @@
   },
   {
     "name": "Тырныауз",
+    "name_alt": "Тырныауз",
     "label": "tyrnyauz",
     "type": "Город",
     "typeShort": "г",
@@ -3305,6 +3357,7 @@
   },
   {
     "name": "Чегем",
+    "name_alt": "Чегем",
     "label": "chegem",
     "type": "Город",
     "typeShort": "г",
@@ -3369,6 +3422,7 @@
   },
   {
     "name": "Элиста",
+    "name_alt": "Элиста",
     "label": "elista",
     "type": "Город",
     "typeShort": "г",
@@ -3432,6 +3486,7 @@
   },
   {
     "name": "Лагань",
+    "name_alt": "Лагань",
     "label": "lagan",
     "type": "Город",
     "typeShort": "г",
@@ -3495,6 +3550,7 @@
   },
   {
     "name": "Городовиковск",
+    "name_alt": "Городовиковск",
     "label": "gorodovikovsk",
     "type": "Город",
     "typeShort": "г",
@@ -3558,6 +3614,7 @@
   },
   {
     "name": "Карачаевск",
+    "name_alt": "Карачаевск",
     "label": "karachayevsk",
     "type": "Город",
     "typeShort": "г",
@@ -3622,6 +3679,7 @@
   },
   {
     "name": "Теберда",
+    "name_alt": "Теберда",
     "label": "teberda",
     "type": "Город",
     "typeShort": "г",
@@ -3686,6 +3744,7 @@
   },
   {
     "name": "Усть-Джегута",
+    "name_alt": "Усть-Джегута",
     "label": "ust_dzheguta",
     "type": "Город",
     "typeShort": "г",
@@ -3750,6 +3809,7 @@
   },
   {
     "name": "Черкесск",
+    "name_alt": "Черкесск",
     "label": "cherkessk",
     "type": "Город",
     "typeShort": "г",
@@ -3814,6 +3874,7 @@
   },
   {
     "name": "Петрозаводск",
+    "name_alt": "Петрозаводск",
     "label": "petrozavodsk",
     "type": "Город",
     "typeShort": "г",
@@ -3877,6 +3938,7 @@
   },
   {
     "name": "Кондопога",
+    "name_alt": "Кондопога",
     "label": "kondopoga",
     "type": "Город",
     "typeShort": "г",
@@ -3940,6 +4002,7 @@
   },
   {
     "name": "Сегежа",
+    "name_alt": "Сегежа",
     "label": "segezha",
     "type": "Город",
     "typeShort": "г",
@@ -4003,6 +4066,7 @@
   },
   {
     "name": "Костомукша",
+    "name_alt": "Костомукша",
     "label": "kostomuksha",
     "type": "Город",
     "typeShort": "г",
@@ -4066,6 +4130,7 @@
   },
   {
     "name": "Сортавала",
+    "name_alt": "Сортавала",
     "label": "sortavala",
     "type": "Город",
     "typeShort": "г",
@@ -4129,6 +4194,7 @@
   },
   {
     "name": "Медвежьегорск",
+    "name_alt": "Медвежьегорск",
     "label": "medvezhyegorsk",
     "type": "Город",
     "typeShort": "г",
@@ -4192,6 +4258,7 @@
   },
   {
     "name": "Кемь",
+    "name_alt": "Кемь",
     "label": "kemi",
     "type": "Город",
     "typeShort": "г",
@@ -4255,6 +4322,7 @@
   },
   {
     "name": "Питкяранта",
+    "name_alt": "Питкяранта",
     "label": "pitkyaranta",
     "type": "Город",
     "typeShort": "г",
@@ -4318,6 +4386,7 @@
   },
   {
     "name": "Беломорск",
+    "name_alt": "Беломорск",
     "label": "belomorsk",
     "type": "Город",
     "typeShort": "г",
@@ -4381,6 +4450,7 @@
   },
   {
     "name": "Суоярви",
+    "name_alt": "Суоярви",
     "label": "suoyarvi",
     "type": "Город",
     "typeShort": "г.",
@@ -4444,6 +4514,7 @@
   },
   {
     "name": "Пудож",
+    "name_alt": "Пудож",
     "label": "pudozh",
     "type": "Город",
     "typeShort": "г.",
@@ -4507,6 +4578,7 @@
   },
   {
     "name": "Олонец",
+    "name_alt": "Олонец",
     "label": "olonets",
     "type": "Город",
     "typeShort": "г",
@@ -4570,6 +4642,7 @@
   },
   {
     "name": "Лахденпохья",
+    "name_alt": "Лахденпохья",
     "label": "lakhdenpokhya",
     "type": "Город",
     "typeShort": "г",
@@ -4633,6 +4706,7 @@
   },
   {
     "name": "Сыктывкар",
+    "name_alt": "Сыктывкар",
     "label": "syktyvkar",
     "type": "Город",
     "typeShort": "г",
@@ -4696,6 +4770,7 @@
   },
   {
     "name": "Ухта",
+    "name_alt": "Ухта",
     "label": "ukhta",
     "type": "Город",
     "typeShort": "г",
@@ -4759,6 +4834,7 @@
   },
   {
     "name": "Воркута",
+    "name_alt": "Воркута",
     "label": "vorkuta",
     "type": "Город",
     "typeShort": "г",
@@ -4822,6 +4898,7 @@
   },
   {
     "name": "Печора",
+    "name_alt": "Печора",
     "label": "pechora",
     "type": "Город",
     "typeShort": "г",
@@ -4885,6 +4962,7 @@
   },
   {
     "name": "Усинск",
+    "name_alt": "Усинск",
     "label": "usinsk",
     "type": "Город",
     "typeShort": "г",
@@ -4948,6 +5026,7 @@
   },
   {
     "name": "Инта",
+    "name_alt": "Инта",
     "label": "inta",
     "type": "Город",
     "typeShort": "г",
@@ -5011,6 +5090,7 @@
   },
   {
     "name": "Сосногорск",
+    "name_alt": "Сосногорск",
     "label": "sosnogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -5074,6 +5154,7 @@
   },
   {
     "name": "Краснослободск",
+    "name_alt": "Краснослободск",
     "label": "krasnoslobodsk_mordoviya",
     "type": "Город",
     "typeShort": "г",
@@ -5137,6 +5218,7 @@
   },
   {
     "name": "Ардатов",
+    "name_alt": "Ардатов",
     "label": "ardatov",
     "type": "Город",
     "typeShort": "г",
@@ -5200,6 +5282,7 @@
   },
   {
     "name": "Инсар",
+    "name_alt": "Инсар",
     "label": "insar",
     "type": "Город",
     "typeShort": "г",
@@ -5263,6 +5346,7 @@
   },
   {
     "name": "Темников",
+    "name_alt": "Темников",
     "label": "temnikov",
     "type": "Город",
     "typeShort": "г",
@@ -5326,6 +5410,7 @@
   },
   {
     "name": "Алдан",
+    "name_alt": "Алдан",
     "label": "aldan",
     "type": "Город",
     "typeShort": "г",
@@ -5390,6 +5475,7 @@
   },
   {
     "name": "Верхоянск",
+    "name_alt": "Верхоянск",
     "label": "verkhoyansk",
     "type": "Город",
     "typeShort": "г",
@@ -5454,6 +5540,7 @@
   },
   {
     "name": "Вилюйск",
+    "name_alt": "Вилюйск",
     "label": "vilyuysk",
     "type": "Город",
     "typeShort": "г",
@@ -5518,6 +5605,7 @@
   },
   {
     "name": "Ленск",
+    "name_alt": "Ленск",
     "label": "lensk",
     "type": "Город",
     "typeShort": "г",
@@ -5582,6 +5670,7 @@
   },
   {
     "name": "Мирный",
+    "name_alt": "Мирный",
     "label": "mirnyi",
     "type": "Город",
     "typeShort": "г",
@@ -5646,6 +5735,7 @@
   },
   {
     "name": "Нерюнгри",
+    "name_alt": "Нерюнгри",
     "label": "neryungri",
     "type": "Город",
     "typeShort": "г",
@@ -5710,6 +5800,7 @@
   },
   {
     "name": "Нюрба",
+    "name_alt": "Нюрба",
     "label": "nyurba",
     "type": "Город",
     "typeShort": "г",
@@ -5774,7 +5865,8 @@
   },
   {
     "name": "Олёкминск",
-    "label": "olyokminsk",
+    "name_alt": "Олекминск",
+    "label": "olekminsk",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -5838,6 +5930,7 @@
   },
   {
     "name": "Покровск",
+    "name_alt": "Покровск",
     "label": "pokrovsk",
     "type": "Город",
     "typeShort": "г",
@@ -5902,6 +5995,7 @@
   },
   {
     "name": "Среднеколымск",
+    "name_alt": "Среднеколымск",
     "label": "srednekolymsk",
     "type": "Город",
     "typeShort": "г",
@@ -5966,6 +6060,7 @@
   },
   {
     "name": "Томмот",
+    "name_alt": "Томмот",
     "label": "tommot",
     "type": "Город",
     "typeShort": "г",
@@ -6030,6 +6125,7 @@
   },
   {
     "name": "Удачный",
+    "name_alt": "Удачный",
     "label": "udachny",
     "type": "Город",
     "typeShort": "г",
@@ -6094,6 +6190,7 @@
   },
   {
     "name": "Якутск",
+    "name_alt": "Якутск",
     "label": "yakutsk",
     "type": "Город",
     "typeShort": "г",
@@ -6158,6 +6255,7 @@
   },
   {
     "name": "Алагир",
+    "name_alt": "Алагир",
     "label": "alagir",
     "type": "Город",
     "typeShort": "г",
@@ -6221,6 +6319,7 @@
   },
   {
     "name": "Ардон",
+    "name_alt": "Ардон",
     "label": "ardon",
     "type": "Город",
     "typeShort": "г",
@@ -6284,6 +6383,7 @@
   },
   {
     "name": "Беслан",
+    "name_alt": "Беслан",
     "label": "beslan",
     "type": "Город",
     "typeShort": "г",
@@ -6347,6 +6447,7 @@
   },
   {
     "name": "Емва",
+    "name_alt": "Емва",
     "label": "yemva",
     "type": "Город",
     "typeShort": "г",
@@ -6410,6 +6511,7 @@
   },
   {
     "name": "Вуктыл",
+    "name_alt": "Вуктыл",
     "label": "vuktyl",
     "type": "Город",
     "typeShort": "г",
@@ -6473,6 +6575,7 @@
   },
   {
     "name": "Микунь",
+    "name_alt": "Микунь",
     "label": "mikun'",
     "type": "Город",
     "typeShort": "г",
@@ -6536,6 +6639,7 @@
   },
   {
     "name": "Йошкар-Ола",
+    "name_alt": "Йошкар-Ола",
     "label": "yoshkar_ola",
     "type": "Город",
     "typeShort": "г",
@@ -6599,6 +6703,7 @@
   },
   {
     "name": "Волжск",
+    "name_alt": "Волжск",
     "label": "volzhsk",
     "type": "Город",
     "typeShort": "г",
@@ -6662,6 +6767,7 @@
   },
   {
     "name": "Козьмодемьянск",
+    "name_alt": "Козьмодемьянск",
     "label": "kozmodemyansk",
     "type": "Город",
     "typeShort": "г",
@@ -6725,6 +6831,7 @@
   },
   {
     "name": "Звенигово",
+    "name_alt": "Звенигово",
     "label": "zvenigovo",
     "type": "Город",
     "typeShort": "г",
@@ -6788,6 +6895,7 @@
   },
   {
     "name": "Саранск",
+    "name_alt": "Саранск",
     "label": "saransk",
     "type": "Город",
     "typeShort": "г",
@@ -6851,6 +6959,7 @@
   },
   {
     "name": "Рузаевка",
+    "name_alt": "Рузаевка",
     "label": "ruzaevka",
     "type": "Город",
     "typeShort": "г",
@@ -6914,6 +7023,7 @@
   },
   {
     "name": "Ковылкино",
+    "name_alt": "Ковылкино",
     "label": "kovylkino",
     "type": "Город",
     "typeShort": "г",
@@ -6977,6 +7087,7 @@
   },
   {
     "name": "Владикавказ",
+    "name_alt": "Владикавказ",
     "label": "vladikavkaz",
     "type": "Город",
     "typeShort": "г",
@@ -7040,6 +7151,7 @@
   },
   {
     "name": "Дигора",
+    "name_alt": "Дигора",
     "label": "digora",
     "type": "Город",
     "typeShort": "г",
@@ -7103,6 +7215,7 @@
   },
   {
     "name": "Моздок",
+    "name_alt": "Моздок",
     "label": "mozdok",
     "type": "Город",
     "typeShort": "г",
@@ -7166,6 +7279,7 @@
   },
   {
     "name": "Агрыз",
+    "name_alt": "Агрыз",
     "label": "agryz",
     "type": "Город",
     "typeShort": "г",
@@ -7229,6 +7343,7 @@
   },
   {
     "name": "Азнакаево",
+    "name_alt": "Азнакаево",
     "label": "aznakayevo",
     "type": "Город",
     "typeShort": "г",
@@ -7292,6 +7407,7 @@
   },
   {
     "name": "Альметьевск",
+    "name_alt": "Альметьевск",
     "label": "almetyevsk",
     "type": "Город",
     "typeShort": "г",
@@ -7355,6 +7471,7 @@
   },
   {
     "name": "Арск",
+    "name_alt": "Арск",
     "label": "arsk",
     "type": "Город",
     "typeShort": "г",
@@ -7418,6 +7535,7 @@
   },
   {
     "name": "Бавлы",
+    "name_alt": "Бавлы",
     "label": "bavly",
     "type": "Город",
     "typeShort": "г",
@@ -7481,6 +7599,7 @@
   },
   {
     "name": "Болгар",
+    "name_alt": "Болгар",
     "label": "bolgar",
     "type": "Город",
     "typeShort": "г",
@@ -7544,6 +7663,7 @@
   },
   {
     "name": "Бугульма",
+    "name_alt": "Бугульма",
     "label": "bugulma",
     "type": "Город",
     "typeShort": "г",
@@ -7607,6 +7727,7 @@
   },
   {
     "name": "Буинск",
+    "name_alt": "Буинск",
     "label": "buinsk",
     "type": "Город",
     "typeShort": "г",
@@ -7670,6 +7791,7 @@
   },
   {
     "name": "Елабуга",
+    "name_alt": "Елабуга",
     "label": "yelabuga",
     "type": "Город",
     "typeShort": "г",
@@ -7733,6 +7855,7 @@
   },
   {
     "name": "Заинск",
+    "name_alt": "Заинск",
     "label": "zainsk",
     "type": "Город",
     "typeShort": "г",
@@ -7796,6 +7919,7 @@
   },
   {
     "name": "Зеленодольск",
+    "name_alt": "Зеленодольск",
     "label": "zelenodol'sk",
     "type": "Город",
     "typeShort": "г",
@@ -7859,6 +7983,7 @@
   },
   {
     "name": "Иннополис",
+    "name_alt": "Иннополис",
     "label": "innopolis",
     "type": "Город",
     "typeShort": "г",
@@ -7922,6 +8047,7 @@
   },
   {
     "name": "Казань",
+    "name_alt": "Казань",
     "label": "kazan",
     "type": "Город",
     "typeShort": "г",
@@ -7985,6 +8111,7 @@
   },
   {
     "name": "Кукмор",
+    "name_alt": "Кукмор",
     "label": "kukmor",
     "type": "Город",
     "typeShort": "г.",
@@ -8048,6 +8175,7 @@
   },
   {
     "name": "Лаишево",
+    "name_alt": "Лаишево",
     "label": "laishevo",
     "type": "Город",
     "typeShort": "г",
@@ -8111,6 +8239,7 @@
   },
   {
     "name": "Лениногорск",
+    "name_alt": "Лениногорск",
     "label": "leninogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -8174,6 +8303,7 @@
   },
   {
     "name": "Мамадыш",
+    "name_alt": "Мамадыш",
     "label": "mamadysh",
     "type": "Город",
     "typeShort": "г",
@@ -8237,6 +8367,7 @@
   },
   {
     "name": "Чадан",
+    "name_alt": "Чадан",
     "label": "chadan",
     "type": "Город",
     "typeShort": "г",
@@ -8300,6 +8431,7 @@
   },
   {
     "name": "Шагонар",
+    "name_alt": "Шагонар",
     "label": "shagonar",
     "type": "Город",
     "typeShort": "г",
@@ -8363,6 +8495,7 @@
   },
   {
     "name": "Ижевск",
+    "name_alt": "Ижевск",
     "label": "izhevsk",
     "type": "Город",
     "typeShort": "г",
@@ -8427,6 +8560,7 @@
   },
   {
     "name": "Сарапул",
+    "name_alt": "Сарапул",
     "label": "sarapul",
     "type": "Город",
     "typeShort": "г",
@@ -8491,6 +8625,7 @@
   },
   {
     "name": "Воткинск",
+    "name_alt": "Воткинск",
     "label": "votkinsk",
     "type": "Город",
     "typeShort": "г",
@@ -8555,6 +8690,7 @@
   },
   {
     "name": "Глазов",
+    "name_alt": "Глазов",
     "label": "glazov",
     "type": "Город",
     "typeShort": "г.",
@@ -8619,6 +8755,7 @@
   },
   {
     "name": "Можга",
+    "name_alt": "Можга",
     "label": "mozhga",
     "type": "Город",
     "typeShort": "г",
@@ -8683,6 +8820,7 @@
   },
   {
     "name": "Камбарка",
+    "name_alt": "Камбарка",
     "label": "kambarka",
     "type": "Город",
     "typeShort": "г",
@@ -8747,6 +8885,7 @@
   },
   {
     "name": "Абаза",
+    "name_alt": "Абаза",
     "label": "abaza",
     "type": "Город",
     "typeShort": "г",
@@ -8810,6 +8949,7 @@
   },
   {
     "name": "Абакан",
+    "name_alt": "Абакан",
     "label": "abakan",
     "type": "Город",
     "typeShort": "г",
@@ -8873,6 +9013,7 @@
   },
   {
     "name": "Саяногорск",
+    "name_alt": "Саяногорск",
     "label": "sayanogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -8936,6 +9077,7 @@
   },
   {
     "name": "Сорск",
+    "name_alt": "Сорск",
     "label": "sorsk",
     "type": "Город",
     "typeShort": "г",
@@ -8999,6 +9141,7 @@
   },
   {
     "name": "Черногорск",
+    "name_alt": "Черногорск",
     "label": "chernogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -9062,6 +9205,7 @@
   },
   {
     "name": "Чебоксары",
+    "name_alt": "Чебоксары",
     "label": "cheboksary",
     "type": "Город",
     "typeShort": "г",
@@ -9126,6 +9270,7 @@
   },
   {
     "name": "Новочебоксарск",
+    "name_alt": "Новочебоксарск",
     "label": "novocheboksarsk",
     "type": "Город",
     "typeShort": "г",
@@ -9190,6 +9335,7 @@
   },
   {
     "name": "Канаш",
+    "name_alt": "Канаш",
     "label": "kanash",
     "type": "Город",
     "typeShort": "г",
@@ -9254,6 +9400,7 @@
   },
   {
     "name": "Алатырь",
+    "name_alt": "Алатырь",
     "label": "alatyr",
     "type": "Город",
     "typeShort": "г",
@@ -9318,6 +9465,7 @@
   },
   {
     "name": "Шумерля",
+    "name_alt": "Шумерля",
     "label": "shumerlya",
     "type": "Город",
     "typeShort": "г",
@@ -9382,6 +9530,7 @@
   },
   {
     "name": "Цивильск",
+    "name_alt": "Цивильск",
     "label": "tsivilsk",
     "type": "Город",
     "typeShort": "г",
@@ -9446,6 +9595,7 @@
   },
   {
     "name": "Козловка",
+    "name_alt": "Козловка",
     "label": "kozlovka",
     "type": "Город",
     "typeShort": "г",
@@ -9510,6 +9660,7 @@
   },
   {
     "name": "Менделеевск",
+    "name_alt": "Менделеевск",
     "label": "mendeleyevsk",
     "type": "Город",
     "typeShort": "г",
@@ -9573,6 +9724,7 @@
   },
   {
     "name": "Мензелинск",
+    "name_alt": "Мензелинск",
     "label": "menzelinsk",
     "type": "Город",
     "typeShort": "г",
@@ -9636,6 +9788,7 @@
   },
   {
     "name": "Набережные Челны",
+    "name_alt": "Набережные Челны",
     "label": "naberezhnye_chelny",
     "type": "Город",
     "typeShort": "г",
@@ -9699,6 +9852,7 @@
   },
   {
     "name": "Нижнекамск",
+    "name_alt": "Нижнекамск",
     "label": "nizhnekamsk",
     "type": "Город",
     "typeShort": "г",
@@ -9762,6 +9916,7 @@
   },
   {
     "name": "Нурлат",
+    "name_alt": "Нурлат",
     "label": "nurlat",
     "type": "Город",
     "typeShort": "г",
@@ -9825,6 +9980,7 @@
   },
   {
     "name": "Тетюши",
+    "name_alt": "Тетюши",
     "label": "tetyushi",
     "type": "Город",
     "typeShort": "г",
@@ -9888,6 +10044,7 @@
   },
   {
     "name": "Чистополь",
+    "name_alt": "Чистополь",
     "label": "chistopol",
     "type": "Город",
     "typeShort": "г",
@@ -9951,6 +10108,7 @@
   },
   {
     "name": "Ак-Довурак",
+    "name_alt": "Ак-Довурак",
     "label": "ak_dovurak",
     "type": "Город",
     "typeShort": "г",
@@ -10014,6 +10172,7 @@
   },
   {
     "name": "Кызыл",
+    "name_alt": "Кызыл",
     "label": "kyzyl",
     "type": "Город",
     "typeShort": "г",
@@ -10077,6 +10236,7 @@
   },
   {
     "name": "Туран",
+    "name_alt": "Туран",
     "label": "turan",
     "type": "Город",
     "typeShort": "г",
@@ -10140,6 +10300,7 @@
   },
   {
     "name": "Ядрин",
+    "name_alt": "Ядрин",
     "label": "yadrin",
     "type": "Город",
     "typeShort": "г",
@@ -10204,6 +10365,7 @@
   },
   {
     "name": "Мариинский Посад",
+    "name_alt": "Мариинский Посад",
     "label": "mariinsky_posad",
     "type": "Город",
     "typeShort": "г",
@@ -10268,6 +10430,7 @@
   },
   {
     "name": "Алейск",
+    "name_alt": "Алейск",
     "label": "aleysk",
     "type": "Город",
     "typeShort": "г",
@@ -10331,6 +10494,7 @@
   },
   {
     "name": "Барнаул",
+    "name_alt": "Барнаул",
     "label": "barnaul",
     "type": "Город",
     "typeShort": "г",
@@ -10394,6 +10558,7 @@
   },
   {
     "name": "Белокуриха",
+    "name_alt": "Белокуриха",
     "label": "belokurikha",
     "type": "Город",
     "typeShort": "г",
@@ -10457,6 +10622,7 @@
   },
   {
     "name": "Бийск",
+    "name_alt": "Бийск",
     "label": "biysk",
     "type": "Город",
     "typeShort": "г",
@@ -10520,6 +10686,7 @@
   },
   {
     "name": "Горняк",
+    "name_alt": "Горняк",
     "label": "gornyak",
     "type": "Город",
     "typeShort": "г",
@@ -10583,6 +10750,7 @@
   },
   {
     "name": "Заринск",
+    "name_alt": "Заринск",
     "label": "zarinsk",
     "type": "Город",
     "typeShort": "г",
@@ -10646,6 +10814,7 @@
   },
   {
     "name": "Змеиногорск",
+    "name_alt": "Змеиногорск",
     "label": "zmeinogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -10709,6 +10878,7 @@
   },
   {
     "name": "Камень-на-Оби",
+    "name_alt": "Камень-на-Оби",
     "label": "kamen_na_obi",
     "type": "Город",
     "typeShort": "г.",
@@ -10772,6 +10942,7 @@
   },
   {
     "name": "Новоалтайск",
+    "name_alt": "Новоалтайск",
     "label": "novoaltaysk",
     "type": "Город",
     "typeShort": "г",
@@ -10835,6 +11006,7 @@
   },
   {
     "name": "Рубцовск",
+    "name_alt": "Рубцовск",
     "label": "rubtsovsk",
     "type": "Город",
     "typeShort": "г",
@@ -10898,6 +11070,7 @@
   },
   {
     "name": "Славгород",
+    "name_alt": "Славгород",
     "label": "slavgorod",
     "type": "Город",
     "typeShort": "г",
@@ -10961,6 +11134,7 @@
   },
   {
     "name": "Яровое",
+    "name_alt": "Яровое",
     "label": "yarovoye",
     "type": "Город",
     "typeShort": "г",
@@ -11024,6 +11198,7 @@
   },
   {
     "name": "Краснодар",
+    "name_alt": "Краснодар",
     "label": "krasnodar",
     "type": "Город",
     "typeShort": "г",
@@ -11087,6 +11262,7 @@
   },
   {
     "name": "Сочи",
+    "name_alt": "Сочи",
     "label": "sochi",
     "type": "Город",
     "typeShort": "г",
@@ -11150,6 +11326,7 @@
   },
   {
     "name": "Новороссийск",
+    "name_alt": "Новороссийск",
     "label": "novorossiysk",
     "type": "Город",
     "typeShort": "г",
@@ -11213,6 +11390,7 @@
   },
   {
     "name": "Армавир",
+    "name_alt": "Армавир",
     "label": "armavir",
     "type": "Город",
     "typeShort": "г",
@@ -11276,6 +11454,7 @@
   },
   {
     "name": "Ейск",
+    "name_alt": "Ейск",
     "label": "yeysk",
     "type": "Город",
     "typeShort": "г",
@@ -11339,6 +11518,7 @@
   },
   {
     "name": "Кропоткин",
+    "name_alt": "Кропоткин",
     "label": "kropotkin",
     "type": "Город",
     "typeShort": "г.",
@@ -11402,6 +11582,7 @@
   },
   {
     "name": "Славянск-на-Кубани",
+    "name_alt": "Славянск-на-Кубани",
     "label": "slavyansk_na_kubani",
     "type": "Город",
     "typeShort": "г",
@@ -11465,6 +11646,7 @@
   },
   {
     "name": "Туапсе",
+    "name_alt": "Туапсе",
     "label": "tuapse",
     "type": "Город",
     "typeShort": "г",
@@ -11528,6 +11710,7 @@
   },
   {
     "name": "Лабинск",
+    "name_alt": "Лабинск",
     "label": "labinsk",
     "type": "Город",
     "typeShort": "г",
@@ -11591,6 +11774,7 @@
   },
   {
     "name": "Анапа",
+    "name_alt": "Анапа",
     "label": "anapa",
     "type": "Город",
     "typeShort": "г",
@@ -11654,6 +11838,7 @@
   },
   {
     "name": "Тихорецк",
+    "name_alt": "Тихорецк",
     "label": "tikhoretsk",
     "type": "Город",
     "typeShort": "г",
@@ -11717,6 +11902,7 @@
   },
   {
     "name": "Крымск",
+    "name_alt": "Крымск",
     "label": "krymsk",
     "type": "Город",
     "typeShort": "г",
@@ -11780,6 +11966,7 @@
   },
   {
     "name": "Геленджик",
+    "name_alt": "Геленджик",
     "label": "gelendzhik",
     "type": "Город",
     "typeShort": "г",
@@ -11843,6 +12030,7 @@
   },
   {
     "name": "Тимашёвск",
+    "name_alt": "Тимашевск",
     "label": "timashevsk",
     "type": "Город",
     "typeShort": "г",
@@ -11906,6 +12094,7 @@
   },
   {
     "name": "Белореченск",
+    "name_alt": "Белореченск",
     "label": "belorechensk",
     "type": "Город",
     "typeShort": "г",
@@ -11969,6 +12158,7 @@
   },
   {
     "name": "Курганинск",
+    "name_alt": "Курганинск",
     "label": "kurganinsk",
     "type": "Город",
     "typeShort": "г",
@@ -12032,6 +12222,7 @@
   },
   {
     "name": "Усть-Лабинск",
+    "name_alt": "Усть-Лабинск",
     "label": "ust_labinsk",
     "type": "Город",
     "typeShort": "г",
@@ -12095,6 +12286,7 @@
   },
   {
     "name": "Кореновск",
+    "name_alt": "Кореновск",
     "label": "korenovsk",
     "type": "Город",
     "typeShort": "г",
@@ -12158,6 +12350,7 @@
   },
   {
     "name": "Апшеронск",
+    "name_alt": "Апшеронск",
     "label": "apsheronsk",
     "type": "Город",
     "typeShort": "г",
@@ -12221,6 +12414,7 @@
   },
   {
     "name": "Темрюк",
+    "name_alt": "Темрюк",
     "label": "temryuk",
     "type": "Город",
     "typeShort": "г",
@@ -12284,6 +12478,7 @@
   },
   {
     "name": "Абинск",
+    "name_alt": "Абинск",
     "label": "abinsk",
     "type": "Город",
     "typeShort": "г",
@@ -12347,6 +12542,7 @@
   },
   {
     "name": "Гулькевичи",
+    "name_alt": "Гулькевичи",
     "label": "gulkevichi",
     "type": "Город",
     "typeShort": "г",
@@ -12410,6 +12606,7 @@
   },
   {
     "name": "Новокубанск",
+    "name_alt": "Новокубанск",
     "label": "novokubansk",
     "type": "Город",
     "typeShort": "г",
@@ -12473,6 +12670,7 @@
   },
   {
     "name": "Приморско-Ахтарск",
+    "name_alt": "Приморско-Ахтарск",
     "label": "primorsko_akhtarsk",
     "type": "Город",
     "typeShort": "г",
@@ -12536,6 +12734,7 @@
   },
   {
     "name": "Горячий Ключ",
+    "name_alt": "Горячий Ключ",
     "label": "goryachiy_klyuch",
     "type": "Город",
     "typeShort": "г",
@@ -12599,6 +12798,7 @@
   },
   {
     "name": "Хадыженск",
+    "name_alt": "Хадыженск",
     "label": "khadyzhensk",
     "type": "Город",
     "typeShort": "г",
@@ -12662,6 +12862,7 @@
   },
   {
     "name": "Артёмовск",
+    "name_alt": "Артемовск",
     "label": "artemovsk",
     "type": "Город",
     "typeShort": "г",
@@ -12725,6 +12926,7 @@
   },
   {
     "name": "Ачинск",
+    "name_alt": "Ачинск",
     "label": "achinsk",
     "type": "Город",
     "typeShort": "г",
@@ -12788,6 +12990,7 @@
   },
   {
     "name": "Боготол",
+    "name_alt": "Боготол",
     "label": "bogotol",
     "type": "Город",
     "typeShort": "г",
@@ -12851,6 +13054,7 @@
   },
   {
     "name": "Бородино",
+    "name_alt": "Бородино",
     "label": "borodino",
     "type": "Город",
     "typeShort": "г",
@@ -12914,6 +13118,7 @@
   },
   {
     "name": "Дивногорск",
+    "name_alt": "Дивногорск",
     "label": "divnogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -12977,6 +13182,7 @@
   },
   {
     "name": "Дудинка",
+    "name_alt": "Дудинка",
     "label": "dudinka",
     "type": "Город",
     "typeShort": "г",
@@ -13040,6 +13246,7 @@
   },
   {
     "name": "Енисейск",
+    "name_alt": "Енисейск",
     "label": "yeniseysk",
     "type": "Город",
     "typeShort": "г",
@@ -13103,6 +13310,7 @@
   },
   {
     "name": "Железногорск",
+    "name_alt": "Железногорск",
     "label": "zheleznogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -13166,7 +13374,8 @@
   },
   {
     "name": "Заозёрный",
-    "label": "zaozyorny",
+    "name_alt": "Заозерный",
+    "label": "zaozerny",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -13229,6 +13438,7 @@
   },
   {
     "name": "Зеленогорск",
+    "name_alt": "Зеленогорск",
     "label": "zelenogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -13292,6 +13502,7 @@
   },
   {
     "name": "Игарка",
+    "name_alt": "Игарка",
     "label": "igarka",
     "type": "Город",
     "typeShort": "г",
@@ -13355,6 +13566,7 @@
   },
   {
     "name": "Иланский",
+    "name_alt": "Иланский",
     "label": "ilansky",
     "type": "Город",
     "typeShort": "г",
@@ -13418,6 +13630,7 @@
   },
   {
     "name": "Канск",
+    "name_alt": "Канск",
     "label": "kansk",
     "type": "Город",
     "typeShort": "г",
@@ -13481,6 +13694,7 @@
   },
   {
     "name": "Кодинск",
+    "name_alt": "Кодинск",
     "label": "kodinsk",
     "type": "Город",
     "typeShort": "г",
@@ -13544,6 +13758,7 @@
   },
   {
     "name": "Красноярск",
+    "name_alt": "Красноярск",
     "label": "krasnoyarsk",
     "type": "Город",
     "typeShort": "г",
@@ -13607,6 +13822,7 @@
   },
   {
     "name": "Лесосибирск",
+    "name_alt": "Лесосибирск",
     "label": "lesosibirsk",
     "type": "Город",
     "typeShort": "г",
@@ -13670,6 +13886,7 @@
   },
   {
     "name": "Минусинск",
+    "name_alt": "Минусинск",
     "label": "minusinsk",
     "type": "Город",
     "typeShort": "г",
@@ -13733,6 +13950,7 @@
   },
   {
     "name": "Назарово",
+    "name_alt": "Назарово",
     "label": "nazarovo",
     "type": "Город",
     "typeShort": "г",
@@ -13796,6 +14014,7 @@
   },
   {
     "name": "Норильск",
+    "name_alt": "Норильск",
     "label": "norilsk",
     "type": "Город",
     "typeShort": "г",
@@ -13859,6 +14078,7 @@
   },
   {
     "name": "Сосновоборск",
+    "name_alt": "Сосновоборск",
     "label": "sosnovoborsk",
     "type": "Город",
     "typeShort": "г",
@@ -13922,6 +14142,7 @@
   },
   {
     "name": "Находка",
+    "name_alt": "Находка",
     "label": "nakhodka",
     "type": "Город",
     "typeShort": "г",
@@ -13985,6 +14206,7 @@
   },
   {
     "name": "Партизанск",
+    "name_alt": "Партизанск",
     "label": "partisansk",
     "type": "Город",
     "typeShort": "г",
@@ -14048,6 +14270,7 @@
   },
   {
     "name": "Спасск-Дальний",
+    "name_alt": "Спасск-Дальний",
     "label": "spassk_dal'nij",
     "type": "Город",
     "typeShort": "г",
@@ -14111,6 +14334,7 @@
   },
   {
     "name": "Уссурийск",
+    "name_alt": "Уссурийск",
     "label": "ussurijsk",
     "type": "Город",
     "typeShort": "г",
@@ -14174,6 +14398,7 @@
   },
   {
     "name": "Фокино",
+    "name_alt": "Фокино",
     "label": "fokino",
     "type": "Город",
     "typeShort": "г",
@@ -14237,6 +14462,7 @@
   },
   {
     "name": "Ставрополь",
+    "name_alt": "Ставрополь",
     "label": "stavropol",
     "type": "Город",
     "typeShort": "г",
@@ -14301,6 +14527,7 @@
   },
   {
     "name": "Пятигорск",
+    "name_alt": "Пятигорск",
     "label": "pyatigorsk",
     "type": "Город",
     "typeShort": "г",
@@ -14364,6 +14591,7 @@
   },
   {
     "name": "Кисловодск",
+    "name_alt": "Кисловодск",
     "label": "kislovodsk",
     "type": "Город",
     "typeShort": "г",
@@ -14427,6 +14655,7 @@
   },
   {
     "name": "Невинномысск",
+    "name_alt": "Невинномысск",
     "label": "nevinnomyssk",
     "type": "Город",
     "typeShort": "г",
@@ -14490,6 +14719,7 @@
   },
   {
     "name": "Ессентуки",
+    "name_alt": "Ессентуки",
     "label": "yessentuki",
     "type": "Город",
     "typeShort": "г",
@@ -14553,6 +14783,7 @@
   },
   {
     "name": "Минеральные Воды",
+    "name_alt": "Минеральные Воды",
     "label": "mineralnye_vody",
     "type": "Город",
     "typeShort": "г",
@@ -14616,6 +14847,7 @@
   },
   {
     "name": "Михайловск",
+    "name_alt": "Михайловск",
     "label": "mikhaylovsk",
     "type": "Город",
     "typeShort": "г",
@@ -14679,6 +14911,7 @@
   },
   {
     "name": "Георгиевск",
+    "name_alt": "Георгиевск",
     "label": "georgiyevsk",
     "type": "Город",
     "typeShort": "г",
@@ -14742,7 +14975,8 @@
   },
   {
     "name": "Будённовск",
-    "label": "budyonnovsk",
+    "name_alt": "Буденновск",
+    "label": "budennovsk",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -14805,6 +15039,7 @@
   },
   {
     "name": "Изобильный",
+    "name_alt": "Изобильный",
     "label": "izobilnyy",
     "type": "Город",
     "typeShort": "г",
@@ -14868,6 +15103,7 @@
   },
   {
     "name": "Светлоград",
+    "name_alt": "Светлоград",
     "label": "svetlograd",
     "type": "Город",
     "typeShort": "г",
@@ -14931,6 +15167,7 @@
   },
   {
     "name": "Зеленокумск",
+    "name_alt": "Зеленокумск",
     "label": "zelenokumsk",
     "type": "Город",
     "typeShort": "г",
@@ -14994,6 +15231,7 @@
   },
   {
     "name": "Благодарный",
+    "name_alt": "Благодарный",
     "label": "blagodarnoyy",
     "type": "Город",
     "typeShort": "г",
@@ -15057,6 +15295,7 @@
   },
   {
     "name": "Нефтекумск",
+    "name_alt": "Нефтекумск",
     "label": "neftekumsk",
     "type": "Город",
     "typeShort": "г",
@@ -15120,6 +15359,7 @@
   },
   {
     "name": "Новоалександровск",
+    "name_alt": "Новоалександровск",
     "label": "novoaleksandrovsk",
     "type": "Город",
     "typeShort": "г",
@@ -15183,6 +15423,7 @@
   },
   {
     "name": "Ужур",
+    "name_alt": "Ужур",
     "label": "uzhur",
     "type": "Город",
     "typeShort": "г",
@@ -15246,6 +15487,7 @@
   },
   {
     "name": "Уяр",
+    "name_alt": "Уяр",
     "label": "uyar",
     "type": "Город",
     "typeShort": "г",
@@ -15309,6 +15551,7 @@
   },
   {
     "name": "Шарыпово",
+    "name_alt": "Шарыпово",
     "label": "sharypovo",
     "type": "Город",
     "typeShort": "г",
@@ -15372,6 +15615,7 @@
   },
   {
     "name": "Владивосток",
+    "name_alt": "Владивосток",
     "label": "vladivostok",
     "type": "Город",
     "typeShort": "г",
@@ -15435,6 +15679,7 @@
   },
   {
     "name": "Арсеньев",
+    "name_alt": "Арсеньев",
     "label": "arseniev",
     "type": "Город",
     "typeShort": "г",
@@ -15498,7 +15743,8 @@
   },
   {
     "name": "Артём",
-    "label": "artyom",
+    "name_alt": "Артем",
+    "label": "artem",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -15561,6 +15807,7 @@
   },
   {
     "name": "Большой Камень",
+    "name_alt": "Большой Камень",
     "label": "bolshoy_kamen",
     "type": "Город",
     "typeShort": "г",
@@ -15624,6 +15871,7 @@
   },
   {
     "name": "Дальнегорск",
+    "name_alt": "Дальнегорск",
     "label": "dalnegorsk",
     "type": "Город",
     "typeShort": "г",
@@ -15687,6 +15935,7 @@
   },
   {
     "name": "Дальнереченск",
+    "name_alt": "Дальнереченск",
     "label": "dalneretschensk",
     "type": "Город",
     "typeShort": "г",
@@ -15750,6 +15999,7 @@
   },
   {
     "name": "Лесозаводск",
+    "name_alt": "Лесозаводск",
     "label": "lesozavodsk",
     "type": "Город",
     "typeShort": "г",
@@ -15813,6 +16063,7 @@
   },
   {
     "name": "Новопавловск",
+    "name_alt": "Новопавловск",
     "label": "novopavlovsk",
     "type": "Город",
     "typeShort": "г",
@@ -15876,6 +16127,7 @@
   },
   {
     "name": "Ипатово",
+    "name_alt": "Ипатово",
     "label": "ipatovo",
     "type": "Город",
     "typeShort": "г",
@@ -15939,6 +16191,7 @@
   },
   {
     "name": "Железноводск",
+    "name_alt": "Железноводск",
     "label": "zheleznovodsk",
     "type": "Город",
     "typeShort": "г",
@@ -16002,6 +16255,7 @@
   },
   {
     "name": "Лермонтов",
+    "name_alt": "Лермонтов",
     "label": "lermontov",
     "type": "Город",
     "typeShort": "г",
@@ -16065,6 +16319,7 @@
   },
   {
     "name": "Хабаровск",
+    "name_alt": "Хабаровск",
     "label": "khabarovsk",
     "type": "Город",
     "typeShort": "г",
@@ -16128,6 +16383,7 @@
   },
   {
     "name": "Амурск",
+    "name_alt": "Амурск",
     "label": "amursk",
     "type": "Город",
     "typeShort": "г",
@@ -16191,6 +16447,7 @@
   },
   {
     "name": "Бикин",
+    "name_alt": "Бикин",
     "label": "bikin",
     "type": "Город",
     "typeShort": "г",
@@ -16254,6 +16511,7 @@
   },
   {
     "name": "Вяземский",
+    "name_alt": "Вяземский",
     "label": "vyazemskiy",
     "type": "Город",
     "typeShort": "г",
@@ -16317,6 +16575,7 @@
   },
   {
     "name": "Комсомольск-на-Амуре",
+    "name_alt": "Комсомольск-на-Амуре",
     "label": "komsomolsk_on_amur",
     "type": "Город",
     "typeShort": "г",
@@ -16380,6 +16639,7 @@
   },
   {
     "name": "Николаевск-на-Амуре",
+    "name_alt": "Николаевск-на-Амуре",
     "label": "nikolayevsk_on_amur",
     "type": "Город",
     "typeShort": "г",
@@ -16443,6 +16703,7 @@
   },
   {
     "name": "Советская Гавань",
+    "name_alt": "Советская Гавань",
     "label": "sovetskaya_gavan'",
     "type": "Город",
     "typeShort": "г",
@@ -16506,6 +16767,7 @@
   },
   {
     "name": "Белогорск",
+    "name_alt": "Белогорск",
     "label": "belogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -16569,6 +16831,7 @@
   },
   {
     "name": "Благовещенск",
+    "name_alt": "Благовещенск",
     "label": "blagoveshchensk",
     "type": "Город",
     "typeShort": "г",
@@ -16632,6 +16895,7 @@
   },
   {
     "name": "Завитинск",
+    "name_alt": "Завитинск",
     "label": "zavitinsk",
     "type": "Город",
     "typeShort": "г",
@@ -16695,6 +16959,7 @@
   },
   {
     "name": "Зея",
+    "name_alt": "Зея",
     "label": "zeya",
     "type": "Город",
     "typeShort": "г",
@@ -16758,6 +17023,7 @@
   },
   {
     "name": "Райчихинск",
+    "name_alt": "Райчихинск",
     "label": "raychikhinsk",
     "type": "Город",
     "typeShort": "г",
@@ -16821,6 +17087,7 @@
   },
   {
     "name": "Свободный",
+    "name_alt": "Свободный",
     "label": "svobodny",
     "type": "Город",
     "typeShort": "г",
@@ -16884,6 +17151,7 @@
   },
   {
     "name": "Сковородино",
+    "name_alt": "Сковородино",
     "label": "skovorodino",
     "type": "Город",
     "typeShort": "г",
@@ -16947,6 +17215,7 @@
   },
   {
     "name": "Тында",
+    "name_alt": "Тында",
     "label": "tynda",
     "type": "Город",
     "typeShort": "г",
@@ -17010,6 +17279,7 @@
   },
   {
     "name": "Циолковский",
+    "name_alt": "Циолковский",
     "label": "tsiolkovsky",
     "type": "Город",
     "typeShort": "г.",
@@ -17073,6 +17343,7 @@
   },
   {
     "name": "Шимановск",
+    "name_alt": "Шимановск",
     "label": "shimanovsk",
     "type": "Город",
     "typeShort": "г",
@@ -17136,6 +17407,7 @@
   },
   {
     "name": "Архангельск",
+    "name_alt": "Архангельск",
     "label": "arkhangelsk",
     "type": "Город",
     "typeShort": "г",
@@ -17199,6 +17471,7 @@
   },
   {
     "name": "Северодвинск",
+    "name_alt": "Северодвинск",
     "label": "severodvinsk",
     "type": "Город",
     "typeShort": "г",
@@ -17262,6 +17535,7 @@
   },
   {
     "name": "Котлас",
+    "name_alt": "Котлас",
     "label": "kotlas",
     "type": "Город",
     "typeShort": "г",
@@ -17325,6 +17599,7 @@
   },
   {
     "name": "Новодвинск",
+    "name_alt": "Новодвинск",
     "label": "novodvinsk",
     "type": "Город",
     "typeShort": "г",
@@ -17388,6 +17663,7 @@
   },
   {
     "name": "Коряжма",
+    "name_alt": "Коряжма",
     "label": "koryazhma",
     "type": "Город",
     "typeShort": "г",
@@ -17451,6 +17727,7 @@
   },
   {
     "name": "Вельск",
+    "name_alt": "Вельск",
     "label": "vel'sk",
     "type": "Город",
     "typeShort": "г",
@@ -17514,6 +17791,7 @@
   },
   {
     "name": "Няндома",
+    "name_alt": "Няндома",
     "label": "nyandoma",
     "type": "Город",
     "typeShort": "г",
@@ -17577,6 +17855,7 @@
   },
   {
     "name": "Онега",
+    "name_alt": "Онега",
     "label": "onega",
     "type": "Город",
     "typeShort": "г.",
@@ -17640,6 +17919,7 @@
   },
   {
     "name": "Каргополь",
+    "name_alt": "Каргополь",
     "label": "kargopol'",
     "type": "Город",
     "typeShort": "г",
@@ -17703,6 +17983,7 @@
   },
   {
     "name": "Шенкурск",
+    "name_alt": "Шенкурск",
     "label": "shenkursk",
     "type": "Город",
     "typeShort": "г",
@@ -17766,6 +18047,7 @@
   },
   {
     "name": "Мезень",
+    "name_alt": "Мезень",
     "label": "mezen'",
     "type": "Город",
     "typeShort": "г",
@@ -17829,6 +18111,7 @@
   },
   {
     "name": "Мирный",
+    "name_alt": "Мирный",
     "label": "mirnyi_arhangelskaya",
     "type": "Город",
     "typeShort": "г",
@@ -17892,6 +18175,7 @@
   },
   {
     "name": "Сольвычегодск",
+    "name_alt": "Сольвычегодск",
     "label": "sol'vychegodsk",
     "type": "Город",
     "typeShort": "г",
@@ -17955,6 +18239,7 @@
   },
   {
     "name": "Астрахань",
+    "name_alt": "Астрахань",
     "label": "astrakhan",
     "type": "Город",
     "typeShort": "г",
@@ -18018,6 +18303,7 @@
   },
   {
     "name": "Ахтубинск",
+    "name_alt": "Ахтубинск",
     "label": "akhtubinsk",
     "type": "Город",
     "typeShort": "г",
@@ -18081,6 +18367,7 @@
   },
   {
     "name": "Знаменск",
+    "name_alt": "Знаменск",
     "label": "znamensk",
     "type": "Город",
     "typeShort": "г",
@@ -18144,6 +18431,7 @@
   },
   {
     "name": "Харабали",
+    "name_alt": "Харабали",
     "label": "kharabali",
     "type": "Город",
     "typeShort": "г",
@@ -18207,6 +18495,7 @@
   },
   {
     "name": "Камызяк",
+    "name_alt": "Камызяк",
     "label": "kamyzyak",
     "type": "Город",
     "typeShort": "г",
@@ -18270,6 +18559,7 @@
   },
   {
     "name": "Нариманов",
+    "name_alt": "Нариманов",
     "label": "narimanov",
     "type": "Город",
     "typeShort": "г",
@@ -18333,6 +18623,7 @@
   },
   {
     "name": "Белгород",
+    "name_alt": "Белгород",
     "label": "belgorod",
     "type": "Город",
     "typeShort": "г",
@@ -18396,6 +18687,7 @@
   },
   {
     "name": "Старый Оскол",
+    "name_alt": "Старый Оскол",
     "label": "stary_oskol",
     "type": "Город",
     "typeShort": "г",
@@ -18459,6 +18751,7 @@
   },
   {
     "name": "Губкин",
+    "name_alt": "Губкин",
     "label": "gubkin",
     "type": "Город",
     "typeShort": "г",
@@ -18522,6 +18815,7 @@
   },
   {
     "name": "Шебекино",
+    "name_alt": "Шебекино",
     "label": "shebekino",
     "type": "Город",
     "typeShort": "г",
@@ -18585,6 +18879,7 @@
   },
   {
     "name": "Алексеевка",
+    "name_alt": "Алексеевка",
     "label": "alexeyevka",
     "type": "Город",
     "typeShort": "г",
@@ -18648,6 +18943,7 @@
   },
   {
     "name": "Валуйки",
+    "name_alt": "Валуйки",
     "label": "valuyki",
     "type": "Город",
     "typeShort": "г",
@@ -18711,6 +19007,7 @@
   },
   {
     "name": "Строитель",
+    "name_alt": "Строитель",
     "label": "stroitel",
     "type": "Город",
     "typeShort": "г",
@@ -18774,6 +19071,7 @@
   },
   {
     "name": "Новый Оскол",
+    "name_alt": "Новый Оскол",
     "label": "novyy_oskol",
     "type": "Город",
     "typeShort": "г",
@@ -18837,6 +19135,7 @@
   },
   {
     "name": "Бирюч",
+    "name_alt": "Бирюч",
     "label": "biryuch",
     "type": "Город",
     "typeShort": "г",
@@ -18900,6 +19199,7 @@
   },
   {
     "name": "Грайворон",
+    "name_alt": "Грайворон",
     "label": "grayvoron",
     "type": "Город",
     "typeShort": "г",
@@ -18963,6 +19263,7 @@
   },
   {
     "name": "Почеп",
+    "name_alt": "Почеп",
     "label": "pochep",
     "type": "Город",
     "typeShort": "г",
@@ -19026,6 +19327,7 @@
   },
   {
     "name": "Трубчевск",
+    "name_alt": "Трубчевск",
     "label": "trubchevsk",
     "type": "Город",
     "typeShort": "г",
@@ -19089,6 +19391,7 @@
   },
   {
     "name": "Фокино",
+    "name_alt": "Фокино",
     "label": "fokino_bryanskaya",
     "type": "Город",
     "typeShort": "г",
@@ -19152,6 +19455,7 @@
   },
   {
     "name": "Сураж",
+    "name_alt": "Сураж",
     "label": "surazh",
     "type": "Город",
     "typeShort": "г",
@@ -19215,6 +19519,7 @@
   },
   {
     "name": "Мглин",
+    "name_alt": "Мглин",
     "label": "mglin",
     "type": "Город",
     "typeShort": "г",
@@ -19278,6 +19583,7 @@
   },
   {
     "name": "Севск",
+    "name_alt": "Севск",
     "label": "sevsk",
     "type": "Город",
     "typeShort": "г",
@@ -19341,6 +19647,7 @@
   },
   {
     "name": "Злынка",
+    "name_alt": "Злынка",
     "label": "zlynka",
     "type": "Город",
     "typeShort": "г",
@@ -19404,6 +19711,7 @@
   },
   {
     "name": "Владимир",
+    "name_alt": "Владимир",
     "label": "vladimir",
     "type": "Город",
     "typeShort": "г",
@@ -19467,6 +19775,7 @@
   },
   {
     "name": "Ковров",
+    "name_alt": "Ковров",
     "label": "kovrov",
     "type": "Город",
     "typeShort": "г",
@@ -19530,6 +19839,7 @@
   },
   {
     "name": "Муром",
+    "name_alt": "Муром",
     "label": "murom",
     "type": "Город",
     "typeShort": "г",
@@ -19593,6 +19903,7 @@
   },
   {
     "name": "Александров",
+    "name_alt": "Александров",
     "label": "alexandrov",
     "type": "Город",
     "typeShort": "г",
@@ -19656,6 +19967,7 @@
   },
   {
     "name": "Гусь-Хрустальный",
+    "name_alt": "Гусь-Хрустальный",
     "label": "gus_khrustalny",
     "type": "Город",
     "typeShort": "г",
@@ -19719,6 +20031,7 @@
   },
   {
     "name": "Кольчугино",
+    "name_alt": "Кольчугино",
     "label": "kolchugino",
     "type": "Город",
     "typeShort": "г",
@@ -19782,6 +20095,7 @@
   },
   {
     "name": "Вязники",
+    "name_alt": "Вязники",
     "label": "vyazniki",
     "type": "Город",
     "typeShort": "г",
@@ -19845,6 +20159,7 @@
   },
   {
     "name": "Киржач",
+    "name_alt": "Киржач",
     "label": "kirzhach",
     "type": "Город",
     "typeShort": "г",
@@ -19908,6 +20223,7 @@
   },
   {
     "name": "Юрьев-Польский",
+    "name_alt": "Юрьев-Польский",
     "label": "yuryev_polsky",
     "type": "Город",
     "typeShort": "г",
@@ -19971,6 +20287,7 @@
   },
   {
     "name": "Собинка",
+    "name_alt": "Собинка",
     "label": "sobinka",
     "type": "Город",
     "typeShort": "г",
@@ -20034,6 +20351,7 @@
   },
   {
     "name": "Радужный",
+    "name_alt": "Радужный",
     "label": "raduzhny_vladimirskaya",
     "type": "Город",
     "typeShort": "г",
@@ -20097,6 +20415,7 @@
   },
   {
     "name": "Покров",
+    "name_alt": "Покров",
     "label": "pokrov",
     "type": "Город",
     "typeShort": "г",
@@ -20160,6 +20479,7 @@
   },
   {
     "name": "Лакинск",
+    "name_alt": "Лакинск",
     "label": "lakinsk",
     "type": "Город",
     "typeShort": "г",
@@ -20223,6 +20543,7 @@
   },
   {
     "name": "Короча",
+    "name_alt": "Короча",
     "label": "korocha",
     "type": "Город",
     "typeShort": "г",
@@ -20286,6 +20607,7 @@
   },
   {
     "name": "Брянск",
+    "name_alt": "Брянск",
     "label": "bryansk",
     "type": "Город",
     "typeShort": "г",
@@ -20349,6 +20671,7 @@
   },
   {
     "name": "Клинцы",
+    "name_alt": "Клинцы",
     "label": "klintsy",
     "type": "Город",
     "typeShort": "г",
@@ -20412,6 +20735,7 @@
   },
   {
     "name": "Новозыбков",
+    "name_alt": "Новозыбков",
     "label": "novozybkov",
     "type": "Город",
     "typeShort": "г",
@@ -20475,6 +20799,7 @@
   },
   {
     "name": "Дятьково",
+    "name_alt": "Дятьково",
     "label": "dyatkovo",
     "type": "Город",
     "typeShort": "г",
@@ -20538,6 +20863,7 @@
   },
   {
     "name": "Унеча",
+    "name_alt": "Унеча",
     "label": "unecha",
     "type": "Город",
     "typeShort": "г",
@@ -20601,6 +20927,7 @@
   },
   {
     "name": "Карачев",
+    "name_alt": "Карачев",
     "label": "karachev",
     "type": "Город",
     "typeShort": "г",
@@ -20664,6 +20991,7 @@
   },
   {
     "name": "Стародуб",
+    "name_alt": "Стародуб",
     "label": "starodub",
     "type": "Город",
     "typeShort": "г",
@@ -20727,6 +21055,7 @@
   },
   {
     "name": "Жуковка",
+    "name_alt": "Жуковка",
     "label": "zhukovka",
     "type": "Город",
     "typeShort": "г",
@@ -20790,6 +21119,7 @@
   },
   {
     "name": "Сельцо",
+    "name_alt": "Сельцо",
     "label": "seltso",
     "type": "Город",
     "typeShort": "г",
@@ -20853,6 +21183,7 @@
   },
   {
     "name": "Меленки",
+    "name_alt": "Меленки",
     "label": "melenki",
     "type": "Город",
     "typeShort": "г",
@@ -20916,6 +21247,7 @@
   },
   {
     "name": "Карабаново",
+    "name_alt": "Карабаново",
     "label": "karabanovo",
     "type": "Город",
     "typeShort": "г",
@@ -20979,6 +21311,7 @@
   },
   {
     "name": "Петушки",
+    "name_alt": "Петушки",
     "label": "petushki",
     "type": "Город",
     "typeShort": "г",
@@ -21042,6 +21375,7 @@
   },
   {
     "name": "Струнино",
+    "name_alt": "Струнино",
     "label": "strunino",
     "type": "Город",
     "typeShort": "г",
@@ -21105,6 +21439,7 @@
   },
   {
     "name": "Гороховец",
+    "name_alt": "Гороховец",
     "label": "gorokhovets",
     "type": "Город",
     "typeShort": "г",
@@ -21168,6 +21503,7 @@
   },
   {
     "name": "Камешково",
+    "name_alt": "Камешково",
     "label": "kameshkovo",
     "type": "Город",
     "typeShort": "г",
@@ -21231,6 +21567,7 @@
   },
   {
     "name": "Судогда",
+    "name_alt": "Судогда",
     "label": "sudogda",
     "type": "Город",
     "typeShort": "г",
@@ -21294,6 +21631,7 @@
   },
   {
     "name": "Суздаль",
+    "name_alt": "Суздаль",
     "label": "suzdal",
     "type": "Город",
     "typeShort": "г",
@@ -21357,6 +21695,7 @@
   },
   {
     "name": "Костерёво",
+    "name_alt": "Костерево",
     "label": "kosterevo",
     "type": "Город",
     "typeShort": "г",
@@ -21420,6 +21759,7 @@
   },
   {
     "name": "Курлово",
+    "name_alt": "Курлово",
     "label": "kurlovo",
     "type": "Город",
     "typeShort": "г",
@@ -21483,6 +21823,7 @@
   },
   {
     "name": "Волгоград",
+    "name_alt": "Волгоград",
     "label": "volgograd",
     "type": "Город",
     "typeShort": "г",
@@ -21546,6 +21887,7 @@
   },
   {
     "name": "Волжский",
+    "name_alt": "Волжский",
     "label": "volzhsky",
     "type": "Город",
     "typeShort": "г",
@@ -21609,6 +21951,7 @@
   },
   {
     "name": "Дубовка",
+    "name_alt": "Дубовка",
     "label": "dubovka",
     "type": "Город",
     "typeShort": "г",
@@ -21672,6 +22015,7 @@
   },
   {
     "name": "Жирновск",
+    "name_alt": "Жирновск",
     "label": "zhirnovsk",
     "type": "Город",
     "typeShort": "г",
@@ -21735,6 +22079,7 @@
   },
   {
     "name": "Калач-на-Дону",
+    "name_alt": "Калач-на-Дону",
     "label": "kalach_na_donu",
     "type": "Город",
     "typeShort": "г",
@@ -21798,6 +22143,7 @@
   },
   {
     "name": "Камышин",
+    "name_alt": "Камышин",
     "label": "kamyshin",
     "type": "Город",
     "typeShort": "г",
@@ -21861,6 +22207,7 @@
   },
   {
     "name": "Краснослободск",
+    "name_alt": "Краснослободск",
     "label": "krasnoslobodsk",
     "type": "Город",
     "typeShort": "г",
@@ -21924,6 +22271,7 @@
   },
   {
     "name": "Котельниково",
+    "name_alt": "Котельниково",
     "label": "kotelnikovo",
     "type": "Город",
     "typeShort": "г",
@@ -21987,6 +22335,7 @@
   },
   {
     "name": "Котово",
+    "name_alt": "Котово",
     "label": "kotovo",
     "type": "Город",
     "typeShort": "г",
@@ -22050,6 +22399,7 @@
   },
   {
     "name": "Ленинск",
+    "name_alt": "Ленинск",
     "label": "leninsk",
     "type": "Город",
     "typeShort": "г",
@@ -22113,6 +22463,7 @@
   },
   {
     "name": "Михайловка",
+    "name_alt": "Михайловка",
     "label": "mikhaylovka",
     "type": "Город",
     "typeShort": "г",
@@ -22176,6 +22527,7 @@
   },
   {
     "name": "Николаевск",
+    "name_alt": "Николаевск",
     "label": "nikolayevsk",
     "type": "Город",
     "typeShort": "г",
@@ -22239,6 +22591,7 @@
   },
   {
     "name": "Новоаннинский",
+    "name_alt": "Новоаннинский",
     "label": "novoanninskiy",
     "type": "Город",
     "typeShort": "г",
@@ -22302,6 +22655,7 @@
   },
   {
     "name": "Палласовка",
+    "name_alt": "Палласовка",
     "label": "pallasovka",
     "type": "Город",
     "typeShort": "г",
@@ -22365,6 +22719,7 @@
   },
   {
     "name": "Петров Вал",
+    "name_alt": "Петров Вал",
     "label": "petrov_val",
     "type": "Город",
     "typeShort": "г",
@@ -22428,6 +22783,7 @@
   },
   {
     "name": "Серафимович",
+    "name_alt": "Серафимович",
     "label": "serafimovich",
     "type": "Город",
     "typeShort": "г",
@@ -22491,6 +22847,7 @@
   },
   {
     "name": "Суровикино",
+    "name_alt": "Суровикино",
     "label": "surovikino",
     "type": "Город",
     "typeShort": "г",
@@ -22554,6 +22911,7 @@
   },
   {
     "name": "Урюпинск",
+    "name_alt": "Урюпинск",
     "label": "uryupinsk",
     "type": "Город",
     "typeShort": "г",
@@ -22617,6 +22975,7 @@
   },
   {
     "name": "Фролово",
+    "name_alt": "Фролово",
     "label": "frolovo",
     "type": "Город",
     "typeShort": "г",
@@ -22680,6 +23039,7 @@
   },
   {
     "name": "Бабаево",
+    "name_alt": "Бабаево",
     "label": "babayevo",
     "type": "Город",
     "typeShort": "г",
@@ -22743,6 +23103,7 @@
   },
   {
     "name": "Белозерск",
+    "name_alt": "Белозерск",
     "label": "belozersk",
     "type": "Город",
     "typeShort": "г",
@@ -22806,6 +23167,7 @@
   },
   {
     "name": "Великий Устюг",
+    "name_alt": "Великий Устюг",
     "label": "velikiy_ustyug",
     "type": "Город",
     "typeShort": "г",
@@ -22869,6 +23231,7 @@
   },
   {
     "name": "Вологда",
+    "name_alt": "Вологда",
     "label": "vologda",
     "type": "Город",
     "typeShort": "г",
@@ -22932,6 +23295,7 @@
   },
   {
     "name": "Вытегра",
+    "name_alt": "Вытегра",
     "label": "vytegra",
     "type": "Город",
     "typeShort": "г",
@@ -22995,6 +23359,7 @@
   },
   {
     "name": "Грязовец",
+    "name_alt": "Грязовец",
     "label": "gryazovets",
     "type": "Город",
     "typeShort": "г",
@@ -23058,6 +23423,7 @@
   },
   {
     "name": "Кадников",
+    "name_alt": "Кадников",
     "label": "kadnikov",
     "type": "Город",
     "typeShort": "г",
@@ -23121,6 +23487,7 @@
   },
   {
     "name": "Кириллов",
+    "name_alt": "Кириллов",
     "label": "kirillov",
     "type": "Город",
     "typeShort": "г",
@@ -23184,6 +23551,7 @@
   },
   {
     "name": "Красавино",
+    "name_alt": "Красавино",
     "label": "krasavino",
     "type": "Город",
     "typeShort": "г",
@@ -23247,6 +23615,7 @@
   },
   {
     "name": "Никольск",
+    "name_alt": "Никольск",
     "label": "nikolsk_vologodskaya",
     "type": "Город",
     "typeShort": "г",
@@ -23310,6 +23679,7 @@
   },
   {
     "name": "Сокол",
+    "name_alt": "Сокол",
     "label": "sokol",
     "type": "Город",
     "typeShort": "г",
@@ -23373,6 +23743,7 @@
   },
   {
     "name": "Тотьма",
+    "name_alt": "Тотьма",
     "label": "totma",
     "type": "Город",
     "typeShort": "г",
@@ -23436,6 +23807,7 @@
   },
   {
     "name": "Устюжна",
+    "name_alt": "Устюжна",
     "label": "ustyuzhna",
     "type": "Город",
     "typeShort": "г",
@@ -23499,6 +23871,7 @@
   },
   {
     "name": "Харовск",
+    "name_alt": "Харовск",
     "label": "kharovsk",
     "type": "Город",
     "typeShort": "г",
@@ -23562,6 +23935,7 @@
   },
   {
     "name": "Череповец",
+    "name_alt": "Череповец",
     "label": "cherepovets",
     "type": "Город",
     "typeShort": "г",
@@ -23625,6 +23999,7 @@
   },
   {
     "name": "Воронеж",
+    "name_alt": "Воронеж",
     "label": "voronezh",
     "type": "Город",
     "typeShort": "г",
@@ -23688,6 +24063,7 @@
   },
   {
     "name": "Борисоглебск",
+    "name_alt": "Борисоглебск",
     "label": "borisoglebsk",
     "type": "Город",
     "typeShort": "г",
@@ -23751,6 +24127,7 @@
   },
   {
     "name": "Россошь",
+    "name_alt": "Россошь",
     "label": "rossosh",
     "type": "Город",
     "typeShort": "г",
@@ -23814,6 +24191,7 @@
   },
   {
     "name": "Лиски",
+    "name_alt": "Лиски",
     "label": "liski",
     "type": "Город",
     "typeShort": "г",
@@ -23877,6 +24255,7 @@
   },
   {
     "name": "Острогожск",
+    "name_alt": "Острогожск",
     "label": "ostrogozhsk",
     "type": "Город",
     "typeShort": "г",
@@ -23940,6 +24319,7 @@
   },
   {
     "name": "Нововоронеж",
+    "name_alt": "Нововоронеж",
     "label": "novovoronezh",
     "type": "Город",
     "typeShort": "г",
@@ -24003,6 +24383,7 @@
   },
   {
     "name": "Бутурлиновка",
+    "name_alt": "Бутурлиновка",
     "label": "buturlinovka",
     "type": "Город",
     "typeShort": "г",
@@ -24066,6 +24447,7 @@
   },
   {
     "name": "Семилуки",
+    "name_alt": "Семилуки",
     "label": "semiluki",
     "type": "Город",
     "typeShort": "г",
@@ -24129,6 +24511,7 @@
   },
   {
     "name": "Павловск",
+    "name_alt": "Павловск",
     "label": "pavlovsk",
     "type": "Город",
     "typeShort": "г",
@@ -24192,6 +24575,7 @@
   },
   {
     "name": "Калач",
+    "name_alt": "Калач",
     "label": "kalach",
     "type": "Город",
     "typeShort": "г",
@@ -24255,6 +24639,7 @@
   },
   {
     "name": "Бобров",
+    "name_alt": "Бобров",
     "label": "bobrov",
     "type": "Город",
     "typeShort": "г",
@@ -24318,6 +24703,7 @@
   },
   {
     "name": "Поворино",
+    "name_alt": "Поворино",
     "label": "povorino",
     "type": "Город",
     "typeShort": "г",
@@ -24381,6 +24767,7 @@
   },
   {
     "name": "Богучар",
+    "name_alt": "Богучар",
     "label": "boguchar",
     "type": "Город",
     "typeShort": "г",
@@ -24444,6 +24831,7 @@
   },
   {
     "name": "Эртиль",
+    "name_alt": "Эртиль",
     "label": "ertil",
     "type": "Город",
     "typeShort": "г",
@@ -24507,6 +24895,7 @@
   },
   {
     "name": "Новохопёрск",
+    "name_alt": "Новохоперск",
     "label": "novokhopersk",
     "type": "Город",
     "typeShort": "г",
@@ -24570,6 +24959,7 @@
   },
   {
     "name": "Иваново",
+    "name_alt": "Иваново",
     "label": "ivanovo",
     "type": "Город",
     "typeShort": "г",
@@ -24633,6 +25023,7 @@
   },
   {
     "name": "Кинешма",
+    "name_alt": "Кинешма",
     "label": "kineshma",
     "type": "Город",
     "typeShort": "г",
@@ -24696,6 +25087,7 @@
   },
   {
     "name": "Шуя",
+    "name_alt": "Шуя",
     "label": "shuya",
     "type": "Город",
     "typeShort": "г",
@@ -24759,6 +25151,7 @@
   },
   {
     "name": "Вичуга",
+    "name_alt": "Вичуга",
     "label": "vichuga",
     "type": "Город",
     "typeShort": "г",
@@ -24822,6 +25215,7 @@
   },
   {
     "name": "Фурманов",
+    "name_alt": "Фурманов",
     "label": "furmanov",
     "type": "Город",
     "typeShort": "г",
@@ -24885,6 +25279,7 @@
   },
   {
     "name": "Тейково",
+    "name_alt": "Тейково",
     "label": "teykovo",
     "type": "Город",
     "typeShort": "г",
@@ -24948,6 +25343,7 @@
   },
   {
     "name": "Кохма",
+    "name_alt": "Кохма",
     "label": "kokhma",
     "type": "Город",
     "typeShort": "г",
@@ -25011,6 +25407,7 @@
   },
   {
     "name": "Родники",
+    "name_alt": "Родники",
     "label": "rodniki",
     "type": "Город",
     "typeShort": "г",
@@ -25074,6 +25471,7 @@
   },
   {
     "name": "Приволжск",
+    "name_alt": "Приволжск",
     "label": "privolzhsk",
     "type": "Город",
     "typeShort": "г",
@@ -25137,6 +25535,7 @@
   },
   {
     "name": "Южа",
+    "name_alt": "Южа",
     "label": "yuzha",
     "type": "Город",
     "typeShort": "г",
@@ -25200,6 +25599,7 @@
   },
   {
     "name": "Заволжск",
+    "name_alt": "Заволжск",
     "label": "zavolzhsk",
     "type": "Город",
     "typeShort": "г",
@@ -25263,6 +25663,7 @@
   },
   {
     "name": "Наволоки",
+    "name_alt": "Наволоки",
     "label": "navoloki",
     "type": "Город",
     "typeShort": "г",
@@ -25326,6 +25727,7 @@
   },
   {
     "name": "Юрьевец",
+    "name_alt": "Юрьевец",
     "label": "yuryevets",
     "type": "Город",
     "typeShort": "г",
@@ -25389,6 +25791,7 @@
   },
   {
     "name": "Комсомольск",
+    "name_alt": "Комсомольск",
     "label": "komsomolsk",
     "type": "Город",
     "typeShort": "г.",
@@ -25452,6 +25855,7 @@
   },
   {
     "name": "Пучеж",
+    "name_alt": "Пучеж",
     "label": "puchezh",
     "type": "Город",
     "typeShort": "г",
@@ -25515,6 +25919,7 @@
   },
   {
     "name": "Гаврилов Посад",
+    "name_alt": "Гаврилов Посад",
     "label": "gavrilov_posad",
     "type": "Город",
     "typeShort": "г",
@@ -25578,7 +25983,8 @@
   },
   {
     "name": "Плёс",
-    "label": "plyos",
+    "name_alt": "Плес",
+    "label": "ples",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -25641,6 +26047,7 @@
   },
   {
     "name": "Иркутск",
+    "name_alt": "Иркутск",
     "label": "irkutsk",
     "type": "Город",
     "typeShort": "г",
@@ -25704,6 +26111,7 @@
   },
   {
     "name": "Алзамай",
+    "name_alt": "Алзамай",
     "label": "alzamay",
     "type": "Город",
     "typeShort": "г",
@@ -25767,6 +26175,7 @@
   },
   {
     "name": "Ангарск",
+    "name_alt": "Ангарск",
     "label": "angarsk",
     "type": "Город",
     "typeShort": "г",
@@ -25830,6 +26239,7 @@
   },
   {
     "name": "Байкальск",
+    "name_alt": "Байкальск",
     "label": "baykalsk",
     "type": "Город",
     "typeShort": "г",
@@ -25893,6 +26303,7 @@
   },
   {
     "name": "Бирюсинск",
+    "name_alt": "Бирюсинск",
     "label": "biryusinsk",
     "type": "Город",
     "typeShort": "г",
@@ -25956,6 +26367,7 @@
   },
   {
     "name": "Бодайбо",
+    "name_alt": "Бодайбо",
     "label": "bodaybo",
     "type": "Город",
     "typeShort": "г",
@@ -26019,6 +26431,7 @@
   },
   {
     "name": "Братск",
+    "name_alt": "Братск",
     "label": "bratsk",
     "type": "Город",
     "typeShort": "г",
@@ -26082,6 +26495,7 @@
   },
   {
     "name": "Вихоревка",
+    "name_alt": "Вихоревка",
     "label": "vikhorevka",
     "type": "Город",
     "typeShort": "г",
@@ -26145,6 +26559,7 @@
   },
   {
     "name": "Железногорск-Илимский",
+    "name_alt": "Железногорск-Илимский",
     "label": "zheleznogorsk_ilimsky",
     "type": "Город",
     "typeShort": "г",
@@ -26208,6 +26623,7 @@
   },
   {
     "name": "Зима",
+    "name_alt": "Зима",
     "label": "zima",
     "type": "Город",
     "typeShort": "г",
@@ -26271,6 +26687,7 @@
   },
   {
     "name": "Киренск",
+    "name_alt": "Киренск",
     "label": "kirensk",
     "type": "Город",
     "typeShort": "г",
@@ -26334,6 +26751,7 @@
   },
   {
     "name": "Нижнеудинск",
+    "name_alt": "Нижнеудинск",
     "label": "nizhneudinsk",
     "type": "Город",
     "typeShort": "г",
@@ -26397,6 +26815,7 @@
   },
   {
     "name": "Саянск",
+    "name_alt": "Саянск",
     "label": "sayansk",
     "type": "Город",
     "typeShort": "г",
@@ -26460,6 +26879,7 @@
   },
   {
     "name": "Свирск",
+    "name_alt": "Свирск",
     "label": "svirsk",
     "type": "Город",
     "typeShort": "г",
@@ -26523,6 +26943,7 @@
   },
   {
     "name": "Слюдянка",
+    "name_alt": "Слюдянка",
     "label": "slyudyanka",
     "type": "Город",
     "typeShort": "г",
@@ -26586,6 +27007,7 @@
   },
   {
     "name": "Тайшет",
+    "name_alt": "Тайшет",
     "label": "tayshet",
     "type": "Город",
     "typeShort": "г",
@@ -26649,6 +27071,7 @@
   },
   {
     "name": "Тулун",
+    "name_alt": "Тулун",
     "label": "tulun",
     "type": "Город",
     "typeShort": "г",
@@ -26712,6 +27135,7 @@
   },
   {
     "name": "Усолье-Сибирское",
+    "name_alt": "Усолье-Сибирское",
     "label": "usolye_sibirskoye",
     "type": "Город",
     "typeShort": "г",
@@ -26775,6 +27199,7 @@
   },
   {
     "name": "Усть-Илимск",
+    "name_alt": "Усть-Илимск",
     "label": "ust_ilimsk",
     "type": "Город",
     "typeShort": "г",
@@ -26838,6 +27263,7 @@
   },
   {
     "name": "Усть-Кут",
+    "name_alt": "Усть-Кут",
     "label": "ust_kut",
     "type": "Город",
     "typeShort": "г",
@@ -26901,6 +27327,7 @@
   },
   {
     "name": "Черемхово",
+    "name_alt": "Черемхово",
     "label": "cheremkhovo",
     "type": "Город",
     "typeShort": "г",
@@ -26964,6 +27391,7 @@
   },
   {
     "name": "Шелехов",
+    "name_alt": "Шелехов",
     "label": "shelekhov",
     "type": "Город",
     "typeShort": "г",
@@ -27027,6 +27455,7 @@
   },
   {
     "name": "Багратионовск",
+    "name_alt": "Багратионовск",
     "label": "bagrationovsk",
     "type": "Город",
     "typeShort": "г",
@@ -27090,6 +27519,7 @@
   },
   {
     "name": "Балтийск",
+    "name_alt": "Балтийск",
     "label": "baltiysk",
     "type": "Город",
     "typeShort": "г",
@@ -27153,6 +27583,7 @@
   },
   {
     "name": "Гвардейск",
+    "name_alt": "Гвардейск",
     "label": "gvardeysk",
     "type": "Город",
     "typeShort": "г",
@@ -27216,6 +27647,7 @@
   },
   {
     "name": "Гурьевск",
+    "name_alt": "Гурьевск",
     "label": "guryevsk",
     "type": "Город",
     "typeShort": "г.",
@@ -27279,6 +27711,7 @@
   },
   {
     "name": "Гусев",
+    "name_alt": "Гусев",
     "label": "gusev",
     "type": "Город",
     "typeShort": "г",
@@ -27342,6 +27775,7 @@
   },
   {
     "name": "Зеленоградск",
+    "name_alt": "Зеленоградск",
     "label": "zelenogradsk",
     "type": "Город",
     "typeShort": "г",
@@ -27405,6 +27839,7 @@
   },
   {
     "name": "Калининград",
+    "name_alt": "Калининград",
     "label": "kaliningrad",
     "type": "Город",
     "typeShort": "г",
@@ -27468,6 +27903,7 @@
   },
   {
     "name": "Краснознаменск",
+    "name_alt": "Краснознаменск",
     "label": "krasnoznamensk_kaliningradskaya",
     "type": "Город",
     "typeShort": "г",
@@ -27531,6 +27967,7 @@
   },
   {
     "name": "Ладушкин",
+    "name_alt": "Ладушкин",
     "label": "ladushkin",
     "type": "Город",
     "typeShort": "г",
@@ -27594,6 +28031,7 @@
   },
   {
     "name": "Мамоново",
+    "name_alt": "Мамоново",
     "label": "mamonovo",
     "type": "Город",
     "typeShort": "г",
@@ -27657,6 +28095,7 @@
   },
   {
     "name": "Неман",
+    "name_alt": "Неман",
     "label": "neman",
     "type": "Город",
     "typeShort": "г",
@@ -27720,6 +28159,7 @@
   },
   {
     "name": "Нестеров",
+    "name_alt": "Нестеров",
     "label": "nesterov",
     "type": "Город",
     "typeShort": "г",
@@ -27783,7 +28223,8 @@
   },
   {
     "name": "Озёрск",
-    "label": "ozyorsk_kaliningradskaya",
+    "name_alt": "Озерск",
+    "label": "ozersk_kaliningradskaya",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -27846,6 +28287,7 @@
   },
   {
     "name": "Пионерский",
+    "name_alt": "Пионерский",
     "label": "pionersky",
     "type": "Город",
     "typeShort": "г",
@@ -27909,6 +28351,7 @@
   },
   {
     "name": "Полесск",
+    "name_alt": "Полесск",
     "label": "polessk",
     "type": "Город",
     "typeShort": "г",
@@ -27972,6 +28415,7 @@
   },
   {
     "name": "Правдинск",
+    "name_alt": "Правдинск",
     "label": "pravdinsk",
     "type": "Город",
     "typeShort": "г",
@@ -28035,6 +28479,7 @@
   },
   {
     "name": "Приморск",
+    "name_alt": "Приморск",
     "label": "primorsk_kaliningradskaya",
     "type": "Город",
     "typeShort": "г",
@@ -28098,6 +28543,7 @@
   },
   {
     "name": "Светлогорск",
+    "name_alt": "Светлогорск",
     "label": "svetlogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -28161,6 +28607,7 @@
   },
   {
     "name": "Светлый",
+    "name_alt": "Светлый",
     "label": "svetly",
     "type": "Город",
     "typeShort": "г",
@@ -28224,6 +28671,7 @@
   },
   {
     "name": "Славск",
+    "name_alt": "Славск",
     "label": "slavsk",
     "type": "Город",
     "typeShort": "г",
@@ -28287,6 +28735,7 @@
   },
   {
     "name": "Советск",
+    "name_alt": "Советск",
     "label": "sovetsk",
     "type": "Город",
     "typeShort": "г",
@@ -28350,6 +28799,7 @@
   },
   {
     "name": "Черняховск",
+    "name_alt": "Черняховск",
     "label": "chernyakhovsk",
     "type": "Город",
     "typeShort": "г",
@@ -28413,6 +28863,7 @@
   },
   {
     "name": "Калуга",
+    "name_alt": "Калуга",
     "label": "kaluga",
     "type": "Город",
     "typeShort": "г",
@@ -28476,6 +28927,7 @@
   },
   {
     "name": "Обнинск",
+    "name_alt": "Обнинск",
     "label": "obninsk",
     "type": "Город",
     "typeShort": "г",
@@ -28539,6 +28991,7 @@
   },
   {
     "name": "Людиново",
+    "name_alt": "Людиново",
     "label": "lyudinovo",
     "type": "Город",
     "typeShort": "г.",
@@ -28602,6 +29055,7 @@
   },
   {
     "name": "Киров",
+    "name_alt": "Киров",
     "label": "kirov_kaluzhskaya",
     "type": "Город",
     "typeShort": "г",
@@ -28665,6 +29119,7 @@
   },
   {
     "name": "Малоярославец",
+    "name_alt": "Малоярославец",
     "label": "maloyaroslavets",
     "type": "Город",
     "typeShort": "г",
@@ -28728,6 +29183,7 @@
   },
   {
     "name": "Балабаново",
+    "name_alt": "Балабаново",
     "label": "balabanovo",
     "type": "Город",
     "typeShort": "г",
@@ -28791,6 +29247,7 @@
   },
   {
     "name": "Козельск",
+    "name_alt": "Козельск",
     "label": "kozelsk",
     "type": "Город",
     "typeShort": "г",
@@ -28854,6 +29311,7 @@
   },
   {
     "name": "Кондрово",
+    "name_alt": "Кондрово",
     "label": "kondrovo",
     "type": "Город",
     "typeShort": "г",
@@ -28917,6 +29375,7 @@
   },
   {
     "name": "Сухиничи",
+    "name_alt": "Сухиничи",
     "label": "sukhinichi",
     "type": "Город",
     "typeShort": "г",
@@ -28980,6 +29439,7 @@
   },
   {
     "name": "Боровск",
+    "name_alt": "Боровск",
     "label": "borovsk",
     "type": "Город",
     "typeShort": "г",
@@ -29043,6 +29503,7 @@
   },
   {
     "name": "Сосенский",
+    "name_alt": "Сосенский",
     "label": "sosensky",
     "type": "Город",
     "typeShort": "г",
@@ -29106,6 +29567,7 @@
   },
   {
     "name": "Жуков",
+    "name_alt": "Жуков",
     "label": "zhukov",
     "type": "Город",
     "typeShort": "г",
@@ -29169,7 +29631,8 @@
   },
   {
     "name": "Кремёнки",
-    "label": "kremyonki",
+    "name_alt": "Кременки",
+    "label": "kremenki",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -29232,6 +29695,7 @@
   },
   {
     "name": "Ермолино",
+    "name_alt": "Ермолино",
     "label": "ermolino",
     "type": "Город",
     "typeShort": "г",
@@ -29295,6 +29759,7 @@
   },
   {
     "name": "Таруса",
+    "name_alt": "Таруса",
     "label": "tarusa",
     "type": "Город",
     "typeShort": "г",
@@ -29358,6 +29823,7 @@
   },
   {
     "name": "Белоусово",
+    "name_alt": "Белоусово",
     "label": "belousovo",
     "type": "Город",
     "typeShort": "г",
@@ -29421,6 +29887,7 @@
   },
   {
     "name": "Медынь",
+    "name_alt": "Медынь",
     "label": "medyn",
     "type": "Город",
     "typeShort": "г",
@@ -29484,6 +29951,7 @@
   },
   {
     "name": "Юхнов",
+    "name_alt": "Юхнов",
     "label": "yukhnov",
     "type": "Город",
     "typeShort": "г",
@@ -29547,6 +30015,7 @@
   },
   {
     "name": "Жиздра",
+    "name_alt": "Жиздра",
     "label": "zhizdra",
     "type": "Город",
     "typeShort": "г.",
@@ -29610,6 +30079,7 @@
   },
   {
     "name": "Спас-Деменск",
+    "name_alt": "Спас-Деменск",
     "label": "spas_demensk",
     "type": "Город",
     "typeShort": "г",
@@ -29673,6 +30143,7 @@
   },
   {
     "name": "Мосальск",
+    "name_alt": "Мосальск",
     "label": "mosalsk",
     "type": "Город",
     "typeShort": "г",
@@ -29736,6 +30207,7 @@
   },
   {
     "name": "Мещовск",
+    "name_alt": "Мещовск",
     "label": "meshchovsk",
     "type": "Город",
     "typeShort": "г",
@@ -29799,6 +30271,7 @@
   },
   {
     "name": "Вилючинск",
+    "name_alt": "Вилючинск",
     "label": "vilyuchinsk",
     "type": "Город",
     "typeShort": "г",
@@ -29863,6 +30336,7 @@
   },
   {
     "name": "Елизово",
+    "name_alt": "Елизово",
     "label": "yelizovo",
     "type": "Город",
     "typeShort": "г",
@@ -29927,6 +30401,7 @@
   },
   {
     "name": "Петропавловск-Камчатский",
+    "name_alt": "Петропавловск-Камчатский",
     "label": "petropavlovsk_kamchatsky",
     "type": "Город",
     "typeShort": "г",
@@ -29991,6 +30466,7 @@
   },
   {
     "name": "Анжеро-Судженск",
+    "name_alt": "Анжеро-Судженск",
     "label": "anzhero_sudzhensk",
     "type": "Город",
     "typeShort": "г",
@@ -30054,6 +30530,7 @@
   },
   {
     "name": "Белово",
+    "name_alt": "Белово",
     "label": "belovo",
     "type": "Город",
     "typeShort": "г",
@@ -30117,7 +30594,8 @@
   },
   {
     "name": "Берёзовский",
-    "label": "beryozovsky_kemerovskaya",
+    "name_alt": "Березовский",
+    "label": "berezovsky_kemerovskaya",
     "type": "Город",
     "typeShort": "г.",
     "contentType": "city",
@@ -30180,6 +30658,7 @@
   },
   {
     "name": "Калтан",
+    "name_alt": "Калтан",
     "label": "kaltan",
     "type": "Город",
     "typeShort": "г",
@@ -30243,6 +30722,7 @@
   },
   {
     "name": "Гурьевск",
+    "name_alt": "Гурьевск",
     "label": "guryevsk_kemerovskaya",
     "type": "Город",
     "typeShort": "г",
@@ -30306,6 +30786,7 @@
   },
   {
     "name": "Кемерово",
+    "name_alt": "Кемерово",
     "label": "kemerovo",
     "type": "Город",
     "typeShort": "г",
@@ -30369,7 +30850,8 @@
   },
   {
     "name": "Киселёвск",
-    "label": "kiselyovsk",
+    "name_alt": "Киселевск",
+    "label": "kiselevsk",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -30432,6 +30914,7 @@
   },
   {
     "name": "Ленинск-Кузнецкий",
+    "name_alt": "Ленинск-Кузнецкий",
     "label": "leninsk_kuznetsky",
     "type": "Город",
     "typeShort": "г",
@@ -30495,6 +30978,7 @@
   },
   {
     "name": "Мариинск",
+    "name_alt": "Мариинск",
     "label": "mariinsk",
     "type": "Город",
     "typeShort": "г",
@@ -30558,6 +31042,7 @@
   },
   {
     "name": "Междуреченск",
+    "name_alt": "Междуреченск",
     "label": "mezhdurechensk",
     "type": "Город",
     "typeShort": "г",
@@ -30621,6 +31106,7 @@
   },
   {
     "name": "Мыски",
+    "name_alt": "Мыски",
     "label": "myski",
     "type": "Город",
     "typeShort": "г",
@@ -30684,6 +31170,7 @@
   },
   {
     "name": "Новокузнецк",
+    "name_alt": "Новокузнецк",
     "label": "novokuznetsk",
     "type": "Город",
     "typeShort": "г",
@@ -30747,6 +31234,7 @@
   },
   {
     "name": "Осинники",
+    "name_alt": "Осинники",
     "label": "osinniki",
     "type": "Город",
     "typeShort": "г",
@@ -30810,6 +31298,7 @@
   },
   {
     "name": "Полысаево",
+    "name_alt": "Полысаево",
     "label": "polysayevo",
     "type": "Город",
     "typeShort": "г",
@@ -30873,6 +31362,7 @@
   },
   {
     "name": "Прокопьевск",
+    "name_alt": "Прокопьевск",
     "label": "prokopyevsk",
     "type": "Город",
     "typeShort": "г",
@@ -30936,6 +31426,7 @@
   },
   {
     "name": "Салаир",
+    "name_alt": "Салаир",
     "label": "salair",
     "type": "Город",
     "typeShort": "г",
@@ -30999,6 +31490,7 @@
   },
   {
     "name": "Тайга",
+    "name_alt": "Тайга",
     "label": "taiga",
     "type": "Город",
     "typeShort": "г",
@@ -31062,6 +31554,7 @@
   },
   {
     "name": "Таштагол",
+    "name_alt": "Таштагол",
     "label": "tashtagol",
     "type": "Город",
     "typeShort": "г",
@@ -31125,6 +31618,7 @@
   },
   {
     "name": "Топки",
+    "name_alt": "Топки",
     "label": "topki",
     "type": "Город",
     "typeShort": "г",
@@ -31188,6 +31682,7 @@
   },
   {
     "name": "Юрга",
+    "name_alt": "Юрга",
     "label": "yurga",
     "type": "Город",
     "typeShort": "г",
@@ -31251,6 +31746,7 @@
   },
   {
     "name": "Киров",
+    "name_alt": "Киров",
     "label": "kirov",
     "type": "Город",
     "typeShort": "г",
@@ -31314,6 +31810,7 @@
   },
   {
     "name": "Кирово-Чепецк",
+    "name_alt": "Кирово-Чепецк",
     "label": "kirovo_chepetsk",
     "type": "Город",
     "typeShort": "г.",
@@ -31377,6 +31874,7 @@
   },
   {
     "name": "Вятские Поляны",
+    "name_alt": "Вятские Поляны",
     "label": "vyatskiye_polyany",
     "type": "Город",
     "typeShort": "г",
@@ -31440,6 +31938,7 @@
   },
   {
     "name": "Слободской",
+    "name_alt": "Слободской",
     "label": "slobodskoy",
     "type": "Город",
     "typeShort": "г.",
@@ -31503,6 +32002,7 @@
   },
   {
     "name": "Котельнич",
+    "name_alt": "Котельнич",
     "label": "kotelnich",
     "type": "Город",
     "typeShort": "г.",
@@ -31566,6 +32066,7 @@
   },
   {
     "name": "Омутнинск",
+    "name_alt": "Омутнинск",
     "label": "omutninsk",
     "type": "Город",
     "typeShort": "г",
@@ -31629,6 +32130,7 @@
   },
   {
     "name": "Яранск",
+    "name_alt": "Яранск",
     "label": "yaransk",
     "type": "Город",
     "typeShort": "г",
@@ -31692,6 +32194,7 @@
   },
   {
     "name": "Советск",
+    "name_alt": "Советск",
     "label": "sovetsk_kirovskaya",
     "type": "Город",
     "typeShort": "г",
@@ -31755,6 +32258,7 @@
   },
   {
     "name": "Сосновка",
+    "name_alt": "Сосновка",
     "label": "sosnovka",
     "type": "Город",
     "typeShort": "г",
@@ -31818,6 +32322,7 @@
   },
   {
     "name": "Белая Холуница",
+    "name_alt": "Белая Холуница",
     "label": "belaya_kholunitsa",
     "type": "Город",
     "typeShort": "г",
@@ -31881,6 +32386,7 @@
   },
   {
     "name": "Зуевка",
+    "name_alt": "Зуевка",
     "label": "zuevka",
     "type": "Город",
     "typeShort": "г",
@@ -31944,6 +32450,7 @@
   },
   {
     "name": "Луза",
+    "name_alt": "Луза",
     "label": "luza",
     "type": "Город",
     "typeShort": "г",
@@ -32007,6 +32514,7 @@
   },
   {
     "name": "Кирс",
+    "name_alt": "Кирс",
     "label": "kirs",
     "type": "Город",
     "typeShort": "г",
@@ -32070,6 +32578,7 @@
   },
   {
     "name": "Уржум",
+    "name_alt": "Уржум",
     "label": "urzhum",
     "type": "Город",
     "typeShort": "г",
@@ -32133,6 +32642,7 @@
   },
   {
     "name": "Нолинск",
+    "name_alt": "Нолинск",
     "label": "nolinsk",
     "type": "Город",
     "typeShort": "г",
@@ -32196,6 +32706,7 @@
   },
   {
     "name": "Малмыж",
+    "name_alt": "Малмыж",
     "label": "malmyzh",
     "type": "Город",
     "typeShort": "г",
@@ -32259,6 +32770,7 @@
   },
   {
     "name": "Орлов",
+    "name_alt": "Орлов",
     "label": "orlov",
     "type": "Город",
     "typeShort": "г",
@@ -32322,6 +32834,7 @@
   },
   {
     "name": "Мураши",
+    "name_alt": "Мураши",
     "label": "murashi",
     "type": "Город",
     "typeShort": "г",
@@ -32385,6 +32898,7 @@
   },
   {
     "name": "Кострома",
+    "name_alt": "Кострома",
     "label": "kostroma",
     "type": "Город",
     "typeShort": "г",
@@ -32448,6 +32962,7 @@
   },
   {
     "name": "Буй",
+    "name_alt": "Буй",
     "label": "buy",
     "type": "Город",
     "typeShort": "г",
@@ -32511,6 +33026,7 @@
   },
   {
     "name": "Шарья",
+    "name_alt": "Шарья",
     "label": "sharya",
     "type": "Город",
     "typeShort": "г",
@@ -32574,6 +33090,7 @@
   },
   {
     "name": "Нерехта",
+    "name_alt": "Нерехта",
     "label": "nerekhta",
     "type": "Город",
     "typeShort": "г",
@@ -32637,6 +33154,7 @@
   },
   {
     "name": "Мантурово",
+    "name_alt": "Мантурово",
     "label": "manturovo",
     "type": "Город",
     "typeShort": "г",
@@ -32700,6 +33218,7 @@
   },
   {
     "name": "Волгореченск",
+    "name_alt": "Волгореченск",
     "label": "volgorechensk",
     "type": "Город",
     "typeShort": "г",
@@ -32763,6 +33282,7 @@
   },
   {
     "name": "Галич",
+    "name_alt": "Галич",
     "label": "galich",
     "type": "Город",
     "typeShort": "г",
@@ -32826,6 +33346,7 @@
   },
   {
     "name": "Нея",
+    "name_alt": "Нея",
     "label": "neya",
     "type": "Город",
     "typeShort": "г",
@@ -32889,6 +33410,7 @@
   },
   {
     "name": "Макарьев",
+    "name_alt": "Макарьев",
     "label": "makaryev",
     "type": "Город",
     "typeShort": "г",
@@ -32952,6 +33474,7 @@
   },
   {
     "name": "Солигалич",
+    "name_alt": "Солигалич",
     "label": "soligalish",
     "type": "Город",
     "typeShort": "г",
@@ -33015,6 +33538,7 @@
   },
   {
     "name": "Чухлома",
+    "name_alt": "Чухлома",
     "label": "chukhloma",
     "type": "Город",
     "typeShort": "г",
@@ -33078,6 +33602,7 @@
   },
   {
     "name": "Кологрив",
+    "name_alt": "Кологрив",
     "label": "kologriv",
     "type": "Город",
     "typeShort": "г",
@@ -33141,6 +33666,7 @@
   },
   {
     "name": "Курган",
+    "name_alt": "Курган",
     "label": "kurgan",
     "type": "Город",
     "typeShort": "г",
@@ -33204,6 +33730,7 @@
   },
   {
     "name": "Далматово",
+    "name_alt": "Далматово",
     "label": "dalmatovo",
     "type": "Город",
     "typeShort": "г",
@@ -33267,6 +33794,7 @@
   },
   {
     "name": "Катайск",
+    "name_alt": "Катайск",
     "label": "kataysk",
     "type": "Город",
     "typeShort": "г",
@@ -33330,6 +33858,7 @@
   },
   {
     "name": "Куртамыш",
+    "name_alt": "Куртамыш",
     "label": "kurtamysh",
     "type": "Город",
     "typeShort": "г",
@@ -33393,6 +33922,7 @@
   },
   {
     "name": "Макушино",
+    "name_alt": "Макушино",
     "label": "makushino",
     "type": "Город",
     "typeShort": "г",
@@ -33456,6 +33986,7 @@
   },
   {
     "name": "Петухово",
+    "name_alt": "Петухово",
     "label": "petukhovo",
     "type": "Город",
     "typeShort": "г",
@@ -33519,6 +34050,7 @@
   },
   {
     "name": "Шадринск",
+    "name_alt": "Шадринск",
     "label": "shadrinsk",
     "type": "Город",
     "typeShort": "г",
@@ -33582,6 +34114,7 @@
   },
   {
     "name": "Шумиха",
+    "name_alt": "Шумиха",
     "label": "shumikha",
     "type": "Город",
     "typeShort": "г",
@@ -33645,6 +34178,7 @@
   },
   {
     "name": "Щучье",
+    "name_alt": "Щучье",
     "label": "shuche",
     "type": "Город",
     "typeShort": "г",
@@ -33708,6 +34242,7 @@
   },
   {
     "name": "Курск",
+    "name_alt": "Курск",
     "label": "kursk",
     "type": "Город",
     "typeShort": "г",
@@ -33771,6 +34306,7 @@
   },
   {
     "name": "Дмитриев",
+    "name_alt": "Дмитриев",
     "label": "dmitriyev",
     "type": "Город",
     "typeShort": "г",
@@ -33834,6 +34370,7 @@
   },
   {
     "name": "Железногорск",
+    "name_alt": "Железногорск",
     "label": "zheleznogorsk_kurskaya",
     "type": "Город",
     "typeShort": "г",
@@ -33897,6 +34434,7 @@
   },
   {
     "name": "Курчатов",
+    "name_alt": "Курчатов",
     "label": "kurchatov",
     "type": "Город",
     "typeShort": "г",
@@ -33960,6 +34498,7 @@
   },
   {
     "name": "Льгов",
+    "name_alt": "Льгов",
     "label": "l'gov",
     "type": "Город",
     "typeShort": "г",
@@ -34023,6 +34562,7 @@
   },
   {
     "name": "Обоянь",
+    "name_alt": "Обоянь",
     "label": "oboyan'",
     "type": "Город",
     "typeShort": "г",
@@ -34086,6 +34626,7 @@
   },
   {
     "name": "Рыльск",
+    "name_alt": "Рыльск",
     "label": "rylsk",
     "type": "Город",
     "typeShort": "г",
@@ -34149,6 +34690,7 @@
   },
   {
     "name": "Суджа",
+    "name_alt": "Суджа",
     "label": "sudzha",
     "type": "Город",
     "typeShort": "г",
@@ -34212,6 +34754,7 @@
   },
   {
     "name": "Фатеж",
+    "name_alt": "Фатеж",
     "label": "fatezh",
     "type": "Город",
     "typeShort": "г",
@@ -34275,6 +34818,7 @@
   },
   {
     "name": "Щигры",
+    "name_alt": "Щигры",
     "label": "shchigry",
     "type": "Город",
     "typeShort": "г",
@@ -34338,6 +34882,7 @@
   },
   {
     "name": "Бокситогорск",
+    "name_alt": "Бокситогорск",
     "label": "boksitogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -34401,6 +34946,7 @@
   },
   {
     "name": "Всеволожск",
+    "name_alt": "Всеволожск",
     "label": "vsevolozhsk",
     "type": "Город",
     "typeShort": "г",
@@ -34464,6 +35010,7 @@
   },
   {
     "name": "Волосово",
+    "name_alt": "Волосово",
     "label": "volosovo",
     "type": "Город",
     "typeShort": "г",
@@ -34527,6 +35074,7 @@
   },
   {
     "name": "Волхов",
+    "name_alt": "Волхов",
     "label": "volkhov",
     "type": "Город",
     "typeShort": "г",
@@ -34590,6 +35138,7 @@
   },
   {
     "name": "Выборг",
+    "name_alt": "Выборг",
     "label": "vyborg",
     "type": "Город",
     "typeShort": "г",
@@ -34653,6 +35202,7 @@
   },
   {
     "name": "Высоцк",
+    "name_alt": "Высоцк",
     "label": "vysotsk",
     "type": "Город",
     "typeShort": "г",
@@ -34716,6 +35266,7 @@
   },
   {
     "name": "Гатчина",
+    "name_alt": "Гатчина",
     "label": "gatchina",
     "type": "Город",
     "typeShort": "г",
@@ -34779,6 +35330,7 @@
   },
   {
     "name": "Ивангород",
+    "name_alt": "Ивангород",
     "label": "ivangorod",
     "type": "Город",
     "typeShort": "г",
@@ -34842,6 +35394,7 @@
   },
   {
     "name": "Каменногорск",
+    "name_alt": "Каменногорск",
     "label": "kamennogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -34905,6 +35458,7 @@
   },
   {
     "name": "Кингисепп",
+    "name_alt": "Кингисепп",
     "label": "kingisepp",
     "type": "Город",
     "typeShort": "г",
@@ -34968,6 +35522,7 @@
   },
   {
     "name": "Кириши",
+    "name_alt": "Кириши",
     "label": "kirishi",
     "type": "Город",
     "typeShort": "г",
@@ -35031,6 +35586,7 @@
   },
   {
     "name": "Кировск",
+    "name_alt": "Кировск",
     "label": "kirovsk_leningradskaya",
     "type": "Город",
     "typeShort": "г",
@@ -35094,6 +35650,7 @@
   },
   {
     "name": "Коммунар",
+    "name_alt": "Коммунар",
     "label": "kommunar",
     "type": "Город",
     "typeShort": "г",
@@ -35157,6 +35714,7 @@
   },
   {
     "name": "Колтуши",
+    "name_alt": "Колтуши",
     "label": "koltushi",
     "type": "Город",
     "typeShort": "г",
@@ -35220,6 +35778,7 @@
   },
   {
     "name": "Кудрово",
+    "name_alt": "Кудрово",
     "label": "kudrovo",
     "type": "Город",
     "typeShort": "г.",
@@ -35283,6 +35842,7 @@
   },
   {
     "name": "Лодейное Поле",
+    "name_alt": "Лодейное Поле",
     "label": "lodeynoye_pole",
     "type": "Город",
     "typeShort": "г",
@@ -35346,6 +35906,7 @@
   },
   {
     "name": "Луга",
+    "name_alt": "Луга",
     "label": "luga",
     "type": "Город",
     "typeShort": "г",
@@ -35409,6 +35970,7 @@
   },
   {
     "name": "Любань",
+    "name_alt": "Любань",
     "label": "lyuban",
     "type": "Город",
     "typeShort": "г",
@@ -35472,6 +36034,7 @@
   },
   {
     "name": "Мурино",
+    "name_alt": "Мурино",
     "label": "murino",
     "type": "Город",
     "typeShort": "г.",
@@ -35535,6 +36098,7 @@
   },
   {
     "name": "Никольское",
+    "name_alt": "Никольское",
     "label": "nikolskoye",
     "type": "Город",
     "typeShort": "г",
@@ -35598,6 +36162,7 @@
   },
   {
     "name": "Новая Ладога",
+    "name_alt": "Новая Ладога",
     "label": "novaya_ladoga",
     "type": "Город",
     "typeShort": "г",
@@ -35661,6 +36226,7 @@
   },
   {
     "name": "Отрадное",
+    "name_alt": "Отрадное",
     "label": "otradnoe",
     "type": "Город",
     "typeShort": "г",
@@ -35724,7 +36290,8 @@
   },
   {
     "name": "Пикалёво",
-    "label": "pikalyovo",
+    "name_alt": "Пикалево",
+    "label": "pikalevo",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -35787,6 +36354,7 @@
   },
   {
     "name": "Подпорожье",
+    "name_alt": "Подпорожье",
     "label": "podporozhye",
     "type": "Город",
     "typeShort": "г",
@@ -35850,6 +36418,7 @@
   },
   {
     "name": "Приморск",
+    "name_alt": "Приморск",
     "label": "primorsk",
     "type": "Город",
     "typeShort": "г",
@@ -35913,6 +36482,7 @@
   },
   {
     "name": "Приозерск",
+    "name_alt": "Приозерск",
     "label": "priozersk",
     "type": "Город",
     "typeShort": "г",
@@ -35976,6 +36546,7 @@
   },
   {
     "name": "Санкт-Петербург",
+    "name_alt": "Санкт-Петербург",
     "label": "saint_petersburg",
     "type": "Город",
     "typeShort": "г",
@@ -36031,6 +36602,7 @@
   },
   {
     "name": "Светогорск",
+    "name_alt": "Светогорск",
     "label": "svetogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -36094,6 +36666,7 @@
   },
   {
     "name": "Сертолово",
+    "name_alt": "Сертолово",
     "label": "sertolovo",
     "type": "Город",
     "typeShort": "г",
@@ -36157,6 +36730,7 @@
   },
   {
     "name": "Сланцы",
+    "name_alt": "Сланцы",
     "label": "slantsy",
     "type": "Город",
     "typeShort": "г",
@@ -36220,6 +36794,7 @@
   },
   {
     "name": "Сосновый Бор",
+    "name_alt": "Сосновый Бор",
     "label": "sosnoviy_bor",
     "type": "Город",
     "typeShort": "г",
@@ -36283,6 +36858,7 @@
   },
   {
     "name": "Сясьстрой",
+    "name_alt": "Сясьстрой",
     "label": "syasstroy",
     "type": "Город",
     "typeShort": "г",
@@ -36346,6 +36922,7 @@
   },
   {
     "name": "Тихвин",
+    "name_alt": "Тихвин",
     "label": "tikhvin",
     "type": "Город",
     "typeShort": "г",
@@ -36409,6 +36986,7 @@
   },
   {
     "name": "Тосно",
+    "name_alt": "Тосно",
     "label": "tosno",
     "type": "Город",
     "typeShort": "г",
@@ -36472,6 +37050,7 @@
   },
   {
     "name": "Шлиссельбург",
+    "name_alt": "Шлиссельбург",
     "label": "shlisselburg",
     "type": "Город",
     "typeShort": "г",
@@ -36535,6 +37114,7 @@
   },
   {
     "name": "Липецк",
+    "name_alt": "Липецк",
     "label": "lipetsk",
     "type": "Город",
     "typeShort": "г",
@@ -36598,6 +37178,7 @@
   },
   {
     "name": "Елец",
+    "name_alt": "Елец",
     "label": "yelets",
     "type": "Город",
     "typeShort": "г",
@@ -36661,6 +37242,7 @@
   },
   {
     "name": "Грязи",
+    "name_alt": "Грязи",
     "label": "gryazi",
     "type": "Город",
     "typeShort": "г",
@@ -36724,6 +37306,7 @@
   },
   {
     "name": "Лебедянь",
+    "name_alt": "Лебедянь",
     "label": "lebedyan",
     "type": "Город",
     "typeShort": "г",
@@ -36787,6 +37370,7 @@
   },
   {
     "name": "Данков",
+    "name_alt": "Данков",
     "label": "dankov",
     "type": "Город",
     "typeShort": "г",
@@ -36850,6 +37434,7 @@
   },
   {
     "name": "Усмань",
+    "name_alt": "Усмань",
     "label": "usman",
     "type": "Город",
     "typeShort": "г",
@@ -36913,6 +37498,7 @@
   },
   {
     "name": "Чаплыгин",
+    "name_alt": "Чаплыгин",
     "label": "chaplygin",
     "type": "Город",
     "typeShort": "г",
@@ -36976,6 +37562,7 @@
   },
   {
     "name": "Задонск",
+    "name_alt": "Задонск",
     "label": "zadonsk",
     "type": "Город",
     "typeShort": "г",
@@ -37039,6 +37626,7 @@
   },
   {
     "name": "Магадан",
+    "name_alt": "Магадан",
     "label": "magadan",
     "type": "Город",
     "typeShort": "г",
@@ -37102,6 +37690,7 @@
   },
   {
     "name": "Сусуман",
+    "name_alt": "Сусуман",
     "label": "susuman",
     "type": "Город",
     "typeShort": "г",
@@ -37165,6 +37754,7 @@
   },
   {
     "name": "Москва",
+    "name_alt": "Москва",
     "label": "moscow",
     "type": "Город",
     "typeShort": "г",
@@ -37220,6 +37810,7 @@
   },
   {
     "name": "Апрелевка",
+    "name_alt": "Апрелевка",
     "label": "aprelevka",
     "type": "Город",
     "typeShort": "г",
@@ -37283,6 +37874,7 @@
   },
   {
     "name": "Балашиха",
+    "name_alt": "Балашиха",
     "label": "balashikha",
     "type": "Город",
     "typeShort": "г",
@@ -37346,7 +37938,8 @@
   },
   {
     "name": "Белоозёрский",
-    "label": "beloozyorsky",
+    "name_alt": "Белоозерский",
+    "label": "beloozersky",
     "type": "Город",
     "typeShort": "г.",
     "contentType": "city",
@@ -37409,6 +38002,7 @@
   },
   {
     "name": "Бронницы",
+    "name_alt": "Бронницы",
     "label": "bronnitsy",
     "type": "Город",
     "typeShort": "г",
@@ -37472,6 +38066,7 @@
   },
   {
     "name": "Верея",
+    "name_alt": "Верея",
     "label": "vereya",
     "type": "Город",
     "typeShort": "г",
@@ -37535,6 +38130,7 @@
   },
   {
     "name": "Видное",
+    "name_alt": "Видное",
     "label": "vidnoye",
     "type": "Город",
     "typeShort": "г",
@@ -37598,6 +38194,7 @@
   },
   {
     "name": "Волоколамск",
+    "name_alt": "Волоколамск",
     "label": "volokolamsk",
     "type": "Город",
     "typeShort": "г",
@@ -37661,6 +38258,7 @@
   },
   {
     "name": "Воскресенск",
+    "name_alt": "Воскресенск",
     "label": "voskresensk",
     "type": "Город",
     "typeShort": "г",
@@ -37724,6 +38322,7 @@
   },
   {
     "name": "Высоковск",
+    "name_alt": "Высоковск",
     "label": "vysokovsk",
     "type": "Город",
     "typeShort": "г",
@@ -37787,6 +38386,7 @@
   },
   {
     "name": "Голицыно",
+    "name_alt": "Голицыно",
     "label": "golitsyno",
     "type": "Город",
     "typeShort": "г",
@@ -37850,6 +38450,7 @@
   },
   {
     "name": "Дедовск",
+    "name_alt": "Дедовск",
     "label": "dedovsk",
     "type": "Город",
     "typeShort": "г",
@@ -37913,6 +38514,7 @@
   },
   {
     "name": "Дзержинский",
+    "name_alt": "Дзержинский",
     "label": "dzerzhinsky",
     "type": "Город",
     "typeShort": "г",
@@ -37976,6 +38578,7 @@
   },
   {
     "name": "Дмитров",
+    "name_alt": "Дмитров",
     "label": "dmitrov",
     "type": "Город",
     "typeShort": "г",
@@ -38039,6 +38642,7 @@
   },
   {
     "name": "Долгопрудный",
+    "name_alt": "Долгопрудный",
     "label": "dolgoprudny",
     "type": "Город",
     "typeShort": "г",
@@ -38102,6 +38706,7 @@
   },
   {
     "name": "Домодедово",
+    "name_alt": "Домодедово",
     "label": "domodedovo",
     "type": "Город",
     "typeShort": "г",
@@ -38165,6 +38770,7 @@
   },
   {
     "name": "Дрезна",
+    "name_alt": "Дрезна",
     "label": "drezna",
     "type": "Город",
     "typeShort": "г",
@@ -38228,6 +38834,7 @@
   },
   {
     "name": "Дубна",
+    "name_alt": "Дубна",
     "label": "dubna",
     "type": "Город",
     "typeShort": "г",
@@ -38291,6 +38898,7 @@
   },
   {
     "name": "Егорьевск",
+    "name_alt": "Егорьевск",
     "label": "yegoryevsk",
     "type": "Город",
     "typeShort": "г",
@@ -38354,6 +38962,7 @@
   },
   {
     "name": "Жуковский",
+    "name_alt": "Жуковский",
     "label": "zhukovsky",
     "type": "Город",
     "typeShort": "г",
@@ -38417,6 +39026,7 @@
   },
   {
     "name": "Зарайск",
+    "name_alt": "Зарайск",
     "label": "zaraysk",
     "type": "Город",
     "typeShort": "г",
@@ -38480,6 +39090,7 @@
   },
   {
     "name": "Звенигород",
+    "name_alt": "Звенигород",
     "label": "zvenigorod",
     "type": "Город",
     "typeShort": "г",
@@ -38543,6 +39154,7 @@
   },
   {
     "name": "Ивантеевка",
+    "name_alt": "Ивантеевка",
     "label": "ivanteyevka",
     "type": "Город",
     "typeShort": "г",
@@ -38606,6 +39218,7 @@
   },
   {
     "name": "Истра",
+    "name_alt": "Истра",
     "label": "istra",
     "type": "Город",
     "typeShort": "г",
@@ -38669,6 +39282,7 @@
   },
   {
     "name": "Кашира",
+    "name_alt": "Кашира",
     "label": "kashira",
     "type": "Город",
     "typeShort": "г",
@@ -38732,6 +39346,7 @@
   },
   {
     "name": "Клин",
+    "name_alt": "Клин",
     "label": "klin",
     "type": "Город",
     "typeShort": "г",
@@ -38795,6 +39410,7 @@
   },
   {
     "name": "Коломна",
+    "name_alt": "Коломна",
     "label": "kolomna",
     "type": "Город",
     "typeShort": "г",
@@ -38858,7 +39474,8 @@
   },
   {
     "name": "Королёв",
-    "label": "korolyov",
+    "name_alt": "Королев",
+    "label": "korolev",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -38921,6 +39538,7 @@
   },
   {
     "name": "Котельники",
+    "name_alt": "Котельники",
     "label": "kotelniki",
     "type": "Город",
     "typeShort": "г",
@@ -38984,6 +39602,7 @@
   },
   {
     "name": "Красноармейск",
+    "name_alt": "Красноармейск",
     "label": "krasnoarmeysk",
     "type": "Город",
     "typeShort": "г",
@@ -39047,6 +39666,7 @@
   },
   {
     "name": "Красногорск",
+    "name_alt": "Красногорск",
     "label": "krasnogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -39110,6 +39730,7 @@
   },
   {
     "name": "Краснозаводск",
+    "name_alt": "Краснозаводск",
     "label": "krasnozavodsk",
     "type": "Город",
     "typeShort": "г",
@@ -39173,6 +39794,7 @@
   },
   {
     "name": "Краснознаменск",
+    "name_alt": "Краснознаменск",
     "label": "krasnoznamensk",
     "type": "Город",
     "typeShort": "г",
@@ -39236,6 +39858,7 @@
   },
   {
     "name": "Кубинка",
+    "name_alt": "Кубинка",
     "label": "kubinka",
     "type": "Город",
     "typeShort": "г",
@@ -39299,6 +39922,7 @@
   },
   {
     "name": "Куровское",
+    "name_alt": "Куровское",
     "label": "kurovskoye",
     "type": "Город",
     "typeShort": "г",
@@ -39362,7 +39986,8 @@
   },
   {
     "name": "Ликино-Дулёво",
-    "label": "likino_dulyovo",
+    "name_alt": "Ликино-Дулево",
+    "label": "likino_dulevo",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -39425,6 +40050,7 @@
   },
   {
     "name": "Лобня",
+    "name_alt": "Лобня",
     "label": "lobnya",
     "type": "Город",
     "typeShort": "г",
@@ -39488,6 +40114,7 @@
   },
   {
     "name": "Лосино-Петровский",
+    "name_alt": "Лосино-Петровский",
     "label": "losino_petrovsky",
     "type": "Город",
     "typeShort": "г",
@@ -39551,6 +40178,7 @@
   },
   {
     "name": "Луховицы",
+    "name_alt": "Луховицы",
     "label": "lukhovitsy",
     "type": "Город",
     "typeShort": "г",
@@ -39614,6 +40242,7 @@
   },
   {
     "name": "Лыткарино",
+    "name_alt": "Лыткарино",
     "label": "lytkarino",
     "type": "Город",
     "typeShort": "г",
@@ -39677,6 +40306,7 @@
   },
   {
     "name": "Люберцы",
+    "name_alt": "Люберцы",
     "label": "lyubertsy",
     "type": "Город",
     "typeShort": "г",
@@ -39740,6 +40370,7 @@
   },
   {
     "name": "Можайск",
+    "name_alt": "Можайск",
     "label": "mozhaisk",
     "type": "Город",
     "typeShort": "г",
@@ -39803,6 +40434,7 @@
   },
   {
     "name": "Мытищи",
+    "name_alt": "Мытищи",
     "label": "mytishchi",
     "type": "Город",
     "typeShort": "г",
@@ -39866,6 +40498,7 @@
   },
   {
     "name": "Наро-Фоминск",
+    "name_alt": "Наро-Фоминск",
     "label": "naro_fominsk",
     "type": "Город",
     "typeShort": "г",
@@ -39929,6 +40562,7 @@
   },
   {
     "name": "Ногинск",
+    "name_alt": "Ногинск",
     "label": "noginsk",
     "type": "Город",
     "typeShort": "г",
@@ -39992,6 +40626,7 @@
   },
   {
     "name": "Одинцово",
+    "name_alt": "Одинцово",
     "label": "odintsovo",
     "type": "Город",
     "typeShort": "г",
@@ -40055,7 +40690,8 @@
   },
   {
     "name": "Озёры",
-    "label": "ozyory",
+    "name_alt": "Озеры",
+    "label": "ozery",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -40118,6 +40754,7 @@
   },
   {
     "name": "Орехово-Зуево",
+    "name_alt": "Орехово-Зуево",
     "label": "orekhovo_zuyevo",
     "type": "Город",
     "typeShort": "г",
@@ -40181,6 +40818,7 @@
   },
   {
     "name": "Павловский Посад",
+    "name_alt": "Павловский Посад",
     "label": "pavlovsky_posad",
     "type": "Город",
     "typeShort": "г",
@@ -40244,6 +40882,7 @@
   },
   {
     "name": "Пересвет",
+    "name_alt": "Пересвет",
     "label": "peresvet",
     "type": "Город",
     "typeShort": "г",
@@ -40307,6 +40946,7 @@
   },
   {
     "name": "Подольск",
+    "name_alt": "Подольск",
     "label": "podolsk",
     "type": "Город",
     "typeShort": "г",
@@ -40370,6 +41010,7 @@
   },
   {
     "name": "Протвино",
+    "name_alt": "Протвино",
     "label": "protvino",
     "type": "Город",
     "typeShort": "г",
@@ -40433,6 +41074,7 @@
   },
   {
     "name": "Пушкино",
+    "name_alt": "Пушкино",
     "label": "pushkino",
     "type": "Город",
     "typeShort": "г",
@@ -40496,6 +41138,7 @@
   },
   {
     "name": "Пущино",
+    "name_alt": "Пущино",
     "label": "pushchino",
     "type": "Город",
     "typeShort": "г",
@@ -40559,6 +41202,7 @@
   },
   {
     "name": "Раменское",
+    "name_alt": "Раменское",
     "label": "ramenskoye",
     "type": "Город",
     "typeShort": "г",
@@ -40622,6 +41266,7 @@
   },
   {
     "name": "Реутов",
+    "name_alt": "Реутов",
     "label": "reutov",
     "type": "Город",
     "typeShort": "г",
@@ -40685,6 +41330,7 @@
   },
   {
     "name": "Рошаль",
+    "name_alt": "Рошаль",
     "label": "roshal",
     "type": "Город",
     "typeShort": "г",
@@ -40748,6 +41394,7 @@
   },
   {
     "name": "Руза",
+    "name_alt": "Руза",
     "label": "ruza",
     "type": "Город",
     "typeShort": "г.",
@@ -40811,6 +41458,7 @@
   },
   {
     "name": "Сергиев Посад",
+    "name_alt": "Сергиев Посад",
     "label": "sergiyev_posad",
     "type": "Город",
     "typeShort": "г",
@@ -40874,6 +41522,7 @@
   },
   {
     "name": "Серпухов",
+    "name_alt": "Серпухов",
     "label": "serpukhov",
     "type": "Город",
     "typeShort": "г",
@@ -40937,6 +41586,7 @@
   },
   {
     "name": "Солнечногорск",
+    "name_alt": "Солнечногорск",
     "label": "solnechnogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -41000,6 +41650,7 @@
   },
   {
     "name": "Старая Купавна",
+    "name_alt": "Старая Купавна",
     "label": "staraya_kupavna",
     "type": "Город",
     "typeShort": "г",
@@ -41063,6 +41714,7 @@
   },
   {
     "name": "Ступино",
+    "name_alt": "Ступино",
     "label": "stupino",
     "type": "Город",
     "typeShort": "г",
@@ -41126,6 +41778,7 @@
   },
   {
     "name": "Талдом",
+    "name_alt": "Талдом",
     "label": "taldom",
     "type": "Город",
     "typeShort": "г",
@@ -41189,6 +41842,7 @@
   },
   {
     "name": "Фрязино",
+    "name_alt": "Фрязино",
     "label": "fryazino",
     "type": "Город",
     "typeShort": "г",
@@ -41252,6 +41906,7 @@
   },
   {
     "name": "Химки",
+    "name_alt": "Химки",
     "label": "khimki",
     "type": "Город",
     "typeShort": "г",
@@ -41315,6 +41970,7 @@
   },
   {
     "name": "Хотьково",
+    "name_alt": "Хотьково",
     "label": "khotkovo",
     "type": "Город",
     "typeShort": "г",
@@ -41378,6 +42034,7 @@
   },
   {
     "name": "Черноголовка",
+    "name_alt": "Черноголовка",
     "label": "chernogolovka",
     "type": "Город",
     "typeShort": "г",
@@ -41441,6 +42098,7 @@
   },
   {
     "name": "Чехов",
+    "name_alt": "Чехов",
     "label": "chekhov",
     "type": "Город",
     "typeShort": "г",
@@ -41504,6 +42162,7 @@
   },
   {
     "name": "Шатура",
+    "name_alt": "Шатура",
     "label": "shatura",
     "type": "Город",
     "typeShort": "г",
@@ -41567,7 +42226,8 @@
   },
   {
     "name": "Щёлково",
-    "label": "shchyolkovo",
+    "name_alt": "Щелково",
+    "label": "schelkovo",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -41630,6 +42290,7 @@
   },
   {
     "name": "Электрогорск",
+    "name_alt": "Электрогорск",
     "label": "elektrogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -41693,6 +42354,7 @@
   },
   {
     "name": "Электросталь",
+    "name_alt": "Электросталь",
     "label": "elektrostal",
     "type": "Город",
     "typeShort": "г.",
@@ -41756,6 +42418,7 @@
   },
   {
     "name": "Электроугли",
+    "name_alt": "Электроугли",
     "label": "elektrougli",
     "type": "Город",
     "typeShort": "г",
@@ -41819,6 +42482,7 @@
   },
   {
     "name": "Яхрома",
+    "name_alt": "Яхрома",
     "label": "yakhroma",
     "type": "Город",
     "typeShort": "г",
@@ -41882,6 +42546,7 @@
   },
   {
     "name": "Апатиты",
+    "name_alt": "Апатиты",
     "label": "apatity",
     "type": "Город",
     "typeShort": "г",
@@ -41945,6 +42610,7 @@
   },
   {
     "name": "Гаджиево",
+    "name_alt": "Гаджиево",
     "label": "gadzhiyevo",
     "type": "Город",
     "typeShort": "г",
@@ -42008,6 +42674,7 @@
   },
   {
     "name": "Заозёрск",
+    "name_alt": "Заозерск",
     "label": "zaozersk",
     "type": "Город",
     "typeShort": "г",
@@ -42071,6 +42738,7 @@
   },
   {
     "name": "Заполярный",
+    "name_alt": "Заполярный",
     "label": "zapolyarnyy",
     "type": "Город",
     "typeShort": "г",
@@ -42134,6 +42802,7 @@
   },
   {
     "name": "Кандалакша",
+    "name_alt": "Кандалакша",
     "label": "kandalaksha",
     "type": "Город",
     "typeShort": "г",
@@ -42197,6 +42866,7 @@
   },
   {
     "name": "Кировск",
+    "name_alt": "Кировск",
     "label": "kirovsk",
     "type": "Город",
     "typeShort": "г",
@@ -42260,6 +42930,7 @@
   },
   {
     "name": "Ковдор",
+    "name_alt": "Ковдор",
     "label": "kovdor",
     "type": "Город",
     "typeShort": "г",
@@ -42323,6 +42994,7 @@
   },
   {
     "name": "Кола",
+    "name_alt": "Кола",
     "label": "kola",
     "type": "Город",
     "typeShort": "г",
@@ -42386,6 +43058,7 @@
   },
   {
     "name": "Мончегорск",
+    "name_alt": "Мончегорск",
     "label": "monchegorsk",
     "type": "Город",
     "typeShort": "г",
@@ -42449,6 +43122,7 @@
   },
   {
     "name": "Мурманск",
+    "name_alt": "Мурманск",
     "label": "murmansk",
     "type": "Город",
     "typeShort": "г",
@@ -42512,6 +43186,7 @@
   },
   {
     "name": "Оленегорск",
+    "name_alt": "Оленегорск",
     "label": "olenegorsk",
     "type": "Город",
     "typeShort": "г",
@@ -42575,6 +43250,7 @@
   },
   {
     "name": "Островной",
+    "name_alt": "Островной",
     "label": "ostrovnoy",
     "type": "Город",
     "typeShort": "г",
@@ -42638,6 +43314,7 @@
   },
   {
     "name": "Полярные Зори",
+    "name_alt": "Полярные Зори",
     "label": "polarnie_zori",
     "type": "Город",
     "typeShort": "г",
@@ -42701,6 +43378,7 @@
   },
   {
     "name": "Полярный",
+    "name_alt": "Полярный",
     "label": "polyarny",
     "type": "Город",
     "typeShort": "г.",
@@ -42764,6 +43442,7 @@
   },
   {
     "name": "Североморск",
+    "name_alt": "Североморск",
     "label": "severomorsk",
     "type": "Город",
     "typeShort": "г",
@@ -42827,6 +43506,7 @@
   },
   {
     "name": "Заволжье",
+    "name_alt": "Заволжье",
     "label": "zavolzhe",
     "type": "Город",
     "typeShort": "г",
@@ -42890,6 +43570,7 @@
   },
   {
     "name": "Богородск",
+    "name_alt": "Богородск",
     "label": "bogorodsk",
     "type": "Город",
     "typeShort": "г",
@@ -42953,6 +43634,7 @@
   },
   {
     "name": "Кулебаки",
+    "name_alt": "Кулебаки",
     "label": "kulebaki",
     "type": "Город",
     "typeShort": "г",
@@ -43016,6 +43698,7 @@
   },
   {
     "name": "Городец",
+    "name_alt": "Городец",
     "label": "gorodets",
     "type": "Город",
     "typeShort": "г",
@@ -43079,7 +43762,8 @@
   },
   {
     "name": "Семёнов",
-    "label": "semyonov",
+    "name_alt": "Семенов",
+    "label": "semenov",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -43142,6 +43826,7 @@
   },
   {
     "name": "Лысково",
+    "name_alt": "Лысково",
     "label": "lyskovo",
     "type": "Город",
     "typeShort": "г",
@@ -43205,6 +43890,7 @@
   },
   {
     "name": "Сергач",
+    "name_alt": "Сергач",
     "label": "sergach",
     "type": "Город",
     "typeShort": "г",
@@ -43268,6 +43954,7 @@
   },
   {
     "name": "Шахунья",
+    "name_alt": "Шахунья",
     "label": "shakhunya",
     "type": "Город",
     "typeShort": "г",
@@ -43331,6 +44018,7 @@
   },
   {
     "name": "Навашино",
+    "name_alt": "Навашино",
     "label": "navashino",
     "type": "Город",
     "typeShort": "г",
@@ -43394,6 +44082,7 @@
   },
   {
     "name": "Лукоянов",
+    "name_alt": "Лукоянов",
     "label": "lukoyanov",
     "type": "Город",
     "typeShort": "г",
@@ -43457,6 +44146,7 @@
   },
   {
     "name": "Первомайск",
+    "name_alt": "Первомайск",
     "label": "pervomaysk",
     "type": "Город",
     "typeShort": "г",
@@ -43520,6 +44210,7 @@
   },
   {
     "name": "Чкаловск",
+    "name_alt": "Чкаловск",
     "label": "chkalovsk",
     "type": "Город",
     "typeShort": "г",
@@ -43583,6 +44274,7 @@
   },
   {
     "name": "Урень",
+    "name_alt": "Урень",
     "label": "uren",
     "type": "Город",
     "typeShort": "г",
@@ -43646,6 +44338,7 @@
   },
   {
     "name": "Ворсма",
+    "name_alt": "Ворсма",
     "label": "vorsma",
     "type": "Город",
     "typeShort": "г",
@@ -43709,6 +44402,7 @@
   },
   {
     "name": "Володарск",
+    "name_alt": "Володарск",
     "label": "volodarsk",
     "type": "Город",
     "typeShort": "г",
@@ -43772,6 +44466,7 @@
   },
   {
     "name": "Перевоз",
+    "name_alt": "Перевоз",
     "label": "perevoz",
     "type": "Город",
     "typeShort": "г",
@@ -43835,6 +44530,7 @@
   },
   {
     "name": "Ветлуга",
+    "name_alt": "Ветлуга",
     "label": "vetluga",
     "type": "Город",
     "typeShort": "г",
@@ -43898,6 +44594,7 @@
   },
   {
     "name": "Княгинино",
+    "name_alt": "Княгинино",
     "label": "knyaginino",
     "type": "Город",
     "typeShort": "г",
@@ -43961,6 +44658,7 @@
   },
   {
     "name": "Горбатов",
+    "name_alt": "Горбатов",
     "label": "gorbatov",
     "type": "Город",
     "typeShort": "г",
@@ -44024,6 +44722,7 @@
   },
   {
     "name": "Великий Новгород",
+    "name_alt": "Великий Новгород",
     "label": "veliky_novgorod",
     "type": "Город",
     "typeShort": "г",
@@ -44087,6 +44786,7 @@
   },
   {
     "name": "Снежногорск",
+    "name_alt": "Снежногорск",
     "label": "snezhnogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -44150,6 +44850,7 @@
   },
   {
     "name": "Нижний Новгород",
+    "name_alt": "Нижний Новгород",
     "label": "nizhny_novgorod",
     "type": "Город",
     "typeShort": "г",
@@ -44213,6 +44914,7 @@
   },
   {
     "name": "Дзержинск",
+    "name_alt": "Дзержинск",
     "label": "dzerzhinsk",
     "type": "Город",
     "typeShort": "г",
@@ -44276,6 +44978,7 @@
   },
   {
     "name": "Арзамас",
+    "name_alt": "Арзамас",
     "label": "arzamas",
     "type": "Город",
     "typeShort": "г",
@@ -44339,6 +45042,7 @@
   },
   {
     "name": "Саров",
+    "name_alt": "Саров",
     "label": "sarov",
     "type": "Город",
     "typeShort": "г",
@@ -44402,6 +45106,7 @@
   },
   {
     "name": "Бор",
+    "name_alt": "Бор",
     "label": "bor",
     "type": "Город",
     "typeShort": "г",
@@ -44465,6 +45170,7 @@
   },
   {
     "name": "Кстово",
+    "name_alt": "Кстово",
     "label": "kstovo",
     "type": "Город",
     "typeShort": "г",
@@ -44528,6 +45234,7 @@
   },
   {
     "name": "Павлово",
+    "name_alt": "Павлово",
     "label": "pavlovo",
     "type": "Город",
     "typeShort": "г",
@@ -44591,6 +45298,7 @@
   },
   {
     "name": "Выкса",
+    "name_alt": "Выкса",
     "label": "vyksa",
     "type": "Город",
     "typeShort": "г",
@@ -44654,6 +45362,7 @@
   },
   {
     "name": "Балахна",
+    "name_alt": "Балахна",
     "label": "balakhna",
     "type": "Город",
     "typeShort": "г",
@@ -44717,6 +45426,7 @@
   },
   {
     "name": "Боровичи",
+    "name_alt": "Боровичи",
     "label": "borovichi",
     "type": "Город",
     "typeShort": "г",
@@ -44780,6 +45490,7 @@
   },
   {
     "name": "Старая Русса",
+    "name_alt": "Старая Русса",
     "label": "staraya_russa",
     "type": "Город",
     "typeShort": "г",
@@ -44843,6 +45554,7 @@
   },
   {
     "name": "Пестово",
+    "name_alt": "Пестово",
     "label": "pestovo",
     "type": "Город",
     "typeShort": "г",
@@ -44906,6 +45618,7 @@
   },
   {
     "name": "Валдай",
+    "name_alt": "Валдай",
     "label": "valday",
     "type": "Город",
     "typeShort": "г",
@@ -44969,6 +45682,7 @@
   },
   {
     "name": "Чудово",
+    "name_alt": "Чудово",
     "label": "chudovo",
     "type": "Город",
     "typeShort": "г",
@@ -45032,6 +45746,7 @@
   },
   {
     "name": "Малая Вишера",
+    "name_alt": "Малая Вишера",
     "label": "malaya_vishera",
     "type": "Город",
     "typeShort": "г",
@@ -45095,6 +45810,7 @@
   },
   {
     "name": "Окуловка",
+    "name_alt": "Окуловка",
     "label": "okulovka",
     "type": "Город",
     "typeShort": "г",
@@ -45158,6 +45874,7 @@
   },
   {
     "name": "Сольцы",
+    "name_alt": "Сольцы",
     "label": "soltsy",
     "type": "Город",
     "typeShort": "г",
@@ -45221,6 +45938,7 @@
   },
   {
     "name": "Холм",
+    "name_alt": "Холм",
     "label": "kholm",
     "type": "Город",
     "typeShort": "г",
@@ -45284,6 +46002,7 @@
   },
   {
     "name": "Новосибирск",
+    "name_alt": "Новосибирск",
     "label": "novosibirsk",
     "type": "Город",
     "typeShort": "г",
@@ -45347,6 +46066,7 @@
   },
   {
     "name": "Барабинск",
+    "name_alt": "Барабинск",
     "label": "barabinsk",
     "type": "Город",
     "typeShort": "г",
@@ -45410,6 +46130,7 @@
   },
   {
     "name": "Бердск",
+    "name_alt": "Бердск",
     "label": "berdsk",
     "type": "Город",
     "typeShort": "г",
@@ -45473,6 +46194,7 @@
   },
   {
     "name": "Болотное",
+    "name_alt": "Болотное",
     "label": "bolotnoye",
     "type": "Город",
     "typeShort": "г",
@@ -45536,6 +46258,7 @@
   },
   {
     "name": "Искитим",
+    "name_alt": "Искитим",
     "label": "iskitim",
     "type": "Город",
     "typeShort": "г",
@@ -45599,6 +46322,7 @@
   },
   {
     "name": "Карасук",
+    "name_alt": "Карасук",
     "label": "karasuk",
     "type": "Город",
     "typeShort": "г",
@@ -45662,6 +46386,7 @@
   },
   {
     "name": "Каргат",
+    "name_alt": "Каргат",
     "label": "kargat",
     "type": "Город",
     "typeShort": "г",
@@ -45725,6 +46450,7 @@
   },
   {
     "name": "Куйбышев",
+    "name_alt": "Куйбышев",
     "label": "kuybyshev",
     "type": "Город",
     "typeShort": "г",
@@ -45788,6 +46514,7 @@
   },
   {
     "name": "Купино",
+    "name_alt": "Купино",
     "label": "kupino",
     "type": "Город",
     "typeShort": "г",
@@ -45851,6 +46578,7 @@
   },
   {
     "name": "Обь",
+    "name_alt": "Обь",
     "label": "ob",
     "type": "Город",
     "typeShort": "г",
@@ -45914,6 +46642,7 @@
   },
   {
     "name": "Татарск",
+    "name_alt": "Татарск",
     "label": "tatarsk",
     "type": "Город",
     "typeShort": "г",
@@ -45977,6 +46706,7 @@
   },
   {
     "name": "Тогучин",
+    "name_alt": "Тогучин",
     "label": "toguchin",
     "type": "Город",
     "typeShort": "г",
@@ -46040,6 +46770,7 @@
   },
   {
     "name": "Черепаново",
+    "name_alt": "Черепаново",
     "label": "cherepanovo",
     "type": "Город",
     "typeShort": "г",
@@ -46103,6 +46834,7 @@
   },
   {
     "name": "Чулым",
+    "name_alt": "Чулым",
     "label": "chulym",
     "type": "Город",
     "typeShort": "г",
@@ -46166,6 +46898,7 @@
   },
   {
     "name": "Омск",
+    "name_alt": "Омск",
     "label": "omsk",
     "type": "Город",
     "typeShort": "г",
@@ -46229,6 +46962,7 @@
   },
   {
     "name": "Исилькуль",
+    "name_alt": "Исилькуль",
     "label": "isilkul",
     "type": "Город",
     "typeShort": "г",
@@ -46292,6 +47026,7 @@
   },
   {
     "name": "Калачинск",
+    "name_alt": "Калачинск",
     "label": "kalachinsk",
     "type": "Город",
     "typeShort": "г",
@@ -46355,6 +47090,7 @@
   },
   {
     "name": "Называевск",
+    "name_alt": "Называевск",
     "label": "nazyvayevsk",
     "type": "Город",
     "typeShort": "г",
@@ -46418,6 +47154,7 @@
   },
   {
     "name": "Тара",
+    "name_alt": "Тара",
     "label": "tara",
     "type": "Город",
     "typeShort": "г",
@@ -46481,6 +47218,7 @@
   },
   {
     "name": "Тюкалинск",
+    "name_alt": "Тюкалинск",
     "label": "tyukalinsk",
     "type": "Город",
     "typeShort": "г",
@@ -46544,6 +47282,7 @@
   },
   {
     "name": "Оренбург",
+    "name_alt": "Оренбург",
     "label": "orenburg",
     "type": "Город",
     "typeShort": "г",
@@ -46607,6 +47346,7 @@
   },
   {
     "name": "Орск",
+    "name_alt": "Орск",
     "label": "orsk",
     "type": "Город",
     "typeShort": "г",
@@ -46670,6 +47410,7 @@
   },
   {
     "name": "Новотроицк",
+    "name_alt": "Новотроицк",
     "label": "novotroitsk",
     "type": "Город",
     "typeShort": "г",
@@ -46733,6 +47474,7 @@
   },
   {
     "name": "Бузулук",
+    "name_alt": "Бузулук",
     "label": "buzuluk",
     "type": "Город",
     "typeShort": "г",
@@ -46796,6 +47538,7 @@
   },
   {
     "name": "Бугуруслан",
+    "name_alt": "Бугуруслан",
     "label": "buguruslan",
     "type": "Город",
     "typeShort": "г",
@@ -46859,6 +47602,7 @@
   },
   {
     "name": "Сорочинск",
+    "name_alt": "Сорочинск",
     "label": "sorochinsk",
     "type": "Город",
     "typeShort": "г.",
@@ -46922,6 +47666,7 @@
   },
   {
     "name": "Соль-Илецк",
+    "name_alt": "Соль-Илецк",
     "label": "sol_iletsk",
     "type": "Город",
     "typeShort": "г",
@@ -46985,7 +47730,8 @@
   },
   {
     "name": "Гай",
-    "label": "gay",
+    "name_alt": "Гай",
+    "label": "gai",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -47048,6 +47794,7 @@
   },
   {
     "name": "Медногорск",
+    "name_alt": "Медногорск",
     "label": "mednogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -47111,6 +47858,7 @@
   },
   {
     "name": "Кувандык",
+    "name_alt": "Кувандык",
     "label": "kuvandyk",
     "type": "Город",
     "typeShort": "г",
@@ -47174,6 +47922,7 @@
   },
   {
     "name": "Абдулино",
+    "name_alt": "Абдулино",
     "label": "abdulino",
     "type": "Город",
     "typeShort": "г",
@@ -47237,6 +47986,7 @@
   },
   {
     "name": "Ясный",
+    "name_alt": "Ясный",
     "label": "yasny",
     "type": "Город",
     "typeShort": "г",
@@ -47300,7 +48050,8 @@
   },
   {
     "name": "Орёл",
-    "label": "oryol",
+    "name_alt": "Орел",
+    "label": "orel",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -47363,6 +48114,7 @@
   },
   {
     "name": "Ливны",
+    "name_alt": "Ливны",
     "label": "livny",
     "type": "Город",
     "typeShort": "г",
@@ -47416,7 +48168,7 @@
       },
       "capital": {
         "name": "Орёл",
-        "label": "oryol",
+        "label": "orel",
         "id": "5700000100000",
         "okato": "54401000000",
         "oktmo": "54701000001",
@@ -47426,6 +48178,7 @@
   },
   {
     "name": "Мценск",
+    "name_alt": "Мценск",
     "label": "mtsensk",
     "type": "Город",
     "typeShort": "г",
@@ -47479,7 +48232,7 @@
       },
       "capital": {
         "name": "Орёл",
-        "label": "oryol",
+        "label": "orel",
         "id": "5700000100000",
         "okato": "54401000000",
         "oktmo": "54701000001",
@@ -47489,6 +48242,7 @@
   },
   {
     "name": "Болхов",
+    "name_alt": "Болхов",
     "label": "bolkhov",
     "type": "Город",
     "typeShort": "г",
@@ -47542,7 +48296,7 @@
       },
       "capital": {
         "name": "Орёл",
-        "label": "oryol",
+        "label": "orel",
         "id": "5700000100000",
         "okato": "54401000000",
         "oktmo": "54701000001",
@@ -47552,6 +48306,7 @@
   },
   {
     "name": "Дмитровск",
+    "name_alt": "Дмитровск",
     "label": "dmitrovsk_orlovskiy",
     "type": "Город",
     "typeShort": "г",
@@ -47605,7 +48360,7 @@
       },
       "capital": {
         "name": "Орёл",
-        "label": "oryol",
+        "label": "orel",
         "id": "5700000100000",
         "okato": "54401000000",
         "oktmo": "54701000001",
@@ -47615,6 +48370,7 @@
   },
   {
     "name": "Новосиль",
+    "name_alt": "Новосиль",
     "label": "novosil",
     "type": "Город",
     "typeShort": "г",
@@ -47668,7 +48424,7 @@
       },
       "capital": {
         "name": "Орёл",
-        "label": "oryol",
+        "label": "orel",
         "id": "5700000100000",
         "okato": "54401000000",
         "oktmo": "54701000001",
@@ -47678,6 +48434,7 @@
   },
   {
     "name": "Малоархангельск",
+    "name_alt": "Малоархангельск",
     "label": "maloarkhangelsk",
     "type": "Город",
     "typeShort": "г",
@@ -47731,7 +48488,7 @@
       },
       "capital": {
         "name": "Орёл",
-        "label": "oryol",
+        "label": "orel",
         "id": "5700000100000",
         "okato": "54401000000",
         "oktmo": "54701000001",
@@ -47741,6 +48498,7 @@
   },
   {
     "name": "Белинский",
+    "name_alt": "Белинский",
     "label": "belinskiy",
     "type": "Город",
     "typeShort": "г",
@@ -47804,6 +48562,7 @@
   },
   {
     "name": "Городище",
+    "name_alt": "Городище",
     "label": "gorodishche",
     "type": "Город",
     "typeShort": "г",
@@ -47867,6 +48626,7 @@
   },
   {
     "name": "Заречный",
+    "name_alt": "Заречный",
     "label": "zarechny",
     "type": "Город",
     "typeShort": "г",
@@ -47930,6 +48690,7 @@
   },
   {
     "name": "Каменка",
+    "name_alt": "Каменка",
     "label": "kamenka",
     "type": "Город",
     "typeShort": "г",
@@ -47993,6 +48754,7 @@
   },
   {
     "name": "Кузнецк",
+    "name_alt": "Кузнецк",
     "label": "kuznetsk",
     "type": "Город",
     "typeShort": "г",
@@ -48056,6 +48818,7 @@
   },
   {
     "name": "Нижний Ломов",
+    "name_alt": "Нижний Ломов",
     "label": "nizhniy_lomov",
     "type": "Город",
     "typeShort": "г",
@@ -48119,6 +48882,7 @@
   },
   {
     "name": "Никольск",
+    "name_alt": "Никольск",
     "label": "nikolsk",
     "type": "Город",
     "typeShort": "г",
@@ -48182,6 +48946,7 @@
   },
   {
     "name": "Пенза",
+    "name_alt": "Пенза",
     "label": "penza",
     "type": "Город",
     "typeShort": "г",
@@ -48245,6 +49010,7 @@
   },
   {
     "name": "Сердобск",
+    "name_alt": "Сердобск",
     "label": "serdobsk",
     "type": "Город",
     "typeShort": "г",
@@ -48308,6 +49074,7 @@
   },
   {
     "name": "Спасск",
+    "name_alt": "Спасск",
     "label": "spassk",
     "type": "Город",
     "typeShort": "г",
@@ -48371,6 +49138,7 @@
   },
   {
     "name": "Сурск",
+    "name_alt": "Сурск",
     "label": "sursk",
     "type": "Город",
     "typeShort": "г",
@@ -48434,6 +49202,7 @@
   },
   {
     "name": "Пермь",
+    "name_alt": "Пермь",
     "label": "perm",
     "type": "Город",
     "typeShort": "г",
@@ -48497,6 +49266,7 @@
   },
   {
     "name": "Березники",
+    "name_alt": "Березники",
     "label": "berezniki",
     "type": "Город",
     "typeShort": "г",
@@ -48560,6 +49330,7 @@
   },
   {
     "name": "Соликамск",
+    "name_alt": "Соликамск",
     "label": "solikamsk",
     "type": "Город",
     "typeShort": "г",
@@ -48623,6 +49394,7 @@
   },
   {
     "name": "Чайковский",
+    "name_alt": "Чайковский",
     "label": "chaikovsky",
     "type": "Город",
     "typeShort": "г",
@@ -48686,6 +49458,7 @@
   },
   {
     "name": "Кунгур",
+    "name_alt": "Кунгур",
     "label": "kungur",
     "type": "Город",
     "typeShort": "г",
@@ -48749,6 +49522,7 @@
   },
   {
     "name": "Лысьва",
+    "name_alt": "Лысьва",
     "label": "lysva",
     "type": "Город",
     "typeShort": "г",
@@ -48812,6 +49586,7 @@
   },
   {
     "name": "Краснокамск",
+    "name_alt": "Краснокамск",
     "label": "krasnokamsk",
     "type": "Город",
     "typeShort": "г",
@@ -48875,6 +49650,7 @@
   },
   {
     "name": "Чусовой",
+    "name_alt": "Чусовой",
     "label": "chusovoy",
     "type": "Город",
     "typeShort": "г",
@@ -48938,6 +49714,7 @@
   },
   {
     "name": "Добрянка",
+    "name_alt": "Добрянка",
     "label": "dobryanka",
     "type": "Город",
     "typeShort": "г",
@@ -49001,6 +49778,7 @@
   },
   {
     "name": "Чернушка",
+    "name_alt": "Чернушка",
     "label": "chernushka",
     "type": "Город",
     "typeShort": "г",
@@ -49064,6 +49842,7 @@
   },
   {
     "name": "Кудымкар",
+    "name_alt": "Кудымкар",
     "label": "kudymkar",
     "type": "Город",
     "typeShort": "г",
@@ -49127,6 +49906,7 @@
   },
   {
     "name": "Губаха",
+    "name_alt": "Губаха",
     "label": "gubakha",
     "type": "Город",
     "typeShort": "г",
@@ -49190,6 +49970,7 @@
   },
   {
     "name": "Верещагино",
+    "name_alt": "Верещагино",
     "label": "vereshchagino",
     "type": "Город",
     "typeShort": "г",
@@ -49253,6 +50034,7 @@
   },
   {
     "name": "Оса",
+    "name_alt": "Оса",
     "label": "osa",
     "type": "Город",
     "typeShort": "г",
@@ -49316,6 +50098,7 @@
   },
   {
     "name": "Нытва",
+    "name_alt": "Нытва",
     "label": "nytva",
     "type": "Город",
     "typeShort": "г",
@@ -49379,6 +50162,7 @@
   },
   {
     "name": "Кизел",
+    "name_alt": "Кизел",
     "label": "kizel",
     "type": "Город",
     "typeShort": "г",
@@ -49442,6 +50226,7 @@
   },
   {
     "name": "Красновишерск",
+    "name_alt": "Красновишерск",
     "label": "krasnovishersk",
     "type": "Город",
     "typeShort": "г",
@@ -49505,6 +50290,7 @@
   },
   {
     "name": "Очёр",
+    "name_alt": "Очер",
     "label": "otchor",
     "type": "Город",
     "typeShort": "г",
@@ -49568,6 +50354,7 @@
   },
   {
     "name": "Александровск",
+    "name_alt": "Александровск",
     "label": "alexandrovsk",
     "type": "Город",
     "typeShort": "г",
@@ -49631,6 +50418,7 @@
   },
   {
     "name": "Горнозаводск",
+    "name_alt": "Горнозаводск",
     "label": "gornozavodsk",
     "type": "Город",
     "typeShort": "г",
@@ -49694,6 +50482,7 @@
   },
   {
     "name": "Гремячинск",
+    "name_alt": "Гремячинск",
     "label": "gremyachinsk",
     "type": "Город",
     "typeShort": "г",
@@ -49757,6 +50546,7 @@
   },
   {
     "name": "Оханск",
+    "name_alt": "Оханск",
     "label": "ochansk",
     "type": "Город",
     "typeShort": "г",
@@ -49820,6 +50610,7 @@
   },
   {
     "name": "Усолье",
+    "name_alt": "Усолье",
     "label": "usolye",
     "type": "Город",
     "typeShort": "г",
@@ -49883,6 +50674,7 @@
   },
   {
     "name": "Чердынь",
+    "name_alt": "Чердынь",
     "label": "cherdyn",
     "type": "Город",
     "typeShort": "г",
@@ -49946,7 +50738,8 @@
   },
   {
     "name": "Чёрмоз",
-    "label": "chyormoz",
+    "name_alt": "Чермоз",
+    "label": "chermoz",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -50009,6 +50802,7 @@
   },
   {
     "name": "Великие Луки",
+    "name_alt": "Великие Луки",
     "label": "velikiye_luki",
     "type": "Город",
     "typeShort": "г",
@@ -50072,6 +50866,7 @@
   },
   {
     "name": "Гдов",
+    "name_alt": "Гдов",
     "label": "gdov",
     "type": "Город",
     "typeShort": "г",
@@ -50135,6 +50930,7 @@
   },
   {
     "name": "Дно",
+    "name_alt": "Дно",
     "label": "dno",
     "type": "Город",
     "typeShort": "г",
@@ -50198,6 +50994,7 @@
   },
   {
     "name": "Невель",
+    "name_alt": "Невель",
     "label": "nevel",
     "type": "Город",
     "typeShort": "г",
@@ -50261,6 +51058,7 @@
   },
   {
     "name": "Новоржев",
+    "name_alt": "Новоржев",
     "label": "novorznev",
     "type": "Город",
     "typeShort": "г",
@@ -50324,6 +51122,7 @@
   },
   {
     "name": "Новосокольники",
+    "name_alt": "Новосокольники",
     "label": "novosokolniki",
     "type": "Город",
     "typeShort": "г",
@@ -50387,6 +51186,7 @@
   },
   {
     "name": "Опочка",
+    "name_alt": "Опочка",
     "label": "opochka",
     "type": "Город",
     "typeShort": "г",
@@ -50450,6 +51250,7 @@
   },
   {
     "name": "Остров",
+    "name_alt": "Остров",
     "label": "ostrov",
     "type": "Город",
     "typeShort": "г",
@@ -50513,6 +51314,7 @@
   },
   {
     "name": "Печоры",
+    "name_alt": "Печоры",
     "label": "pechory",
     "type": "Город",
     "typeShort": "г",
@@ -50576,6 +51378,7 @@
   },
   {
     "name": "Порхов",
+    "name_alt": "Порхов",
     "label": "porkhov",
     "type": "Город",
     "typeShort": "г",
@@ -50639,6 +51442,7 @@
   },
   {
     "name": "Псков",
+    "name_alt": "Псков",
     "label": "pskov",
     "type": "Город",
     "typeShort": "г",
@@ -50702,6 +51506,7 @@
   },
   {
     "name": "Пустошка",
+    "name_alt": "Пустошка",
     "label": "pustoshka",
     "type": "Город",
     "typeShort": "г",
@@ -50765,6 +51570,7 @@
   },
   {
     "name": "Пыталово",
+    "name_alt": "Пыталово",
     "label": "pytalovo",
     "type": "Город",
     "typeShort": "г",
@@ -50828,6 +51634,7 @@
   },
   {
     "name": "Себеж",
+    "name_alt": "Себеж",
     "label": "sebezh",
     "type": "Город",
     "typeShort": "г",
@@ -50891,6 +51698,7 @@
   },
   {
     "name": "Ростов-на-Дону",
+    "name_alt": "Ростов-на-Дону",
     "label": "rostov_on_don",
     "type": "Город",
     "typeShort": "г",
@@ -50954,6 +51762,7 @@
   },
   {
     "name": "Таганрог",
+    "name_alt": "Таганрог",
     "label": "taganrog",
     "type": "Город",
     "typeShort": "г",
@@ -51017,6 +51826,7 @@
   },
   {
     "name": "Шахты",
+    "name_alt": "Шахты",
     "label": "shakhty",
     "type": "Город",
     "typeShort": "г",
@@ -51080,6 +51890,7 @@
   },
   {
     "name": "Волгодонск",
+    "name_alt": "Волгодонск",
     "label": "volgodonsk",
     "type": "Город",
     "typeShort": "г",
@@ -51143,6 +51954,7 @@
   },
   {
     "name": "Новочеркасск",
+    "name_alt": "Новочеркасск",
     "label": "novocherkassk",
     "type": "Город",
     "typeShort": "г",
@@ -51206,6 +52018,7 @@
   },
   {
     "name": "Батайск",
+    "name_alt": "Батайск",
     "label": "bataysk",
     "type": "Город",
     "typeShort": "г",
@@ -51269,6 +52082,7 @@
   },
   {
     "name": "Новошахтинск",
+    "name_alt": "Новошахтинск",
     "label": "novoshakhtinsk",
     "type": "Город",
     "typeShort": "г",
@@ -51332,6 +52146,7 @@
   },
   {
     "name": "Каменск-Шахтинский",
+    "name_alt": "Каменск-Шахтинский",
     "label": "kamensk_shakhtinsky",
     "type": "Город",
     "typeShort": "г",
@@ -51395,6 +52210,7 @@
   },
   {
     "name": "Азов",
+    "name_alt": "Азов",
     "label": "azov",
     "type": "Город",
     "typeShort": "г",
@@ -51458,6 +52274,7 @@
   },
   {
     "name": "Гуково",
+    "name_alt": "Гуково",
     "label": "gukovo",
     "type": "Город",
     "typeShort": "г",
@@ -51521,6 +52338,7 @@
   },
   {
     "name": "Сальск",
+    "name_alt": "Сальск",
     "label": "salsk",
     "type": "Город",
     "typeShort": "г",
@@ -51584,6 +52402,7 @@
   },
   {
     "name": "Донецк",
+    "name_alt": "Донецк",
     "label": "donetsk",
     "type": "Город",
     "typeShort": "г",
@@ -51647,6 +52466,7 @@
   },
   {
     "name": "Цимлянск",
+    "name_alt": "Цимлянск",
     "label": "tsimlyansk",
     "type": "Город",
     "typeShort": "г",
@@ -51710,6 +52530,7 @@
   },
   {
     "name": "Рязань",
+    "name_alt": "Рязань",
     "label": "ryazan",
     "type": "Город",
     "typeShort": "г",
@@ -51773,6 +52594,7 @@
   },
   {
     "name": "Касимов",
+    "name_alt": "Касимов",
     "label": "kasimov",
     "type": "Город",
     "typeShort": "г",
@@ -51836,6 +52658,7 @@
   },
   {
     "name": "Скопин",
+    "name_alt": "Скопин",
     "label": "skopin",
     "type": "Город",
     "typeShort": "г",
@@ -51899,6 +52722,7 @@
   },
   {
     "name": "Сасово",
+    "name_alt": "Сасово",
     "label": "sasovo",
     "type": "Город",
     "typeShort": "г",
@@ -51962,6 +52786,7 @@
   },
   {
     "name": "Ряжск",
+    "name_alt": "Ряжск",
     "label": "ryazhsk",
     "type": "Город",
     "typeShort": "г",
@@ -52025,6 +52850,7 @@
   },
   {
     "name": "Новомичуринск",
+    "name_alt": "Новомичуринск",
     "label": "novomichurinsk",
     "type": "Город",
     "typeShort": "г",
@@ -52088,6 +52914,7 @@
   },
   {
     "name": "Рыбное",
+    "name_alt": "Рыбное",
     "label": "rybnoe",
     "type": "Город",
     "typeShort": "г",
@@ -52151,6 +52978,7 @@
   },
   {
     "name": "Кораблино",
+    "name_alt": "Кораблино",
     "label": "korablino",
     "type": "Город",
     "typeShort": "г",
@@ -52214,6 +53042,7 @@
   },
   {
     "name": "Михайлов",
+    "name_alt": "Михайлов",
     "label": "mikhaylov",
     "type": "Город",
     "typeShort": "г",
@@ -52277,6 +53106,7 @@
   },
   {
     "name": "Спасск-Рязанский",
+    "name_alt": "Спасск-Рязанский",
     "label": "spassk_ryazansky",
     "type": "Город",
     "typeShort": "г",
@@ -52340,6 +53170,7 @@
   },
   {
     "name": "Шацк",
+    "name_alt": "Шацк",
     "label": "shatsk",
     "type": "Город",
     "typeShort": "г",
@@ -52403,6 +53234,7 @@
   },
   {
     "name": "Спас-Клепики",
+    "name_alt": "Спас-Клепики",
     "label": "spas_klepiki",
     "type": "Город",
     "typeShort": "г",
@@ -52466,6 +53298,7 @@
   },
   {
     "name": "Самара",
+    "name_alt": "Самара",
     "label": "samara",
     "type": "Город",
     "typeShort": "г",
@@ -52529,6 +53362,7 @@
   },
   {
     "name": "Тольятти",
+    "name_alt": "Тольятти",
     "label": "tolyatti",
     "type": "Город",
     "typeShort": "г",
@@ -52592,6 +53426,7 @@
   },
   {
     "name": "Сызрань",
+    "name_alt": "Сызрань",
     "label": "syzran",
     "type": "Город",
     "typeShort": "г",
@@ -52655,6 +53490,7 @@
   },
   {
     "name": "Новокуйбышевск",
+    "name_alt": "Новокуйбышевск",
     "label": "novokuybyshevsk",
     "type": "Город",
     "typeShort": "г",
@@ -52718,6 +53554,7 @@
   },
   {
     "name": "Чапаевск",
+    "name_alt": "Чапаевск",
     "label": "chapaevsk",
     "type": "Город",
     "typeShort": "г",
@@ -52781,7 +53618,8 @@
   },
   {
     "name": "Жигулёвск",
-    "label": "zhigulyovsk",
+    "name_alt": "Жигулевск",
+    "label": "zhigulevsk",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -52844,6 +53682,7 @@
   },
   {
     "name": "Отрадный",
+    "name_alt": "Отрадный",
     "label": "otradny",
     "type": "Город",
     "typeShort": "г",
@@ -52907,6 +53746,7 @@
   },
   {
     "name": "Белая Калитва",
+    "name_alt": "Белая Калитва",
     "label": "belaya_kalitva",
     "type": "Город",
     "typeShort": "г",
@@ -52970,6 +53810,7 @@
   },
   {
     "name": "Аксай",
+    "name_alt": "Аксай",
     "label": "aksay",
     "type": "Город",
     "typeShort": "г",
@@ -53033,6 +53874,7 @@
   },
   {
     "name": "Красный Сулин",
+    "name_alt": "Красный Сулин",
     "label": "krasnyy_sulin",
     "type": "Город",
     "typeShort": "г",
@@ -53096,6 +53938,7 @@
   },
   {
     "name": "Миллерово",
+    "name_alt": "Миллерово",
     "label": "millerovo",
     "type": "Город",
     "typeShort": "г",
@@ -53159,6 +54002,7 @@
   },
   {
     "name": "Морозовск",
+    "name_alt": "Морозовск",
     "label": "morozovsk",
     "type": "Город",
     "typeShort": "г",
@@ -53222,6 +54066,7 @@
   },
   {
     "name": "Зерноград",
+    "name_alt": "Зерноград",
     "label": "zernograd",
     "type": "Город",
     "typeShort": "г",
@@ -53285,6 +54130,7 @@
   },
   {
     "name": "Семикаракорск",
+    "name_alt": "Семикаракорск",
     "label": "semikarakorsk",
     "type": "Город",
     "typeShort": "г",
@@ -53348,6 +54194,7 @@
   },
   {
     "name": "Зверево",
+    "name_alt": "Зверево",
     "label": "zverevo",
     "type": "Город",
     "typeShort": "г",
@@ -53411,6 +54258,7 @@
   },
   {
     "name": "Пролетарск",
+    "name_alt": "Пролетарск",
     "label": "proletarsk",
     "type": "Город",
     "typeShort": "г",
@@ -53474,6 +54322,7 @@
   },
   {
     "name": "Константиновск",
+    "name_alt": "Константиновск",
     "label": "konstantinovsk",
     "type": "Город",
     "typeShort": "г",
@@ -53537,6 +54386,7 @@
   },
   {
     "name": "Кинель",
+    "name_alt": "Кинель",
     "label": "kinel",
     "type": "Город",
     "typeShort": "г",
@@ -53600,6 +54450,7 @@
   },
   {
     "name": "Похвистнево",
+    "name_alt": "Похвистнево",
     "label": "pokhvistnevo",
     "type": "Город",
     "typeShort": "г",
@@ -53663,6 +54514,7 @@
   },
   {
     "name": "Октябрьск",
+    "name_alt": "Октябрьск",
     "label": "oktyabrsk",
     "type": "Город",
     "typeShort": "г",
@@ -53726,6 +54578,7 @@
   },
   {
     "name": "Нефтегорск",
+    "name_alt": "Нефтегорск",
     "label": "neftegorsk",
     "type": "Город",
     "typeShort": "г",
@@ -53789,6 +54642,7 @@
   },
   {
     "name": "Саратов",
+    "name_alt": "Саратов",
     "label": "saratov",
     "type": "Город",
     "typeShort": "г",
@@ -53852,6 +54706,7 @@
   },
   {
     "name": "Энгельс",
+    "name_alt": "Энгельс",
     "label": "engels",
     "type": "Город",
     "typeShort": "г",
@@ -53915,6 +54770,7 @@
   },
   {
     "name": "Балаково",
+    "name_alt": "Балаково",
     "label": "balakovo",
     "type": "Город",
     "typeShort": "г",
@@ -53978,6 +54834,7 @@
   },
   {
     "name": "Балашов",
+    "name_alt": "Балашов",
     "label": "balashov",
     "type": "Город",
     "typeShort": "г",
@@ -54041,6 +54898,7 @@
   },
   {
     "name": "Вольск",
+    "name_alt": "Вольск",
     "label": "volsk",
     "type": "Город",
     "typeShort": "г",
@@ -54104,7 +54962,8 @@
   },
   {
     "name": "Пугачёв",
-    "label": "pugachyov",
+    "name_alt": "Пугачев",
+    "label": "pugachev",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -54167,6 +55026,7 @@
   },
   {
     "name": "Ртищево",
+    "name_alt": "Ртищево",
     "label": "rtishchevo",
     "type": "Город",
     "typeShort": "г",
@@ -54230,6 +55090,7 @@
   },
   {
     "name": "Маркс",
+    "name_alt": "Маркс",
     "label": "marx",
     "type": "Город",
     "typeShort": "г",
@@ -54293,6 +55154,7 @@
   },
   {
     "name": "Петровск",
+    "name_alt": "Петровск",
     "label": "petrovsk",
     "type": "Город",
     "typeShort": "г",
@@ -54356,6 +55218,7 @@
   },
   {
     "name": "Аткарск",
+    "name_alt": "Аткарск",
     "label": "atkarsk",
     "type": "Город",
     "typeShort": "г",
@@ -54419,6 +55282,7 @@
   },
   {
     "name": "Красноармейск",
+    "name_alt": "Красноармейск",
     "label": "krasnoarmeysk_saratovskaya",
     "type": "Город",
     "typeShort": "г",
@@ -54482,6 +55346,7 @@
   },
   {
     "name": "Ершов",
+    "name_alt": "Ершов",
     "label": "ershov",
     "type": "Город",
     "typeShort": "г",
@@ -54545,6 +55410,7 @@
   },
   {
     "name": "Новоузенск",
+    "name_alt": "Новоузенск",
     "label": "novouzensk",
     "type": "Город",
     "typeShort": "г",
@@ -54608,6 +55474,7 @@
   },
   {
     "name": "Калининск",
+    "name_alt": "Калининск",
     "label": "kalininsk",
     "type": "Город",
     "typeShort": "г",
@@ -54671,6 +55538,7 @@
   },
   {
     "name": "Красный Кут",
+    "name_alt": "Красный Кут",
     "label": "krasny_kut",
     "type": "Город",
     "typeShort": "г",
@@ -54734,6 +55602,7 @@
   },
   {
     "name": "Хвалынск",
+    "name_alt": "Хвалынск",
     "label": "khvalynsk",
     "type": "Город",
     "typeShort": "г",
@@ -54797,6 +55666,7 @@
   },
   {
     "name": "Аркадак",
+    "name_alt": "Аркадак",
     "label": "arkadak",
     "type": "Город",
     "typeShort": "г",
@@ -54860,6 +55730,7 @@
   },
   {
     "name": "Шиханы",
+    "name_alt": "Шиханы",
     "label": "shikhany",
     "type": "Город",
     "typeShort": "г",
@@ -54923,6 +55794,7 @@
   },
   {
     "name": "Александровск-Сахалинский",
+    "name_alt": "Александровск-Сахалинский",
     "label": "aleksandrovsk_sakhalinskiy",
     "type": "Город",
     "typeShort": "г",
@@ -54986,6 +55858,7 @@
   },
   {
     "name": "Анива",
+    "name_alt": "Анива",
     "label": "aniva",
     "type": "Город",
     "typeShort": "г",
@@ -55049,6 +55922,7 @@
   },
   {
     "name": "Долинск",
+    "name_alt": "Долинск",
     "label": "dolinsk",
     "type": "Город",
     "typeShort": "г",
@@ -55112,6 +55986,7 @@
   },
   {
     "name": "Корсаков",
+    "name_alt": "Корсаков",
     "label": "korsakov",
     "type": "Город",
     "typeShort": "г",
@@ -55175,6 +56050,7 @@
   },
   {
     "name": "Курильск",
+    "name_alt": "Курильск",
     "label": "kurilsk",
     "type": "Город",
     "typeShort": "г",
@@ -55238,6 +56114,7 @@
   },
   {
     "name": "Макаров",
+    "name_alt": "Макаров",
     "label": "makarov",
     "type": "Город",
     "typeShort": "г",
@@ -55301,6 +56178,7 @@
   },
   {
     "name": "Невельск",
+    "name_alt": "Невельск",
     "label": "nevel’sk",
     "type": "Город",
     "typeShort": "г",
@@ -55364,6 +56242,7 @@
   },
   {
     "name": "Оха",
+    "name_alt": "Оха",
     "label": "okha",
     "type": "Город",
     "typeShort": "г",
@@ -55427,6 +56306,7 @@
   },
   {
     "name": "Поронайск",
+    "name_alt": "Поронайск",
     "label": "poronaysk",
     "type": "Город",
     "typeShort": "г",
@@ -55490,6 +56370,7 @@
   },
   {
     "name": "Северо-Курильск",
+    "name_alt": "Северо-Курильск",
     "label": "severo_kurilsk",
     "type": "Город",
     "typeShort": "г",
@@ -55553,6 +56434,7 @@
   },
   {
     "name": "Томари",
+    "name_alt": "Томари",
     "label": "tomari",
     "type": "Город",
     "typeShort": "г",
@@ -55616,6 +56498,7 @@
   },
   {
     "name": "Углегорск",
+    "name_alt": "Углегорск",
     "label": "uglegorsk",
     "type": "Город",
     "typeShort": "г.",
@@ -55679,6 +56562,7 @@
   },
   {
     "name": "Холмск",
+    "name_alt": "Холмск",
     "label": "kholmsk",
     "type": "Город",
     "typeShort": "г",
@@ -55742,6 +56626,7 @@
   },
   {
     "name": "Южно-Сахалинск",
+    "name_alt": "Южно-Сахалинск",
     "label": "yuzhno_sakhalinsk",
     "type": "Город",
     "typeShort": "г",
@@ -55805,6 +56690,7 @@
   },
   {
     "name": "Екатеринбург",
+    "name_alt": "Екатеринбург",
     "label": "yekaterinburg",
     "type": "Город",
     "typeShort": "г",
@@ -55868,6 +56754,7 @@
   },
   {
     "name": "Алапаевск",
+    "name_alt": "Алапаевск",
     "label": "alapaevsk",
     "type": "Город",
     "typeShort": "г",
@@ -55931,6 +56818,7 @@
   },
   {
     "name": "Арамиль",
+    "name_alt": "Арамиль",
     "label": "aramil",
     "type": "Город",
     "typeShort": "г",
@@ -55994,6 +56882,7 @@
   },
   {
     "name": "Артёмовский",
+    "name_alt": "Артемовский",
     "label": "artemovsky",
     "type": "Город",
     "typeShort": "г",
@@ -56057,6 +56946,7 @@
   },
   {
     "name": "Асбест",
+    "name_alt": "Асбест",
     "label": "asbest",
     "type": "Город",
     "typeShort": "г",
@@ -56120,7 +57010,8 @@
   },
   {
     "name": "Берёзовский",
-    "label": "beryozovsky",
+    "name_alt": "Березовский",
+    "label": "berezovsky",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -56183,6 +57074,7 @@
   },
   {
     "name": "Богданович",
+    "name_alt": "Богданович",
     "label": "bogdanovich",
     "type": "Город",
     "typeShort": "г",
@@ -56246,6 +57138,7 @@
   },
   {
     "name": "Верхний Тагил",
+    "name_alt": "Верхний Тагил",
     "label": "verkhny_tagil",
     "type": "Город",
     "typeShort": "г",
@@ -56309,6 +57202,7 @@
   },
   {
     "name": "Верхняя Пышма",
+    "name_alt": "Верхняя Пышма",
     "label": "verkhnyaya_pyshma",
     "type": "Город",
     "typeShort": "г",
@@ -56372,6 +57266,7 @@
   },
   {
     "name": "Верхняя Салда",
+    "name_alt": "Верхняя Салда",
     "label": "verkhnyaya_salda",
     "type": "Город",
     "typeShort": "г",
@@ -56435,6 +57330,7 @@
   },
   {
     "name": "Верхняя Тура",
+    "name_alt": "Верхняя Тура",
     "label": "verkhnyaya_tura",
     "type": "Город",
     "typeShort": "г",
@@ -56498,6 +57394,7 @@
   },
   {
     "name": "Верхотурье",
+    "name_alt": "Верхотурье",
     "label": "verkhoturye",
     "type": "Город",
     "typeShort": "г",
@@ -56561,6 +57458,7 @@
   },
   {
     "name": "Волчанск",
+    "name_alt": "Волчанск",
     "label": "volchansk",
     "type": "Город",
     "typeShort": "г",
@@ -56624,6 +57522,7 @@
   },
   {
     "name": "Дегтярск",
+    "name_alt": "Дегтярск",
     "label": "degtyarsk",
     "type": "Город",
     "typeShort": "г",
@@ -56687,6 +57586,7 @@
   },
   {
     "name": "Заречный",
+    "name_alt": "Заречный",
     "label": "zarechny_sverdlovskaya",
     "type": "Город",
     "typeShort": "г",
@@ -56750,6 +57650,7 @@
   },
   {
     "name": "Ивдель",
+    "name_alt": "Ивдель",
     "label": "ivdel",
     "type": "Город",
     "typeShort": "г",
@@ -56813,6 +57714,7 @@
   },
   {
     "name": "Ирбит",
+    "name_alt": "Ирбит",
     "label": "irbit",
     "type": "Город",
     "typeShort": "г",
@@ -56876,6 +57778,7 @@
   },
   {
     "name": "Каменск-Уральский",
+    "name_alt": "Каменск-Уральский",
     "label": "kamensk_uralsky",
     "type": "Город",
     "typeShort": "г",
@@ -56939,6 +57842,7 @@
   },
   {
     "name": "Камышлов",
+    "name_alt": "Камышлов",
     "label": "kamyshlov",
     "type": "Город",
     "typeShort": "г",
@@ -57002,6 +57906,7 @@
   },
   {
     "name": "Карпинск",
+    "name_alt": "Карпинск",
     "label": "karpinsk",
     "type": "Город",
     "typeShort": "г",
@@ -57065,6 +57970,7 @@
   },
   {
     "name": "Качканар",
+    "name_alt": "Качканар",
     "label": "kachkanar",
     "type": "Город",
     "typeShort": "г",
@@ -57128,6 +58034,7 @@
   },
   {
     "name": "Кировград",
+    "name_alt": "Кировград",
     "label": "kirovgrad",
     "type": "Город",
     "typeShort": "г",
@@ -57191,6 +58098,7 @@
   },
   {
     "name": "Краснотурьинск",
+    "name_alt": "Краснотурьинск",
     "label": "krasnoturinsk",
     "type": "Город",
     "typeShort": "г",
@@ -57254,6 +58162,7 @@
   },
   {
     "name": "Красноуральск",
+    "name_alt": "Красноуральск",
     "label": "krasnouralsk",
     "type": "Город",
     "typeShort": "г",
@@ -57317,6 +58226,7 @@
   },
   {
     "name": "Красноуфимск",
+    "name_alt": "Красноуфимск",
     "label": "krasnoufimsk",
     "type": "Город",
     "typeShort": "г",
@@ -57380,6 +58290,7 @@
   },
   {
     "name": "Кушва",
+    "name_alt": "Кушва",
     "label": "kushva",
     "type": "Город",
     "typeShort": "г",
@@ -57443,6 +58354,7 @@
   },
   {
     "name": "Лесной",
+    "name_alt": "Лесной",
     "label": "lesnoy",
     "type": "Город",
     "typeShort": "г",
@@ -57506,6 +58418,7 @@
   },
   {
     "name": "Михайловск",
+    "name_alt": "Михайловск",
     "label": "mikhaylovsk_sverdlovskaya",
     "type": "Город",
     "typeShort": "г",
@@ -57569,6 +58482,7 @@
   },
   {
     "name": "Невьянск",
+    "name_alt": "Невьянск",
     "label": "nevyansk",
     "type": "Город",
     "typeShort": "г",
@@ -57632,6 +58546,7 @@
   },
   {
     "name": "Нижние Серги",
+    "name_alt": "Нижние Серги",
     "label": "nizhniye_sergi",
     "type": "Город",
     "typeShort": "г",
@@ -57695,6 +58610,7 @@
   },
   {
     "name": "Нижний Тагил",
+    "name_alt": "Нижний Тагил",
     "label": "nizhny_tagil",
     "type": "Город",
     "typeShort": "г",
@@ -57758,6 +58674,7 @@
   },
   {
     "name": "Нижняя Салда",
+    "name_alt": "Нижняя Салда",
     "label": "nizhnyaya_salda",
     "type": "Город",
     "typeShort": "г",
@@ -57821,6 +58738,7 @@
   },
   {
     "name": "Нижняя Тура",
+    "name_alt": "Нижняя Тура",
     "label": "nizhnyaya_tura",
     "type": "Город",
     "typeShort": "г",
@@ -57884,6 +58802,7 @@
   },
   {
     "name": "Новая Ляля",
+    "name_alt": "Новая Ляля",
     "label": "novaya_lyalya",
     "type": "Город",
     "typeShort": "г",
@@ -57947,6 +58866,7 @@
   },
   {
     "name": "Новоуральск",
+    "name_alt": "Новоуральск",
     "label": "novouralsk",
     "type": "Город",
     "typeShort": "г",
@@ -58010,6 +58930,7 @@
   },
   {
     "name": "Первоуральск",
+    "name_alt": "Первоуральск",
     "label": "pervouralsk",
     "type": "Город",
     "typeShort": "г",
@@ -58073,6 +58994,7 @@
   },
   {
     "name": "Полевской",
+    "name_alt": "Полевской",
     "label": "polevskoy",
     "type": "Город",
     "typeShort": "г",
@@ -58136,6 +59058,7 @@
   },
   {
     "name": "Ревда",
+    "name_alt": "Ревда",
     "label": "revda",
     "type": "Город",
     "typeShort": "г",
@@ -58199,6 +59122,7 @@
   },
   {
     "name": "Реж",
+    "name_alt": "Реж",
     "label": "rezh",
     "type": "Город",
     "typeShort": "г",
@@ -58262,6 +59186,7 @@
   },
   {
     "name": "Североуральск",
+    "name_alt": "Североуральск",
     "label": "severouralsk",
     "type": "Город",
     "typeShort": "г",
@@ -58325,6 +59250,7 @@
   },
   {
     "name": "Серов",
+    "name_alt": "Серов",
     "label": "serov",
     "type": "Город",
     "typeShort": "г",
@@ -58388,6 +59314,7 @@
   },
   {
     "name": "Среднеуральск",
+    "name_alt": "Среднеуральск",
     "label": "sredneuralsk",
     "type": "Город",
     "typeShort": "г",
@@ -58451,6 +59378,7 @@
   },
   {
     "name": "Сухой Лог",
+    "name_alt": "Сухой Лог",
     "label": "sukhoy_log",
     "type": "Город",
     "typeShort": "г",
@@ -58514,6 +59442,7 @@
   },
   {
     "name": "Сысерть",
+    "name_alt": "Сысерть",
     "label": "sysert",
     "type": "Город",
     "typeShort": "г",
@@ -58577,6 +59506,7 @@
   },
   {
     "name": "Тавда",
+    "name_alt": "Тавда",
     "label": "tavda",
     "type": "Город",
     "typeShort": "г",
@@ -58640,6 +59570,7 @@
   },
   {
     "name": "Талица",
+    "name_alt": "Талица",
     "label": "talitsa",
     "type": "Город",
     "typeShort": "г",
@@ -58703,6 +59634,7 @@
   },
   {
     "name": "Туринск",
+    "name_alt": "Туринск",
     "label": "turinsk",
     "type": "Город",
     "typeShort": "г",
@@ -58766,6 +59698,7 @@
   },
   {
     "name": "Смоленск",
+    "name_alt": "Смоленск",
     "label": "smolensk",
     "type": "Город",
     "typeShort": "г",
@@ -58829,6 +59762,7 @@
   },
   {
     "name": "Вязьма",
+    "name_alt": "Вязьма",
     "label": "vyazma",
     "type": "Город",
     "typeShort": "г",
@@ -58892,6 +59826,7 @@
   },
   {
     "name": "Рославль",
+    "name_alt": "Рославль",
     "label": "roslavl",
     "type": "Город",
     "typeShort": "г",
@@ -58955,6 +59890,7 @@
   },
   {
     "name": "Ярцево",
+    "name_alt": "Ярцево",
     "label": "yartsevo",
     "type": "Город",
     "typeShort": "г",
@@ -59018,6 +59954,7 @@
   },
   {
     "name": "Сафоново",
+    "name_alt": "Сафоново",
     "label": "safonovo",
     "type": "Город",
     "typeShort": "г",
@@ -59081,6 +60018,7 @@
   },
   {
     "name": "Гагарин",
+    "name_alt": "Гагарин",
     "label": "gagarin",
     "type": "Город",
     "typeShort": "г",
@@ -59144,6 +60082,7 @@
   },
   {
     "name": "Десногорск",
+    "name_alt": "Десногорск",
     "label": "desnogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -59207,6 +60146,7 @@
   },
   {
     "name": "Дорогобуж",
+    "name_alt": "Дорогобуж",
     "label": "dorogobuzh",
     "type": "Город",
     "typeShort": "г",
@@ -59270,6 +60210,7 @@
   },
   {
     "name": "Ельня",
+    "name_alt": "Ельня",
     "label": "yelnya",
     "type": "Город",
     "typeShort": "г",
@@ -59333,6 +60274,7 @@
   },
   {
     "name": "Рудня",
+    "name_alt": "Рудня",
     "label": "rudnya",
     "type": "Город",
     "typeShort": "г",
@@ -59396,6 +60338,7 @@
   },
   {
     "name": "Починок",
+    "name_alt": "Починок",
     "label": "pochinok",
     "type": "Город",
     "typeShort": "г",
@@ -59459,7 +60402,8 @@
   },
   {
     "name": "Сычёвка",
-    "label": "sychyovka",
+    "name_alt": "Сычевка",
+    "label": "sychevka",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -59522,6 +60466,7 @@
   },
   {
     "name": "Велиж",
+    "name_alt": "Велиж",
     "label": "velizh",
     "type": "Город",
     "typeShort": "г",
@@ -59585,6 +60530,7 @@
   },
   {
     "name": "Демидов",
+    "name_alt": "Демидов",
     "label": "demidov",
     "type": "Город",
     "typeShort": "г",
@@ -59648,6 +60594,7 @@
   },
   {
     "name": "Духовщина",
+    "name_alt": "Духовщина",
     "label": "dukhovshchina",
     "type": "Город",
     "typeShort": "г",
@@ -59711,6 +60658,7 @@
   },
   {
     "name": "Тамбов",
+    "name_alt": "Тамбов",
     "label": "tambov",
     "type": "Город",
     "typeShort": "г",
@@ -59774,6 +60722,7 @@
   },
   {
     "name": "Мичуринск",
+    "name_alt": "Мичуринск",
     "label": "michurinsk",
     "type": "Город",
     "typeShort": "г",
@@ -59837,6 +60786,7 @@
   },
   {
     "name": "Рассказово",
+    "name_alt": "Рассказово",
     "label": "rasskazovo",
     "type": "Город",
     "typeShort": "г",
@@ -59900,6 +60850,7 @@
   },
   {
     "name": "Моршанск",
+    "name_alt": "Моршанск",
     "label": "morshansk",
     "type": "Город",
     "typeShort": "г",
@@ -59963,6 +60914,7 @@
   },
   {
     "name": "Котовск",
+    "name_alt": "Котовск",
     "label": "kotovsk",
     "type": "Город",
     "typeShort": "г",
@@ -60026,6 +60978,7 @@
   },
   {
     "name": "Уварово",
+    "name_alt": "Уварово",
     "label": "uvarovo",
     "type": "Город",
     "typeShort": "г",
@@ -60089,6 +61042,7 @@
   },
   {
     "name": "Кирсанов",
+    "name_alt": "Кирсанов",
     "label": "kirsanov",
     "type": "Город",
     "typeShort": "г",
@@ -60152,6 +61106,7 @@
   },
   {
     "name": "Жердевка",
+    "name_alt": "Жердевка",
     "label": "zherdevka",
     "type": "Город",
     "typeShort": "г",
@@ -60215,6 +61170,7 @@
   },
   {
     "name": "Тверь",
+    "name_alt": "Тверь",
     "label": "tver",
     "type": "Город",
     "typeShort": "г",
@@ -60278,6 +61234,7 @@
   },
   {
     "name": "Ржев",
+    "name_alt": "Ржев",
     "label": "rzhev",
     "type": "Город",
     "typeShort": "г",
@@ -60341,7 +61298,8 @@
   },
   {
     "name": "Вышний Волочёк",
-    "label": "vysnij_volocek",
+    "name_alt": "Вышний Волочек",
+    "label": "vysny_volochek",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -60355,7 +61313,7 @@
     "population": 45830,
     "yearFounded": 1471,
     "yearCityStatus": 1770,
-    "name_en": "Vysnij Volocek",
+    "name_en": "Vyshny Volochyok",
     "namecase": {
       "nominative": "Вышний Волочёк",
       "genitive": "Вышнего Волочёка",
@@ -60404,6 +61362,7 @@
   },
   {
     "name": "Кимры",
+    "name_alt": "Кимры",
     "label": "kimry",
     "type": "Город",
     "typeShort": "г",
@@ -60467,6 +61426,7 @@
   },
   {
     "name": "Торжок",
+    "name_alt": "Торжок",
     "label": "torzhok",
     "type": "Город",
     "typeShort": "г",
@@ -60530,6 +61490,7 @@
   },
   {
     "name": "Конаково",
+    "name_alt": "Конаково",
     "label": "konakovo",
     "type": "Город",
     "typeShort": "г",
@@ -60593,6 +61554,7 @@
   },
   {
     "name": "Удомля",
+    "name_alt": "Удомля",
     "label": "udomlya",
     "type": "Город",
     "typeShort": "г",
@@ -60656,6 +61618,7 @@
   },
   {
     "name": "Бежецк",
+    "name_alt": "Бежецк",
     "label": "bezhetsk",
     "type": "Город",
     "typeShort": "г",
@@ -60719,6 +61682,7 @@
   },
   {
     "name": "Бологое",
+    "name_alt": "Бологое",
     "label": "bologoe",
     "type": "Город",
     "typeShort": "г",
@@ -60782,6 +61746,7 @@
   },
   {
     "name": "Нелидово",
+    "name_alt": "Нелидово",
     "label": "nelidovo",
     "type": "Город",
     "typeShort": "г",
@@ -60845,6 +61810,7 @@
   },
   {
     "name": "Осташков",
+    "name_alt": "Осташков",
     "label": "ostashkov",
     "type": "Город",
     "typeShort": "г",
@@ -60908,6 +61874,7 @@
   },
   {
     "name": "Кашин",
+    "name_alt": "Кашин",
     "label": "kashin",
     "type": "Город",
     "typeShort": "г",
@@ -60971,6 +61938,7 @@
   },
   {
     "name": "Калязин",
+    "name_alt": "Калязин",
     "label": "kalyazin",
     "type": "Город",
     "typeShort": "г",
@@ -61034,6 +62002,7 @@
   },
   {
     "name": "Торопец",
+    "name_alt": "Торопец",
     "label": "toropets",
     "type": "Город",
     "typeShort": "г",
@@ -61097,6 +62066,7 @@
   },
   {
     "name": "Лихославль",
+    "name_alt": "Лихославль",
     "label": "likhoslavl",
     "type": "Город",
     "typeShort": "г",
@@ -61160,6 +62130,7 @@
   },
   {
     "name": "Кувшиново",
+    "name_alt": "Кувшиново",
     "label": "kuvshinovo",
     "type": "Город",
     "typeShort": "г",
@@ -61223,6 +62194,7 @@
   },
   {
     "name": "Западная Двина",
+    "name_alt": "Западная Двина",
     "label": "zapadnaya_dvina",
     "type": "Город",
     "typeShort": "г",
@@ -61286,6 +62258,7 @@
   },
   {
     "name": "Старица",
+    "name_alt": "Старица",
     "label": "staritsa",
     "type": "Город",
     "typeShort": "г",
@@ -61349,6 +62322,7 @@
   },
   {
     "name": "Андреаполь",
+    "name_alt": "Андреаполь",
     "label": "andreapol",
     "type": "Город",
     "typeShort": "г",
@@ -61412,6 +62386,7 @@
   },
   {
     "name": "Весьегонск",
+    "name_alt": "Весьегонск",
     "label": "vesyegonsk",
     "type": "Город",
     "typeShort": "г",
@@ -61475,6 +62450,7 @@
   },
   {
     "name": "Зубцов",
+    "name_alt": "Зубцов",
     "label": "zubtsov",
     "type": "Город",
     "typeShort": "г",
@@ -61538,6 +62514,7 @@
   },
   {
     "name": "Красный Холм",
+    "name_alt": "Красный Холм",
     "label": "krasnyy_kholm",
     "type": "Город",
     "typeShort": "г",
@@ -61601,6 +62578,7 @@
   },
   {
     "name": "Белый",
+    "name_alt": "Белый",
     "label": "belyy",
     "type": "Город",
     "typeShort": "г",
@@ -61664,6 +62642,7 @@
   },
   {
     "name": "Томск",
+    "name_alt": "Томск",
     "label": "tomsk",
     "type": "Город",
     "typeShort": "г",
@@ -61727,6 +62706,7 @@
   },
   {
     "name": "Асино",
+    "name_alt": "Асино",
     "label": "asino",
     "type": "Город",
     "typeShort": "г",
@@ -61790,6 +62770,7 @@
   },
   {
     "name": "Кедровый",
+    "name_alt": "Кедровый",
     "label": "kedrovy",
     "type": "Город",
     "typeShort": "г",
@@ -61853,6 +62834,7 @@
   },
   {
     "name": "Колпашево",
+    "name_alt": "Колпашево",
     "label": "kolpashevo",
     "type": "Город",
     "typeShort": "г",
@@ -61916,6 +62898,7 @@
   },
   {
     "name": "Северск",
+    "name_alt": "Северск",
     "label": "seversk",
     "type": "Город",
     "typeShort": "г",
@@ -61979,6 +62962,7 @@
   },
   {
     "name": "Стрежевой",
+    "name_alt": "Стрежевой",
     "label": "strezhevoy",
     "type": "Город",
     "typeShort": "г",
@@ -62042,6 +63026,7 @@
   },
   {
     "name": "Тула",
+    "name_alt": "Тула",
     "label": "tula",
     "type": "Город",
     "typeShort": "г",
@@ -62105,6 +63090,7 @@
   },
   {
     "name": "Новомосковск",
+    "name_alt": "Новомосковск",
     "label": "novomoskovsk",
     "type": "Город",
     "typeShort": "г",
@@ -62168,6 +63154,7 @@
   },
   {
     "name": "Донской",
+    "name_alt": "Донской",
     "label": "donskoj",
     "type": "Город",
     "typeShort": "г",
@@ -62231,6 +63218,7 @@
   },
   {
     "name": "Алексин",
+    "name_alt": "Алексин",
     "label": "aleksin",
     "type": "Город",
     "typeShort": "г",
@@ -62294,6 +63282,7 @@
   },
   {
     "name": "Щёкино",
+    "name_alt": "Щекино",
     "label": "schokino",
     "type": "Город",
     "typeShort": "г",
@@ -62357,6 +63346,7 @@
   },
   {
     "name": "Узловая",
+    "name_alt": "Узловая",
     "label": "uzlovaya",
     "type": "Город",
     "typeShort": "г",
@@ -62420,6 +63410,7 @@
   },
   {
     "name": "Ефремов",
+    "name_alt": "Ефремов",
     "label": "yefremov",
     "type": "Город",
     "typeShort": "г",
@@ -62483,6 +63474,7 @@
   },
   {
     "name": "Богородицк",
+    "name_alt": "Богородицк",
     "label": "bogoroditsk",
     "type": "Город",
     "typeShort": "г",
@@ -62546,6 +63538,7 @@
   },
   {
     "name": "Кимовск",
+    "name_alt": "Кимовск",
     "label": "kimovsk",
     "type": "Город",
     "typeShort": "г",
@@ -62609,6 +63602,7 @@
   },
   {
     "name": "Киреевск",
+    "name_alt": "Киреевск",
     "label": "kireyevsk",
     "type": "Город",
     "typeShort": "г",
@@ -62672,6 +63666,7 @@
   },
   {
     "name": "Суворов",
+    "name_alt": "Суворов",
     "label": "suvorov",
     "type": "Город",
     "typeShort": "г",
@@ -62735,6 +63730,7 @@
   },
   {
     "name": "Ясногорск",
+    "name_alt": "Ясногорск",
     "label": "yasnogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -62798,6 +63794,7 @@
   },
   {
     "name": "Плавск",
+    "name_alt": "Плавск",
     "label": "plavsk",
     "type": "Город",
     "typeShort": "г",
@@ -62861,7 +63858,8 @@
   },
   {
     "name": "Венёв",
-    "label": "venyov",
+    "name_alt": "Венев",
+    "label": "venev",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -62924,7 +63922,8 @@
   },
   {
     "name": "Белёв",
-    "label": "belyov",
+    "name_alt": "Белев",
+    "label": "belev",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -62987,6 +63986,7 @@
   },
   {
     "name": "Болохово",
+    "name_alt": "Болохово",
     "label": "bolokhovo",
     "type": "Город",
     "typeShort": "г",
@@ -63050,6 +64050,7 @@
   },
   {
     "name": "Липки",
+    "name_alt": "Липки",
     "label": "lipki",
     "type": "Город",
     "typeShort": "г",
@@ -63113,6 +64114,7 @@
   },
   {
     "name": "Советск",
+    "name_alt": "Советск",
     "label": "sovetsk_tulskaya",
     "type": "Город",
     "typeShort": "г",
@@ -63176,6 +64178,7 @@
   },
   {
     "name": "Чекалин",
+    "name_alt": "Чекалин",
     "label": "chekalin",
     "type": "Город",
     "typeShort": "г",
@@ -63239,6 +64242,7 @@
   },
   {
     "name": "Заводоуковск",
+    "name_alt": "Заводоуковск",
     "label": "zavodoukovsk",
     "type": "Город",
     "typeShort": "г",
@@ -63302,6 +64306,7 @@
   },
   {
     "name": "Ишим",
+    "name_alt": "Ишим",
     "label": "ishim",
     "type": "Город",
     "typeShort": "г",
@@ -63365,6 +64370,7 @@
   },
   {
     "name": "Тобольск",
+    "name_alt": "Тобольск",
     "label": "tobolsk",
     "type": "Город",
     "typeShort": "г",
@@ -63428,6 +64434,7 @@
   },
   {
     "name": "Тюмень",
+    "name_alt": "Тюмень",
     "label": "tyumen",
     "type": "Город",
     "typeShort": "г",
@@ -63491,6 +64498,7 @@
   },
   {
     "name": "Ялуторовск",
+    "name_alt": "Ялуторовск",
     "label": "yalutorovsk",
     "type": "Город",
     "typeShort": "г",
@@ -63554,6 +64562,7 @@
   },
   {
     "name": "Ульяновск",
+    "name_alt": "Ульяновск",
     "label": "ulyanovsk",
     "type": "Город",
     "typeShort": "г",
@@ -63617,6 +64626,7 @@
   },
   {
     "name": "Димитровград",
+    "name_alt": "Димитровград",
     "label": "dimitrovgrad",
     "type": "Город",
     "typeShort": "г",
@@ -63680,6 +64690,7 @@
   },
   {
     "name": "Инза",
+    "name_alt": "Инза",
     "label": "inza",
     "type": "Город",
     "typeShort": "г",
@@ -63743,6 +64754,7 @@
   },
   {
     "name": "Барыш",
+    "name_alt": "Барыш",
     "label": "barysh",
     "type": "Город",
     "typeShort": "г",
@@ -63806,6 +64818,7 @@
   },
   {
     "name": "Новоульяновск",
+    "name_alt": "Новоульяновск",
     "label": "novoul'yanovsk",
     "type": "Город",
     "typeShort": "г",
@@ -63869,6 +64882,7 @@
   },
   {
     "name": "Сенгилей",
+    "name_alt": "Сенгилей",
     "label": "sengiley",
     "type": "Город",
     "typeShort": "г",
@@ -63932,6 +64946,7 @@
   },
   {
     "name": "Аша",
+    "name_alt": "Аша",
     "label": "asha",
     "type": "Город",
     "typeShort": "г",
@@ -63995,6 +65010,7 @@
   },
   {
     "name": "Бакал",
+    "name_alt": "Бакал",
     "label": "bakal",
     "type": "Город",
     "typeShort": "г",
@@ -64058,6 +65074,7 @@
   },
   {
     "name": "Верхнеуральск",
+    "name_alt": "Верхнеуральск",
     "label": "verkhneuralsk",
     "type": "Город",
     "typeShort": "г",
@@ -64121,6 +65138,7 @@
   },
   {
     "name": "Верхний Уфалей",
+    "name_alt": "Верхний Уфалей",
     "label": "verhniy_ufaley",
     "type": "Город",
     "typeShort": "г",
@@ -64184,6 +65202,7 @@
   },
   {
     "name": "Еманжелинск",
+    "name_alt": "Еманжелинск",
     "label": "yemanzhelinsk",
     "type": "Город",
     "typeShort": "г",
@@ -64247,6 +65266,7 @@
   },
   {
     "name": "Златоуст",
+    "name_alt": "Златоуст",
     "label": "zlatoust",
     "type": "Город",
     "typeShort": "г",
@@ -64310,6 +65330,7 @@
   },
   {
     "name": "Карабаш",
+    "name_alt": "Карабаш",
     "label": "karabash",
     "type": "Город",
     "typeShort": "г",
@@ -64373,6 +65394,7 @@
   },
   {
     "name": "Карталы",
+    "name_alt": "Карталы",
     "label": "kartaly",
     "type": "Город",
     "typeShort": "г",
@@ -64436,6 +65458,7 @@
   },
   {
     "name": "Касли",
+    "name_alt": "Касли",
     "label": "kasli",
     "type": "Город",
     "typeShort": "г",
@@ -64499,6 +65522,7 @@
   },
   {
     "name": "Катав-Ивановск",
+    "name_alt": "Катав-Ивановск",
     "label": "katav_ivanovsk",
     "type": "Город",
     "typeShort": "г",
@@ -64562,6 +65586,7 @@
   },
   {
     "name": "Копейск",
+    "name_alt": "Копейск",
     "label": "kopeysk",
     "type": "Город",
     "typeShort": "г",
@@ -64625,6 +65650,7 @@
   },
   {
     "name": "Коркино",
+    "name_alt": "Коркино",
     "label": "korkino",
     "type": "Город",
     "typeShort": "г",
@@ -64688,6 +65714,7 @@
   },
   {
     "name": "Куса",
+    "name_alt": "Куса",
     "label": "kusa",
     "type": "Город",
     "typeShort": "г",
@@ -64751,6 +65778,7 @@
   },
   {
     "name": "Кыштым",
+    "name_alt": "Кыштым",
     "label": "kyshtym",
     "type": "Город",
     "typeShort": "г",
@@ -64814,6 +65842,7 @@
   },
   {
     "name": "Магнитогорск",
+    "name_alt": "Магнитогорск",
     "label": "magnitogorsk",
     "type": "Город",
     "typeShort": "г",
@@ -64877,6 +65906,7 @@
   },
   {
     "name": "Миасс",
+    "name_alt": "Миасс",
     "label": "miass",
     "type": "Город",
     "typeShort": "г",
@@ -64940,6 +65970,7 @@
   },
   {
     "name": "Миньяр",
+    "name_alt": "Миньяр",
     "label": "minyar",
     "type": "Город",
     "typeShort": "г",
@@ -65003,6 +66034,7 @@
   },
   {
     "name": "Нязепетровск",
+    "name_alt": "Нязепетровск",
     "label": "nyazepetrovsk",
     "type": "Город",
     "typeShort": "г",
@@ -65066,7 +66098,8 @@
   },
   {
     "name": "Озёрск",
-    "label": "ozyorsk",
+    "name_alt": "Озерск",
+    "label": "ozersk",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -65129,6 +66162,7 @@
   },
   {
     "name": "Пласт",
+    "name_alt": "Пласт",
     "label": "plast",
     "type": "Город",
     "typeShort": "г",
@@ -65192,6 +66226,7 @@
   },
   {
     "name": "Сатка",
+    "name_alt": "Сатка",
     "label": "satka",
     "type": "Город",
     "typeShort": "г",
@@ -65255,6 +66290,7 @@
   },
   {
     "name": "Сим",
+    "name_alt": "Сим",
     "label": "sim",
     "type": "Город",
     "typeShort": "г",
@@ -65318,6 +66354,7 @@
   },
   {
     "name": "Снежинск",
+    "name_alt": "Снежинск",
     "label": "snezhinsk",
     "type": "Город",
     "typeShort": "г",
@@ -65381,6 +66418,7 @@
   },
   {
     "name": "Троицк",
+    "name_alt": "Троицк",
     "label": "troitsk",
     "type": "Город",
     "typeShort": "г",
@@ -65444,7 +66482,8 @@
   },
   {
     "name": "Трёхгорный",
-    "label": "tryokhgorny",
+    "name_alt": "Трехгорный",
+    "label": "trekhgorny",
     "type": "Город",
     "typeShort": "г",
     "contentType": "city",
@@ -65507,6 +66546,7 @@
   },
   {
     "name": "Усть-Катав",
+    "name_alt": "Усть-Катав",
     "label": "ust'_katav",
     "type": "Город",
     "typeShort": "г",
@@ -65570,6 +66610,7 @@
   },
   {
     "name": "Чебаркуль",
+    "name_alt": "Чебаркуль",
     "label": "chebarkul",
     "type": "Город",
     "typeShort": "г",
@@ -65633,6 +66674,7 @@
   },
   {
     "name": "Челябинск",
+    "name_alt": "Челябинск",
     "label": "chelyabinsk",
     "type": "Город",
     "typeShort": "г",
@@ -65696,6 +66738,7 @@
   },
   {
     "name": "Южноуральск",
+    "name_alt": "Южноуральск",
     "label": "yuzhnouralsk",
     "type": "Город",
     "typeShort": "г",
@@ -65759,6 +66802,7 @@
   },
   {
     "name": "Юрюзань",
+    "name_alt": "Юрюзань",
     "label": "yuryuzan",
     "type": "Город",
     "typeShort": "г",
@@ -65822,6 +66866,7 @@
   },
   {
     "name": "Балей",
+    "name_alt": "Балей",
     "label": "baley",
     "type": "Город",
     "typeShort": "г",
@@ -65885,6 +66930,7 @@
   },
   {
     "name": "Борзя",
+    "name_alt": "Борзя",
     "label": "borzya",
     "type": "Город",
     "typeShort": "г",
@@ -65948,6 +66994,7 @@
   },
   {
     "name": "Краснокаменск",
+    "name_alt": "Краснокаменск",
     "label": "krasnokamensk",
     "type": "Город",
     "typeShort": "г",
@@ -66011,6 +67058,7 @@
   },
   {
     "name": "Могоча",
+    "name_alt": "Могоча",
     "label": "mogocha",
     "type": "Город",
     "typeShort": "г",
@@ -66074,6 +67122,7 @@
   },
   {
     "name": "Нерчинск",
+    "name_alt": "Нерчинск",
     "label": "nerchinsk",
     "type": "Город",
     "typeShort": "г",
@@ -66137,6 +67186,7 @@
   },
   {
     "name": "Петровск-Забайкальский",
+    "name_alt": "Петровск-Забайкальский",
     "label": "petrovsk_zabaykalsky",
     "type": "Город",
     "typeShort": "г",
@@ -66200,6 +67250,7 @@
   },
   {
     "name": "Сретенск",
+    "name_alt": "Сретенск",
     "label": "sretensk",
     "type": "Город",
     "typeShort": "г",
@@ -66263,6 +67314,7 @@
   },
   {
     "name": "Хилок",
+    "name_alt": "Хилок",
     "label": "khilok",
     "type": "Город",
     "typeShort": "г",
@@ -66326,6 +67378,7 @@
   },
   {
     "name": "Чита",
+    "name_alt": "Чита",
     "label": "chita",
     "type": "Город",
     "typeShort": "г",
@@ -66389,6 +67442,7 @@
   },
   {
     "name": "Шилка",
+    "name_alt": "Шилка",
     "label": "shilka",
     "type": "Город",
     "typeShort": "г",
@@ -66452,6 +67506,7 @@
   },
   {
     "name": "Ярославль",
+    "name_alt": "Ярославль",
     "label": "yaroslavl",
     "type": "Город",
     "typeShort": "г",
@@ -66515,6 +67570,7 @@
   },
   {
     "name": "Рыбинск",
+    "name_alt": "Рыбинск",
     "label": "rybinsk",
     "type": "Город",
     "typeShort": "г",
@@ -66578,6 +67634,7 @@
   },
   {
     "name": "Переславль-Залесский",
+    "name_alt": "Переславль-Залесский",
     "label": "pereslavl_zalessky",
     "type": "Город",
     "typeShort": "г",
@@ -66641,6 +67698,7 @@
   },
   {
     "name": "Тутаев",
+    "name_alt": "Тутаев",
     "label": "tutaev",
     "type": "Город",
     "typeShort": "г",
@@ -66704,6 +67762,7 @@
   },
   {
     "name": "Углич",
+    "name_alt": "Углич",
     "label": "uglich",
     "type": "Город",
     "typeShort": "г",
@@ -66767,6 +67826,7 @@
   },
   {
     "name": "Ростов",
+    "name_alt": "Ростов",
     "label": "rostov",
     "type": "Город",
     "typeShort": "г",
@@ -66830,6 +67890,7 @@
   },
   {
     "name": "Гаврилов-Ям",
+    "name_alt": "Гаврилов-Ям",
     "label": "gavrlov_yam",
     "type": "Город",
     "typeShort": "г",
@@ -66893,6 +67954,7 @@
   },
   {
     "name": "Данилов",
+    "name_alt": "Данилов",
     "label": "danilov",
     "type": "Город",
     "typeShort": "г",
@@ -66956,6 +68018,7 @@
   },
   {
     "name": "Пошехонье",
+    "name_alt": "Пошехонье",
     "label": "poshekhonye",
     "type": "Город",
     "typeShort": "г",
@@ -67019,6 +68082,7 @@
   },
   {
     "name": "Мышкин",
+    "name_alt": "Мышкин",
     "label": "myshkin",
     "type": "Город",
     "typeShort": "г",
@@ -67082,6 +68146,7 @@
   },
   {
     "name": "Любим",
+    "name_alt": "Любим",
     "label": "lyubim",
     "type": "Город",
     "typeShort": "г",
@@ -67145,6 +68210,7 @@
   },
   {
     "name": "Биробиджан",
+    "name_alt": "Биробиджан",
     "label": "birobidzhan",
     "type": "Город",
     "typeShort": "г",
@@ -67208,6 +68274,7 @@
   },
   {
     "name": "Облучье",
+    "name_alt": "Облучье",
     "label": "obluchye",
     "type": "Город",
     "typeShort": "г",
@@ -67271,6 +68338,7 @@
   },
   {
     "name": "Нарьян-Мар",
+    "name_alt": "Нарьян-Мар",
     "label": "nar'yan_mar",
     "type": "Город",
     "typeShort": "г",
@@ -67334,6 +68402,7 @@
   },
   {
     "name": "Белоярский",
+    "name_alt": "Белоярский",
     "label": "beloyarsky",
     "type": "Город",
     "typeShort": "г",
@@ -67398,6 +68467,7 @@
   },
   {
     "name": "Когалым",
+    "name_alt": "Когалым",
     "label": "kogalym",
     "type": "Город",
     "typeShort": "г",
@@ -67462,6 +68532,7 @@
   },
   {
     "name": "Лангепас",
+    "name_alt": "Лангепас",
     "label": "langepas",
     "type": "Город",
     "typeShort": "г",
@@ -67526,6 +68597,7 @@
   },
   {
     "name": "Лянтор",
+    "name_alt": "Лянтор",
     "label": "lyantor",
     "type": "Город",
     "typeShort": "г",
@@ -67590,6 +68662,7 @@
   },
   {
     "name": "Мегион",
+    "name_alt": "Мегион",
     "label": "megion",
     "type": "Город",
     "typeShort": "г",
@@ -67654,6 +68727,7 @@
   },
   {
     "name": "Нефтеюганск",
+    "name_alt": "Нефтеюганск",
     "label": "nefteyugansk",
     "type": "Город",
     "typeShort": "г",
@@ -67718,6 +68792,7 @@
   },
   {
     "name": "Нижневартовск",
+    "name_alt": "Нижневартовск",
     "label": "nizhnevartovsk",
     "type": "Город",
     "typeShort": "г",
@@ -67782,6 +68857,7 @@
   },
   {
     "name": "Нягань",
+    "name_alt": "Нягань",
     "label": "nyagan",
     "type": "Город",
     "typeShort": "г.",
@@ -67846,6 +68922,7 @@
   },
   {
     "name": "Покачи",
+    "name_alt": "Покачи",
     "label": "pokachi",
     "type": "Город",
     "typeShort": "г",
@@ -67910,6 +68987,7 @@
   },
   {
     "name": "Пыть-Ях",
+    "name_alt": "Пыть-Ях",
     "label": "pyt'_yakh",
     "type": "Город",
     "typeShort": "г",
@@ -67974,6 +69052,7 @@
   },
   {
     "name": "Советский",
+    "name_alt": "Советский",
     "label": "sovietskyi",
     "type": "Город",
     "typeShort": "г",
@@ -68038,6 +69117,7 @@
   },
   {
     "name": "Сургут",
+    "name_alt": "Сургут",
     "label": "surgut",
     "type": "Город",
     "typeShort": "г",
@@ -68102,6 +69182,7 @@
   },
   {
     "name": "Радужный",
+    "name_alt": "Радужный",
     "label": "raduzhny",
     "type": "Город",
     "typeShort": "г",
@@ -68166,6 +69247,7 @@
   },
   {
     "name": "Урай",
+    "name_alt": "Урай",
     "label": "uray",
     "type": "Город",
     "typeShort": "г",
@@ -68230,6 +69312,7 @@
   },
   {
     "name": "Ханты-Мансийск",
+    "name_alt": "Ханты-Мансийск",
     "label": "khanty_mansiysk",
     "type": "Город",
     "typeShort": "г",
@@ -68294,6 +69377,7 @@
   },
   {
     "name": "Югорск",
+    "name_alt": "Югорск",
     "label": "yugorsk",
     "type": "Город",
     "typeShort": "г",
@@ -68358,6 +69442,7 @@
   },
   {
     "name": "Анадырь",
+    "name_alt": "Анадырь",
     "label": "anadyr",
     "type": "Город",
     "typeShort": "г",
@@ -68422,6 +69507,7 @@
   },
   {
     "name": "Билибино",
+    "name_alt": "Билибино",
     "label": "bilibino",
     "type": "Город",
     "typeShort": "г",
@@ -68486,6 +69572,7 @@
   },
   {
     "name": "Певек",
+    "name_alt": "Певек",
     "label": "pevek",
     "type": "Город",
     "typeShort": "г",
@@ -68550,6 +69637,7 @@
   },
   {
     "name": "Губкинский",
+    "name_alt": "Губкинский",
     "label": "gubkinsky",
     "type": "Город",
     "typeShort": "г",
@@ -68613,6 +69701,7 @@
   },
   {
     "name": "Лабытнанги",
+    "name_alt": "Лабытнанги",
     "label": "labytnangi",
     "type": "Город",
     "typeShort": "г",
@@ -68676,6 +69765,7 @@
   },
   {
     "name": "Муравленко",
+    "name_alt": "Муравленко",
     "label": "muravlenko",
     "type": "Город",
     "typeShort": "г",
@@ -68739,6 +69829,7 @@
   },
   {
     "name": "Надым",
+    "name_alt": "Надым",
     "label": "nadym",
     "type": "Город",
     "typeShort": "г",
@@ -68802,6 +69893,7 @@
   },
   {
     "name": "Новый Уренгой",
+    "name_alt": "Новый Уренгой",
     "label": "novy_urengoy",
     "type": "Город",
     "typeShort": "г",
@@ -68865,6 +69957,7 @@
   },
   {
     "name": "Ноябрьск",
+    "name_alt": "Ноябрьск",
     "label": "noyabrsk",
     "type": "Город",
     "typeShort": "г",
@@ -68928,6 +70021,7 @@
   },
   {
     "name": "Салехард",
+    "name_alt": "Салехард",
     "label": "salekhard",
     "type": "Город",
     "typeShort": "г",
@@ -68991,6 +70085,7 @@
   },
   {
     "name": "Тарко-Сале",
+    "name_alt": "Тарко-Сале",
     "label": "tarko_sale",
     "type": "Город",
     "typeShort": "г",
@@ -69054,6 +70149,7 @@
   },
   {
     "name": "Аргун",
+    "name_alt": "Аргун",
     "label": "argun",
     "type": "Город",
     "typeShort": "г",
@@ -69118,6 +70214,7 @@
   },
   {
     "name": "Грозный",
+    "name_alt": "Грозный",
     "label": "grozny",
     "type": "Город",
     "typeShort": "г",
@@ -69182,6 +70279,7 @@
   },
   {
     "name": "Гудермес",
+    "name_alt": "Гудермес",
     "label": "gudermes",
     "type": "Город",
     "typeShort": "г",
@@ -69246,6 +70344,7 @@
   },
   {
     "name": "Курчалой",
+    "name_alt": "Курчалой",
     "label": "kurchaloy",
     "type": "Город",
     "typeShort": "г.",
@@ -69310,6 +70409,7 @@
   },
   {
     "name": "Ачхой-Мартан",
+    "name_alt": "Ачхой-Мартан",
     "label": "achkhoy_martan",
     "type": "Город",
     "typeShort": "г.",
@@ -69374,6 +70474,7 @@
   },
   {
     "name": "Урус-Мартан",
+    "name_alt": "Урус-Мартан",
     "label": "urus_martan",
     "type": "Город",
     "typeShort": "г",
@@ -69438,6 +70539,7 @@
   },
   {
     "name": "Шали",
+    "name_alt": "Шали",
     "label": "shali",
     "type": "Город",
     "typeShort": "г",
