@@ -4596,12 +4596,12 @@
     "name_en": "Olonets",
     "namecase": {
       "nominative": "Олонец",
-      "genitive": "Олонеца",
-      "dative": "Олонецу",
+      "genitive": "Олонца",
+      "dative": "Олонцу",
       "accusative": "Олонец",
-      "ablative": "Олонецом",
-      "prepositional": "Олонеце",
-      "locative": "Олонеце"
+      "ablative": "Олонцом",
+      "prepositional": "Олонце",
+      "locative": "Олонце"
     },
     "region": {
       "name": "Карелия",
@@ -21457,12 +21457,12 @@
     "name_en": "Gorokhovets",
     "namecase": {
       "nominative": "Гороховец",
-      "genitive": "Гороховеца",
-      "dative": "Гороховецу",
+      "genitive": "Гороховца",
+      "dative": "Гороховцу",
       "accusative": "Гороховец",
-      "ablative": "Гороховецом",
-      "prepositional": "Гороховеце",
-      "locative": "Гороховеце"
+      "ablative": "Гороховцом",
+      "prepositional": "Гороховце",
+      "locative": "Гороховце"
     },
     "region": {
       "name": "Владимирская",
@@ -23377,12 +23377,12 @@
     "name_en": "Gryazovets",
     "namecase": {
       "nominative": "Грязовец",
-      "genitive": "Грязовеца",
-      "dative": "Грязовецу",
+      "genitive": "Грязовца",
+      "dative": "Грязовцу",
       "accusative": "Грязовец",
-      "ablative": "Грязовецом",
-      "prepositional": "Грязовеце",
-      "locative": "Грязовеце"
+      "ablative": "Грязовцом",
+      "prepositional": "Грязовце",
+      "locative": "Грязовце"
     },
     "region": {
       "name": "Вологодская",
@@ -25745,12 +25745,12 @@
     "name_en": "Yuryevets",
     "namecase": {
       "nominative": "Юрьевец",
-      "genitive": "Юрьевеца",
-      "dative": "Юрьевецу",
+      "genitive": "Юрьевца",
+      "dative": "Юрьевцу",
       "accusative": "Юрьевец",
-      "ablative": "Юрьевецом",
-      "prepositional": "Юрьевеце",
-      "locative": "Юрьевеце"
+      "ablative": "Юрьевцом",
+      "prepositional": "Юрьевце",
+      "locative": "Юрьевце"
     },
     "region": {
       "name": "Ивановская",
@@ -29137,12 +29137,12 @@
     "name_en": "Maloyaroslavets",
     "namecase": {
       "nominative": "Малоярославец",
-      "genitive": "Малоярославеца",
-      "dative": "Малоярославецу",
+      "genitive": "Малоярославца",
+      "dative": "Малоярославцу",
       "accusative": "Малоярославец",
-      "ablative": "Малоярославецом",
-      "prepositional": "Малоярославеце",
-      "locative": "Малоярославеце"
+      "ablative": "Малоярославцом",
+      "prepositional": "Малоярославце",
+      "locative": "Малоярославце"
     },
     "region": {
       "name": "Калужская",
@@ -31828,12 +31828,12 @@
     "name_en": "Kirovo-Chepetsk",
     "namecase": {
       "nominative": "Кирово-Чепецк",
-      "genitive": "Кирова-Чепецка",
-      "dative": "Кирову-Чепецку",
+      "genitive": "Кирово-Чепецка",
+      "dative": "Кирово-Чепецку",
       "accusative": "Кирово-Чепецк",
-      "ablative": "Кировом-Чепецком",
-      "prepositional": "Кирове-Чепецке",
-      "locative": "Кирове-Чепецке"
+      "ablative": "Кирово-Чепецком",
+      "prepositional": "Кирово-Чепецке",
+      "locative": "Кирово-Чепецке"
     },
     "region": {
       "name": "Кировская",
@@ -31956,12 +31956,12 @@
     "name_en": "Slobodskoy",
     "namecase": {
       "nominative": "Слободской",
-      "genitive": "Слободскоя",
-      "dative": "Слободскою",
-      "accusative": "Слободской",
-      "ablative": "Слободскоем",
-      "prepositional": "Слободское",
-      "locative": "Слободское"
+      "genitive": "Слободского",
+      "dative": "Слободскому",
+      "accusative": "Слободского",
+      "ablative": "Слободским",
+      "prepositional": "Слободском",
+      "locative": "Слободском"
     },
     "region": {
       "name": "Кировская",
@@ -37196,12 +37196,12 @@
     "name_en": "Yelets",
     "namecase": {
       "nominative": "Елец",
-      "genitive": "Елеца",
-      "dative": "Елецу",
+      "genitive": "Ельца",
+      "dative": "Ельцу",
       "accusative": "Елец",
-      "ablative": "Елецом",
-      "prepositional": "Елеце",
-      "locative": "Елеце"
+      "ablative": "Ельцом",
+      "prepositional": "Ельце",
+      "locative": "Ельце"
     },
     "region": {
       "name": "Липецкая",
@@ -37260,12 +37260,12 @@
     "name_en": "Gryazi",
     "namecase": {
       "nominative": "Грязи",
-      "genitive": "Грязи",
-      "dative": "Грязи",
+      "genitive": "Грязей",
+      "dative": "Грязям",
       "accusative": "Грязи",
-      "ablative": "Грязи",
-      "prepositional": "Грязи",
-      "locative": "Грязи"
+      "ablative": "Грязями",
+      "prepositional": "Грязях",
+      "locative": "Грязях"
     },
     "region": {
       "name": "Липецкая",
@@ -43716,12 +43716,12 @@
     "name_en": "Gorodets",
     "namecase": {
       "nominative": "Городец",
-      "genitive": "Городеца",
-      "dative": "Городецу",
+      "genitive": "Городца",
+      "dative": "Городцу",
       "accusative": "Городец",
-      "ablative": "Городецом",
-      "prepositional": "Городеце",
-      "locative": "Городеце"
+      "ablative": "Городцом",
+      "prepositional": "Городце",
+      "locative": "Городце"
     },
     "region": {
       "name": "Нижегородская",
@@ -46596,12 +46596,12 @@
     "name_en": "Ob",
     "namecase": {
       "nominative": "Обь",
-      "genitive": "Обь",
-      "dative": "Обь",
+      "genitive": "Оби",
+      "dative": "Оби",
       "accusative": "Обь",
-      "ablative": "Обь",
-      "prepositional": "Обь",
-      "locative": "Обь"
+      "ablative": "Обью",
+      "prepositional": "Оби",
+      "locative": "Оби"
     },
     "region": {
       "name": "Новосибирская",
@@ -47684,12 +47684,12 @@
     "name_en": "Sol-Iletsk",
     "namecase": {
       "nominative": "Соль-Илецк",
-      "genitive": "Соль-Илецк",
-      "dative": "Соль-Илецк",
+      "genitive": "Соль-Илецка",
+      "dative": "Соль-Илецку",
       "accusative": "Соль-Илецк",
-      "ablative": "Соль-Илецк",
-      "prepositional": "Соль-Илецк",
-      "locative": "Соль-Илецк"
+      "ablative": "Соль-Илецком",
+      "prepositional": "Соль-Илецке",
+      "locative": "Соль-Илецке"
     },
     "region": {
       "name": "Оренбургская",
@@ -59012,12 +59012,12 @@
     "name_en": "Polevskoy",
     "namecase": {
       "nominative": "Полевской",
-      "genitive": "Полевскоя",
-      "dative": "Полевскою",
-      "accusative": "Полевской",
-      "ablative": "Полевскоем",
-      "prepositional": "Полевское",
-      "locative": "Полевское"
+      "genitive": "Полевского",
+      "dative": "Полевскому",
+      "accusative": "Полевского",
+      "ablative": "Полевским",
+      "prepositional": "Полевском",
+      "locative": "Полевском"
     },
     "region": {
       "name": "Свердловская",
@@ -61316,12 +61316,12 @@
     "name_en": "Vyshny Volochyok",
     "namecase": {
       "nominative": "Вышний Волочёк",
-      "genitive": "Вышнего Волочёка",
-      "dative": "Вышнему Волочёку",
+      "genitive": "Вышнего Волочка",
+      "dative": "Вышнему Волочку",
       "accusative": "Вышний Волочёк",
-      "ablative": "Вышним Волочёком",
-      "prepositional": "Вышнем Волочёке",
-      "locative": "Вышнем Волочёке"
+      "ablative": "Вышним Волочком",
+      "prepositional": "Вышнем Волочке",
+      "locative": "Вышнем Волочке"
     },
     "region": {
       "name": "Тверская",
@@ -62020,12 +62020,12 @@
     "name_en": "Toropets",
     "namecase": {
       "nominative": "Торопец",
-      "genitive": "Торопеца",
-      "dative": "Торопецу",
+      "genitive": "Торопца",
+      "dative": "Торопцу",
       "accusative": "Торопец",
-      "ablative": "Торопецом",
-      "prepositional": "Торопеце",
-      "locative": "Торопеце"
+      "ablative": "Торопцом",
+      "prepositional": "Торопце",
+      "locative": "Торопце"
     },
     "region": {
       "name": "Тверская",
@@ -63172,12 +63172,12 @@
     "name_en": "Donskoy",
     "namecase": {
       "nominative": "Донской",
-      "genitive": "Донскоя",
-      "dative": "Донскою",
+      "genitive": "Донского",
+      "dative": "Донскому",
       "accusative": "Донской",
-      "ablative": "Донскоем",
-      "prepositional": "Донское",
-      "locative": "Донское"
+      "ablative": "Донским",
+      "prepositional": "Донском",
+      "locative": "Донском"
     },
     "region": {
       "name": "Тульская",
@@ -68356,12 +68356,12 @@
     "name_en": "Naryan-Mar",
     "namecase": {
       "nominative": "Нарьян-Мар",
-      "genitive": "Нарьяна-Мара",
-      "dative": "Нарьяну-Мару",
+      "genitive": "Нарьян-Мара",
+      "dative": "Нарьян-Мару",
       "accusative": "Нарьян-Мар",
-      "ablative": "Нарьяном-Маром",
-      "prepositional": "Нарьяне-Маре",
-      "locative": "Нарьяне-Маре"
+      "ablative": "Нарьян-Маром",
+      "prepositional": "Нарьян-Маре",
+      "locative": "Нарьян-Маре"
     },
     "region": {
       "name": "Ненецкий",
