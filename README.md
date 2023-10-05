@@ -72,7 +72,7 @@
     "area": 3083523, // площадь в км² [3]
     "fullname": "Республика Саха /Якутия/", // полное официальное наименование
     "unofficialName": "Якутия", // неофициальное наименование (необязательное поле)
-    "name_en": "Sakha (Yakutia)", // название на английском языке [3]
+    "name_en": "Republic of Sakha (Yakutia)", // название на английском языке [5]
     "district": "Дальневосточный", // принадлежность к федеральному округу [2]
     "namecase": {
       // склонения полного наименования [6]
@@ -103,7 +103,7 @@
 2. [Список городов России - Wikipedia](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8)
 3. [Список субъектов России - Wikipedia](https://en.wikipedia.org/wiki/Federal_subjects_of_Russia#List)
 4. [ISO 3166-2:RU - Wikipedia](https://ru.wikipedia.org/wiki/ISO_3166-2:RU)
-5. [List of all town's in Russia - Geokeo](https://geokeo.com/database/town/ru/)
+5. [List of cities and towns in Russia - Wikipedia](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Russia)
 6. [Morphos](https://github.com/wapmorgan/Morphos)
 
 ## Города с неуникальными названиями
