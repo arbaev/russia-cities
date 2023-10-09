@@ -44,6 +44,7 @@
   "yearFounded": 1635, // год основания или первое упоминание (не для всех городов это цифровое значение) [2]
   "yearCityStatus": 1783, // год присвоения статуса города. При неоднократном присвоении статуса указан год последнего присвоения [2]
   "name_en": "Olyokminsk", // название на английском языке [5]
+  "coords": { "lat": "60.3758006", "lon": "120.4060878" }, // координаты [7]
   "namecase": {
     // склонение названия по падежам [6]
     "nominative": "Олёкминск", // именительный
@@ -105,6 +106,7 @@
 4. [ISO 3166-2:RU - Wikipedia](https://ru.wikipedia.org/wiki/ISO_3166-2:RU)
 5. [List of cities and towns in Russia - Wikipedia](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Russia)
 6. [Morphos](https://github.com/wapmorgan/Morphos)
+7. [ru-cities - Github](https://github.com/epogrebnyak/ru-cities)
 
 ## Города с неуникальными названиями
 
