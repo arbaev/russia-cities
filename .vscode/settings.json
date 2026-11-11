@@ -1,0 +1,8 @@
+{
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "[json]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2
+  }
+}
