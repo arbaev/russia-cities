@@ -75451,8 +75451,8 @@
     }
   },
   {
-    "name": "Ростов",
-    "name_alt": "Ростов",
+    "name": "Ростов Великий",
+    "name_alt": "Ростов Великий",
     "label": "rostov",
     "type": "Город",
     "typeShort": "г",
@@ -75467,15 +75467,15 @@
     "population": 28122,
     "yearFounded": 862,
     "yearCityStatus": 862,
-    "name_en": "Rostov",
+    "name_en": "Rostov Veliky",
     "namecase": {
-      "nominative": "Ростов",
-      "genitive": "Ростова",
-      "dative": "Ростову",
-      "accusative": "Ростов",
-      "ablative": "Ростовом",
-      "prepositional": "Ростове",
-      "locative": "Ростове"
+      "nominative": "Ростов Великий",
+      "genitive": "Ростова Великого",
+      "dative": "Ростову Великому",
+      "accusative": "Ростов Великий",
+      "ablative": "Ростовом Великим",
+      "prepositional": "Ростове Великом",
+      "locative": "Ростове Великом"
     },
     "coords": { "lat": 57.2051315, "lon": 39.4378622 },
     "timezone": {
