@@ -1390,7 +1390,7 @@
     },
     "coords": { "lat": 51.9581028, "lon": 85.9603235 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -6673,7 +6673,7 @@
     },
     "coords": { "lat": 67.4582218, "lon": 153.7069425 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Srednekolymsk",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -11602,7 +11602,7 @@
     },
     "coords": { "lat": 52.4922513, "lon": 82.7793606 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -11673,7 +11673,7 @@
     },
     "coords": { "lat": 53.3479968, "lon": 83.7798064 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -11744,7 +11744,7 @@
     },
     "coords": { "lat": 51.996152, "lon": 84.9839604 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -11815,7 +11815,7 @@
     },
     "coords": { "lat": 52.5393864, "lon": 85.2138453 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -11886,7 +11886,7 @@
     },
     "coords": { "lat": 50.9979622, "lon": 81.4643358 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -11957,7 +11957,7 @@
     },
     "coords": { "lat": 53.7063476, "lon": 84.9315081 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -12028,7 +12028,7 @@
     },
     "coords": { "lat": 51.1581094, "lon": 82.1872547 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -12099,7 +12099,7 @@
     },
     "coords": { "lat": 53.7913974, "lon": 81.3545053 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -12170,7 +12170,7 @@
     },
     "coords": { "lat": 53.4119759, "lon": 83.9311069 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -12241,7 +12241,7 @@
     },
     "coords": { "lat": 51.507337, "lon": 81.210024 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -12312,7 +12312,7 @@
     },
     "coords": { "lat": 52.999463, "lon": 78.6459232 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -12383,7 +12383,7 @@
     },
     "coords": { "lat": 52.9252146, "lon": 78.5729775 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Barnaul",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -20344,7 +20344,7 @@
     },
     "coords": { "lat": 46.3498308, "lon": 48.0326203 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Astrakhan",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -20415,7 +20415,7 @@
     },
     "coords": { "lat": 48.2848132, "lon": 46.1643706 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Astrakhan",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -20486,7 +20486,7 @@
     },
     "coords": { "lat": 48.5866291, "lon": 45.7368019 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Astrakhan",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -20557,7 +20557,7 @@
     },
     "coords": { "lat": 47.408999, "lon": 47.2525345 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Astrakhan",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -20628,7 +20628,7 @@
     },
     "coords": { "lat": 46.110579, "lon": 48.07333 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Astrakhan",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -20699,7 +20699,7 @@
     },
     "coords": { "lat": 46.6916565, "lon": 47.8502476 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Astrakhan",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -24320,7 +24320,7 @@
     },
     "coords": { "lat": 48.7070042, "lon": 44.5170339 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -24391,7 +24391,7 @@
     },
     "coords": { "lat": 48.7978209, "lon": 44.7462538 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -24462,7 +24462,7 @@
     },
     "coords": { "lat": 49.0554742, "lon": 44.8270085 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -24533,7 +24533,7 @@
     },
     "coords": { "lat": 50.9768814, "lon": 44.7858202 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -24604,7 +24604,7 @@
     },
     "coords": { "lat": 48.6889024, "lon": 43.5306303 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -24675,7 +24675,7 @@
     },
     "coords": { "lat": 50.0808422, "lon": 45.4048003 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -24746,7 +24746,7 @@
     },
     "coords": { "lat": 48.7068721, "lon": 44.5630857 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -24817,7 +24817,7 @@
     },
     "coords": { "lat": 47.6310259, "lon": 43.1330872 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -24888,7 +24888,7 @@
     },
     "coords": { "lat": 50.3205766, "lon": 44.8030699 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -24959,7 +24959,7 @@
     },
     "coords": { "lat": 48.6936061, "lon": 45.1992692 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -25030,7 +25030,7 @@
     },
     "coords": { "lat": 50.0708719, "lon": 43.2401512 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -25101,7 +25101,7 @@
     },
     "coords": { "lat": 50.0165306, "lon": 45.4731658 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -25172,7 +25172,7 @@
     },
     "coords": { "lat": 50.5296067, "lon": 42.6666439 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -25243,7 +25243,7 @@
     },
     "coords": { "lat": 50.0500944, "lon": 46.8804277 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -25314,7 +25314,7 @@
     },
     "coords": { "lat": 50.1380557, "lon": 45.20914 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -25385,7 +25385,7 @@
     },
     "coords": { "lat": 49.5663183, "lon": 42.7360402 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -25456,7 +25456,7 @@
     },
     "coords": { "lat": 48.618917, "lon": 42.8541163 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -25527,7 +25527,7 @@
     },
     "coords": { "lat": 50.7903789, "lon": 42.0288513 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -25598,7 +25598,7 @@
     },
     "coords": { "lat": 49.7649148, "lon": 43.6648641 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Volgograd",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -33908,7 +33908,7 @@
     },
     "coords": { "lat": 56.0786281, "lon": 86.0201278 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -33980,7 +33980,7 @@
     },
     "coords": { "lat": 54.4220968, "lon": 86.3037373 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34052,7 +34052,7 @@
     },
     "coords": { "lat": 55.6693513, "lon": 86.2744459 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34124,7 +34124,7 @@
     },
     "coords": { "lat": 53.5210919, "lon": 87.2771636 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34196,7 +34196,7 @@
     },
     "coords": { "lat": 54.2859263, "lon": 85.9475985 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34268,7 +34268,7 @@
     },
     "coords": { "lat": 55.3550907, "lon": 86.0871213 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34340,7 +34340,7 @@
     },
     "coords": { "lat": 54.0059999, "lon": 86.6366116 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34412,7 +34412,7 @@
     },
     "coords": { "lat": 54.6674492, "lon": 86.1797324 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34484,7 +34484,7 @@
     },
     "coords": { "lat": 56.2127383, "lon": 87.7454924 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34556,7 +34556,7 @@
     },
     "coords": { "lat": 53.6865289, "lon": 88.0702754 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34628,7 +34628,7 @@
     },
     "coords": { "lat": 53.7125695, "lon": 87.8055646 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34700,7 +34700,7 @@
     },
     "coords": { "lat": 53.7582436, "lon": 87.14653 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34772,7 +34772,7 @@
     },
     "coords": { "lat": 53.5988055, "lon": 87.3371272 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34844,7 +34844,7 @@
     },
     "coords": { "lat": 54.6055, "lon": 86.2809208 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34916,7 +34916,7 @@
     },
     "coords": { "lat": 53.8879117, "lon": 86.7492072 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -34988,7 +34988,7 @@
     },
     "coords": { "lat": 54.2351735, "lon": 85.8030733 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -35060,7 +35060,7 @@
     },
     "coords": { "lat": 56.0622131, "lon": 85.6207182 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -35132,7 +35132,7 @@
     },
     "coords": { "lat": 52.759313, "lon": 87.8476546 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -35204,7 +35204,7 @@
     },
     "coords": { "lat": 55.2764707, "lon": 85.6152619 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -35276,7 +35276,7 @@
     },
     "coords": { "lat": 55.7136, "lon": 84.934799 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novokuznetsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -35348,7 +35348,7 @@
     },
     "coords": { "lat": 58.6035264, "lon": 49.6679304 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -35420,7 +35420,7 @@
     },
     "coords": { "lat": 58.5559424, "lon": 50.0316848 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -35492,7 +35492,7 @@
     },
     "coords": { "lat": 56.2284817, "lon": 51.0614855 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -35564,7 +35564,7 @@
     },
     "coords": { "lat": 58.7311574, "lon": 50.1669249 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -35636,7 +35636,7 @@
     },
     "coords": { "lat": 58.3034832, "lon": 48.3475597 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -35708,7 +35708,7 @@
     },
     "coords": { "lat": 58.6698913, "lon": 52.1894564 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -35780,7 +35780,7 @@
     },
     "coords": { "lat": 57.3042882, "lon": 47.8855774 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -35852,7 +35852,7 @@
     },
     "coords": { "lat": 57.584196, "lon": 48.9590272 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -35924,7 +35924,7 @@
     },
     "coords": { "lat": 56.2532741, "lon": 51.2833642 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -35996,7 +35996,7 @@
     },
     "coords": { "lat": 58.8415239, "lon": 50.8460699 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -36068,7 +36068,7 @@
     },
     "coords": { "lat": 58.4032152, "lon": 51.1331606 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -36140,7 +36140,7 @@
     },
     "coords": { "lat": 60.6290609, "lon": 47.2612445 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -36212,7 +36212,7 @@
     },
     "coords": { "lat": 59.340056, "lon": 52.2414437 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -36284,7 +36284,7 @@
     },
     "coords": { "lat": 57.1097477, "lon": 50.0058097 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -36356,7 +36356,7 @@
     },
     "coords": { "lat": 57.5597284, "lon": 49.93575 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -36428,7 +36428,7 @@
     },
     "coords": { "lat": 56.5243844, "lon": 50.6782739 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -36500,7 +36500,7 @@
     },
     "coords": { "lat": 58.5389776, "lon": 48.8927723 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -36572,7 +36572,7 @@
     },
     "coords": { "lat": 59.3955383, "lon": 48.9638417 },
     "timezone": {
-      "tzid": "Europe/Moscow",
+      "tzid": "Europe/Kirov",
       "abbreviation": "MSK",
       "utcOffset": "UTC+03:00",
       "mskOffset": "MSK+00"
@@ -51435,7 +51435,7 @@
     },
     "coords": { "lat": 55.028191, "lon": 82.9211489 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -51506,7 +51506,7 @@
     },
     "coords": { "lat": 55.35146, "lon": 78.3464506 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -51577,7 +51577,7 @@
     },
     "coords": { "lat": 54.7582156, "lon": 83.1070605 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -51648,7 +51648,7 @@
     },
     "coords": { "lat": 55.6692421, "lon": 84.3906889 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -51719,7 +51719,7 @@
     },
     "coords": { "lat": 54.6267603, "lon": 83.2951244 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -51790,7 +51790,7 @@
     },
     "coords": { "lat": 53.7343189, "lon": 78.0422967 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -51861,7 +51861,7 @@
     },
     "coords": { "lat": 55.1945666, "lon": 80.2829495 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -51932,7 +51932,7 @@
     },
     "coords": { "lat": 55.4454258, "lon": 78.3222294 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -52003,7 +52003,7 @@
     },
     "coords": { "lat": 54.366055, "lon": 77.2973368 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -52074,7 +52074,7 @@
     },
     "coords": { "lat": 54.9945576, "lon": 82.6937181 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -52145,7 +52145,7 @@
     },
     "coords": { "lat": 55.2146167, "lon": 75.9739914 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -52216,7 +52216,7 @@
     },
     "coords": { "lat": 55.2251631, "lon": 84.4104118 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -52287,7 +52287,7 @@
     },
     "coords": { "lat": 54.2206476, "lon": 83.3724521 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -52358,7 +52358,7 @@
     },
     "coords": { "lat": 55.0906867, "lon": 80.9592508 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Novosibirsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -61032,7 +61032,7 @@
     },
     "coords": { "lat": 51.533557, "lon": 46.034257 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61103,7 +61103,7 @@
     },
     "coords": { "lat": 51.4854003, "lon": 46.126722 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61174,7 +61174,7 @@
     },
     "coords": { "lat": 52.01812, "lon": 47.819141 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61245,7 +61245,7 @@
     },
     "coords": { "lat": 51.5546717, "lon": 43.1430732 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61316,7 +61316,7 @@
     },
     "coords": { "lat": 52.0459865, "lon": 47.3873595 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61387,7 +61387,7 @@
     },
     "coords": { "lat": 52.0159921, "lon": 48.7972223 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61458,7 +61458,7 @@
     },
     "coords": { "lat": 52.2616271, "lon": 43.7842248 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61529,7 +61529,7 @@
     },
     "coords": { "lat": 51.7133337, "lon": 46.7400339 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61600,7 +61600,7 @@
     },
     "coords": { "lat": 52.3094237, "lon": 45.3851877 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61671,7 +61671,7 @@
     },
     "coords": { "lat": 51.8736062, "lon": 45.0003247 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61742,7 +61742,7 @@
     },
     "coords": { "lat": 51.023541, "lon": 45.695044 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61813,7 +61813,7 @@
     },
     "coords": { "lat": 51.3508505, "lon": 48.2762226 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61884,7 +61884,7 @@
     },
     "coords": { "lat": 50.455199, "lon": 48.1413153 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -61955,7 +61955,7 @@
     },
     "coords": { "lat": 51.4993591, "lon": 44.4710435 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -62026,7 +62026,7 @@
     },
     "coords": { "lat": 50.9598317, "lon": 46.9712016 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -62097,7 +62097,7 @@
     },
     "coords": { "lat": 52.4951572, "lon": 48.1045771 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -62168,7 +62168,7 @@
     },
     "coords": { "lat": 51.938831, "lon": 43.4999221 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -62239,7 +62239,7 @@
     },
     "coords": { "lat": 52.1147391, "lon": 47.2023118 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Saratov",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -62310,7 +62310,7 @@
     },
     "coords": { "lat": 50.8974378, "lon": 142.1578559 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -62382,7 +62382,7 @@
     },
     "coords": { "lat": 46.713152, "lon": 142.5265804 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -62454,7 +62454,7 @@
     },
     "coords": { "lat": 47.3255783, "lon": 142.7945071 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -62526,7 +62526,7 @@
     },
     "coords": { "lat": 46.6324545, "lon": 142.799445 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -62598,7 +62598,7 @@
     },
     "coords": { "lat": 45.2270954, "lon": 147.8796323 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -62670,7 +62670,7 @@
     },
     "coords": { "lat": 48.6236334, "lon": 142.7803205 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -62742,7 +62742,7 @@
     },
     "coords": { "lat": 46.6717928, "lon": 141.8567244 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -62814,7 +62814,7 @@
     },
     "coords": { "lat": 53.5867839, "lon": 142.9412411 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -62886,7 +62886,7 @@
     },
     "coords": { "lat": 49.238866, "lon": 143.1008333 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -62958,7 +62958,7 @@
     },
     "coords": { "lat": 50.6730577, "lon": 156.1282211 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -63030,7 +63030,7 @@
     },
     "coords": { "lat": 47.7620108, "lon": 142.0615837 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -63102,7 +63102,7 @@
     },
     "coords": { "lat": 49.0815774, "lon": 142.0692639 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -63174,7 +63174,7 @@
     },
     "coords": { "lat": 47.0408423, "lon": 142.041688 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -63246,7 +63246,7 @@
     },
     "coords": { "lat": 46.9591631, "lon": 142.737976 },
     "timezone": {
-      "tzid": "Asia/Magadan",
+      "tzid": "Asia/Sakhalin",
       "abbreviation": "MAGT",
       "utcOffset": "UTC+11:00",
       "mskOffset": "MSK+08"
@@ -69921,7 +69921,7 @@
     },
     "coords": { "lat": 56.4845804, "lon": 84.9481582 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Tomsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -69992,7 +69992,7 @@
     },
     "coords": { "lat": 56.999187, "lon": 86.14167 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Tomsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -70063,7 +70063,7 @@
     },
     "coords": { "lat": 57.561869, "lon": 79.5677821 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Tomsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -70134,7 +70134,7 @@
     },
     "coords": { "lat": 58.3114253, "lon": 82.9025829 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Tomsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -70205,7 +70205,7 @@
     },
     "coords": { "lat": 56.6031285, "lon": 84.8809926 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Tomsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -70276,7 +70276,7 @@
     },
     "coords": { "lat": 60.732895, "lon": 77.604122 },
     "timezone": {
-      "tzid": "Asia/Krasnoyarsk",
+      "tzid": "Asia/Tomsk",
       "abbreviation": "KRAT",
       "utcOffset": "UTC+07:00",
       "mskOffset": "MSK+04"
@@ -72051,7 +72051,7 @@
     },
     "coords": { "lat": 54.3150278, "lon": 48.403373 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Ulyanovsk",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -72122,7 +72122,7 @@
     },
     "coords": { "lat": 54.2167926, "lon": 49.6262585 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Ulyanovsk",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -72193,7 +72193,7 @@
     },
     "coords": { "lat": 53.8549647, "lon": 46.3533459 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Ulyanovsk",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -72264,7 +72264,7 @@
     },
     "coords": { "lat": 53.6533992, "lon": 47.1181134 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Ulyanovsk",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -72335,7 +72335,7 @@
     },
     "coords": { "lat": 54.1447956, "lon": 48.3910789 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Ulyanovsk",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -72406,7 +72406,7 @@
     },
     "coords": { "lat": 53.958964, "lon": 48.7768269 },
     "timezone": {
-      "tzid": "Europe/Samara",
+      "tzid": "Europe/Ulyanovsk",
       "abbreviation": "SAMT",
       "utcOffset": "UTC+04:00",
       "mskOffset": "MSK+01"
@@ -74607,7 +74607,7 @@
     },
     "coords": { "lat": 51.5823759, "lon": 116.6379549 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -74679,7 +74679,7 @@
     },
     "coords": { "lat": 50.3876058, "lon": 116.5234779 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -74751,7 +74751,7 @@
     },
     "coords": { "lat": 50.0929703, "lon": 118.0323936 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -74823,7 +74823,7 @@
     },
     "coords": { "lat": 53.7361398, "lon": 119.7660867 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -74895,7 +74895,7 @@
     },
     "coords": { "lat": 51.9594977, "lon": 116.5852383 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -74967,7 +74967,7 @@
     },
     "coords": { "lat": 51.2530206, "lon": 108.827223 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -75039,7 +75039,7 @@
     },
     "coords": { "lat": 52.2461454, "lon": 117.7117842 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -75111,7 +75111,7 @@
     },
     "coords": { "lat": 51.3634856, "lon": 110.4590898 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -75183,7 +75183,7 @@
     },
     "coords": { "lat": 52.0340142, "lon": 113.4994 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -75255,7 +75255,7 @@
     },
     "coords": { "lat": 51.8497035, "lon": 116.0334461 },
     "timezone": {
-      "tzid": "Asia/Yakutsk",
+      "tzid": "Asia/Chita",
       "abbreviation": "YAKT",
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
@@ -77476,7 +77476,7 @@
     },
     "coords": { "lat": 64.7313924, "lon": 177.5015421 },
     "timezone": {
-      "tzid": "Asia/Kamchatka",
+      "tzid": "Asia/Anadyr",
       "abbreviation": "PETT",
       "utcOffset": "UTC+12:00",
       "mskOffset": "MSK+09"
@@ -77548,7 +77548,7 @@
     },
     "coords": { "lat": 68.0584191, "lon": 166.4388172 },
     "timezone": {
-      "tzid": "Asia/Kamchatka",
+      "tzid": "Asia/Anadyr",
       "abbreviation": "PETT",
       "utcOffset": "UTC+12:00",
       "mskOffset": "MSK+09"
@@ -77620,7 +77620,7 @@
     },
     "coords": { "lat": 69.7016661, "lon": 170.2999022 },
     "timezone": {
-      "tzid": "Asia/Kamchatka",
+      "tzid": "Asia/Anadyr",
       "abbreviation": "PETT",
       "utcOffset": "UTC+12:00",
       "mskOffset": "MSK+09"

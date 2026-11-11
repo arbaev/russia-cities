@@ -68,8 +68,8 @@
   },
   "coords": { "lat": 60.3758006, "lon": 120.4060878 }, // координаты [7]
   "timezone": { // часовой пояс [8]
-      "tzid": "Asia/Yakutsk",
-      "abbreviation": "YAKT",
+      "tzid": "Asia/Yakutsk", // идентификатор пояса в базе IANA tzdb — его и стоит передавать в библиотеки работы с датами
+      "abbreviation": "YAKT", // условное обозначение по смещению, у части поясов неофициальное
       "utcOffset": "UTC+09:00",
       "mskOffset": "MSK+06"
   },
