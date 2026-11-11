@@ -523,6 +523,7 @@
     "yearFounded": 1924,
     "area": 7987,
     "fullname": "Республика Северная Осетия - Алания",
+    "unofficialName": "Северная Осетия",
     "name_en": "Republic of North Ossetia–Alania",
     "district": "Северо-Кавказский",
     "namecase": {
@@ -595,6 +596,7 @@
     "yearFounded": 1944,
     "area": 168604,
     "fullname": "Республика Тыва",
+    "unofficialName": "Тува",
     "name_en": "Tuva Republic",
     "district": "Сибирский",
     "namecase": {
@@ -814,6 +816,7 @@
     "yearFounded": 1937,
     "area": 75485,
     "fullname": "Краснодарский край",
+    "unofficialName": "Кубань",
     "name_en": "Krasnodar Krai",
     "district": "Южный",
     "namecase": {
@@ -886,6 +889,7 @@
     "yearFounded": 1938,
     "area": 164673,
     "fullname": "Приморский край",
+    "unofficialName": "Приморье",
     "name_en": "Primorsky Krai",
     "district": "Дальневосточный",
     "namecase": {
@@ -995,6 +999,7 @@
     "yearFounded": 1932,
     "area": 361908,
     "fullname": "Амурская область",
+    "unofficialName": "Приамурье",
     "name_en": "Amur Oblast",
     "district": "Дальневосточный",
     "namecase": {
@@ -1031,6 +1036,7 @@
     "yearFounded": 1937,
     "area": 413103,
     "fullname": "Архангельская область",
+    "unofficialName": "Поморье",
     "name_en": "Arkhangelsk Oblast",
     "district": "Северо-Западный",
     "namecase": {
@@ -1500,6 +1506,7 @@
     "yearFounded": 1943,
     "area": 95725,
     "fullname": "Кемеровская область - Кузбасс",
+    "unofficialName": "Кузбасс",
     "name_en": "Kemerovo Oblast",
     "district": "Сибирский",
     "namecase": {
@@ -1536,6 +1543,7 @@
     "yearFounded": 1934,
     "area": 120374,
     "fullname": "Кировская область",
+    "unofficialName": "Вятка",
     "name_en": "Kirov Oblast",
     "district": "Приволжский",
     "namecase": {
@@ -1680,6 +1688,7 @@
     "yearFounded": 1927,
     "area": 83908,
     "fullname": "Ленинградская область",
+    "unofficialName": "Ленобласть",
     "name_en": "Leningrad Oblast",
     "district": "Северо-Западный",
     "namecase": {
@@ -1752,6 +1761,7 @@
     "yearFounded": 1953,
     "area": 462464,
     "fullname": "Магаданская область",
+    "unofficialName": "Колыма",
     "name_en": "Magadan Oblast",
     "district": "Дальневосточный",
     "namecase": {
@@ -2004,6 +2014,7 @@
     "yearFounded": 1934,
     "area": 123702,
     "fullname": "Оренбургская область",
+    "unofficialName": "Оренбуржье",
     "name_en": "Orenburg Oblast",
     "district": "Приволжский",
     "namecase": {
@@ -2328,6 +2339,7 @@
     "yearFounded": 1947,
     "area": 87101,
     "fullname": "Сахалинская область",
+    "unofficialName": "Сахалин",
     "name_en": "Sakhalin Oblast",
     "district": "Дальневосточный",
     "namecase": {
@@ -2688,6 +2700,7 @@
     "yearFounded": 2008,
     "area": 431892,
     "fullname": "Забайкальский край",
+    "unofficialName": "Забайкалье",
     "name_en": "Zabaykalsky Krai",
     "district": "Дальневосточный",
     "namecase": {
@@ -2816,6 +2829,7 @@
     "yearFounded": 1934,
     "area": 36271,
     "fullname": "Еврейская автономная область",
+    "unofficialName": "ЕАО",
     "name_en": "Jewish Autonomous Oblast",
     "district": "Дальневосточный",
     "namecase": {
@@ -2889,6 +2903,7 @@
     "yearFounded": 1929,
     "area": 17681,
     "fullname": "Ненецкий автономный округ",
+    "unofficialName": "НАО",
     "name_en": "Nenets Autonomous Okrug",
     "district": "Северо-Западный",
     "namecase": {
@@ -2962,6 +2977,7 @@
     "yearFounded": 1930,
     "area": 76925,
     "fullname": "Ямало-Ненецкий автономный округ",
+    "unofficialName": "ЯНАО",
     "name_en": "Yamalo-Nenets Autonomous Okrug",
     "district": "Уральский",
     "namecase": {
