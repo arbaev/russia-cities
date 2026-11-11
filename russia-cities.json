@@ -602,7 +602,7 @@
       "prepositional": "Стерлитамаке",
       "locative": "Стерлитамаке"
     },
-    "coords": { "lat": 53.6300864, "lon": 55.9317089 },
+    "coords": { "lat": 53.6194416, "lon": 55.9616172 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -818,7 +818,7 @@
       "prepositional": "Учалах",
       "locative": "Учалах"
     },
-    "coords": { "lat": 54.3067375, "lon": 59.4125461 },
+    "coords": { "lat": 54.316597, "lon": 59.384636 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -5455,7 +5455,7 @@
       "prepositional": "Печоре",
       "locative": "Печоре"
     },
-    "coords": { "lat": 65.148584, "lon": 57.2239777 },
+    "coords": { "lat": 65.1142862, "lon": 57.16074 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -5668,7 +5668,7 @@
       "prepositional": "Сосногорске",
       "locative": "Сосногорске"
     },
-    "coords": { "lat": 63.5989841, "lon": 53.876293 },
+    "coords": { "lat": 63.5895298, "lon": 53.9305546 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -6239,7 +6239,7 @@
       "prepositional": "Ленске",
       "locative": "Ленске"
     },
-    "coords": { "lat": 60.7276196, "lon": 114.9548255 },
+    "coords": { "lat": 60.7145488, "lon": 114.9172123 },
     "timezone": {
       "tzid": "Asia/Yakutsk",
       "abbreviation": "YAKT",
@@ -6815,7 +6815,7 @@
       "prepositional": "Удачном",
       "locative": "Удачном"
     },
-    "coords": { "lat": 66.4071765, "lon": 112.3061555 },
+    "coords": { "lat": 66.411768, "lon": 112.2517294 },
     "timezone": {
       "tzid": "Asia/Yakutsk",
       "abbreviation": "YAKT",
@@ -7243,7 +7243,7 @@
       "prepositional": "Вуктыле",
       "locative": "Вуктыле"
     },
-    "coords": { "lat": 63.8615274, "lon": 57.3165402 },
+    "coords": { "lat": 63.844337, "lon": 57.300171 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -9516,7 +9516,7 @@
       "prepositional": "Сарапуле",
       "locative": "Сарапуле"
     },
-    "coords": { "lat": 56.4615767, "lon": 53.8037657 },
+    "coords": { "lat": 56.477466, "lon": 53.818709 },
     "timezone": {
       "tzid": "Europe/Samara",
       "abbreviation": "SAMT",
@@ -12228,7 +12228,7 @@
       "prepositional": "Рубцовске",
       "locative": "Рубцовске"
     },
-    "coords": { "lat": 51.5012067, "lon": 81.2078695 },
+    "coords": { "lat": 51.507337, "lon": 81.210024 },
     "timezone": {
       "tzid": "Asia/Krasnoyarsk",
       "abbreviation": "KRAT",
@@ -13790,7 +13790,7 @@
       "prepositional": "Темрюке",
       "locative": "Темрюке"
     },
-    "coords": { "lat": 45.2610949, "lon": 37.4454412 },
+    "coords": { "lat": 45.2823609, "lon": 37.3658235 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -14997,7 +14997,7 @@
       "prepositional": "Игарке",
       "locative": "Игарке"
     },
-    "coords": { "lat": 67.4666901, "lon": 86.5812794 },
+    "coords": { "lat": 67.4566185, "lon": 86.5308425 },
     "timezone": {
       "tzid": "Asia/Krasnoyarsk",
       "abbreviation": "KRAT",
@@ -18122,7 +18122,7 @@
       "prepositional": "Хабаровске",
       "locative": "Хабаровске"
     },
-    "coords": { "lat": 48.4647258, "lon": 135.0598942 },
+    "coords": { "lat": 48.4812568, "lon": 135.0762968 },
     "timezone": {
       "tzid": "Asia/Vladivostok",
       "abbreviation": "VLAT",
@@ -18193,7 +18193,7 @@
       "prepositional": "Амурске",
       "locative": "Амурске"
     },
-    "coords": { "lat": 50.2344147, "lon": 136.8792444 },
+    "coords": { "lat": 50.2265588, "lon": 136.9100919 },
     "timezone": {
       "tzid": "Asia/Vladivostok",
       "abbreviation": "VLAT",
@@ -18690,7 +18690,7 @@
       "prepositional": "Благовещенске",
       "locative": "Благовещенске"
     },
-    "coords": { "lat": 50.290659, "lon": 127.527198 },
+    "coords": { "lat": 50.2600417, "lon": 127.5337378 },
     "timezone": {
       "tzid": "Asia/Yakutsk",
       "abbreviation": "YAKT",
@@ -19258,7 +19258,7 @@
       "prepositional": "Шимановске",
       "locative": "Шимановске"
     },
-    "coords": { "lat": 52.0051886, "lon": 127.7005458 },
+    "coords": { "lat": 51.9987022, "lon": 127.6719156 },
     "timezone": {
       "tzid": "Asia/Yakutsk",
       "abbreviation": "YAKT",
@@ -19613,7 +19613,7 @@
       "prepositional": "Коряжме",
       "locative": "Коряжме"
     },
-    "coords": { "lat": 61.2885948, "lon": 47.1003015 },
+    "coords": { "lat": 61.3152522, "lon": 47.1607291 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -20252,7 +20252,7 @@
       "prepositional": "Астрахани",
       "locative": "Астрахани"
     },
-    "coords": { "lat": 46.3655652, "lon": 48.0559236 },
+    "coords": { "lat": 46.3498308, "lon": 48.0326203 },
     "timezone": {
       "tzid": "Europe/Samara",
       "abbreviation": "SAMT",
@@ -20323,7 +20323,7 @@
       "prepositional": "Ахтубинске",
       "locative": "Ахтубинске"
     },
-    "coords": { "lat": 48.2752034, "lon": 46.1906462 },
+    "coords": { "lat": 48.2848132, "lon": 46.1643706 },
     "timezone": {
       "tzid": "Europe/Samara",
       "abbreviation": "SAMT",
@@ -21956,7 +21956,7 @@
       "prepositional": "Коврове",
       "locative": "Коврове"
     },
-    "coords": { "lat": 56.3554349, "lon": 41.3170576 },
+    "coords": { "lat": 56.3743713, "lon": 41.3116439 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -22027,7 +22027,7 @@
       "prepositional": "Муроме",
       "locative": "Муроме"
     },
-    "coords": { "lat": 55.5630311, "lon": 42.0231362 },
+    "coords": { "lat": 55.5792902, "lon": 42.0527689 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -22240,7 +22240,7 @@
       "prepositional": "Кольчугине",
       "locative": "Кольчугине"
     },
-    "coords": { "lat": 56.3327254, "lon": 39.391336 },
+    "coords": { "lat": 56.2939784, "lon": 39.3759931 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -22311,7 +22311,7 @@
       "prepositional": "Вязниках",
       "locative": "Вязниках"
     },
-    "coords": { "lat": 56.29773, "lon": 42.2687398 },
+    "coords": { "lat": 56.2469403, "lon": 42.1585948 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -24583,7 +24583,7 @@
       "prepositional": "Камышине",
       "locative": "Камышине"
     },
-    "coords": { "lat": 50.0651529, "lon": 45.3844202 },
+    "coords": { "lat": 50.0808422, "lon": 45.4048003 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -25790,7 +25790,7 @@
       "prepositional": "Вологде",
       "locative": "Вологде"
     },
-    "coords": { "lat": 59.2483905, "lon": 39.8355662 },
+    "coords": { "lat": 59.2189391, "lon": 39.8933913 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -26784,7 +26784,7 @@
       "prepositional": "Россоши",
       "locative": "Россоши"
     },
-    "coords": { "lat": 50.1701949, "lon": 39.6226965 },
+    "coords": { "lat": 50.198344, "lon": 39.5630478 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -26926,7 +26926,7 @@
       "prepositional": "Острогожске",
       "locative": "Острогожске"
     },
-    "coords": { "lat": 50.8677905, "lon": 39.0407746 },
+    "coords": { "lat": 50.864902, "lon": 39.077244 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -28346,7 +28346,7 @@
       "prepositional": "Юже",
       "locative": "Юже"
     },
-    "coords": { "lat": 56.5926877, "lon": 42.0458099 },
+    "coords": { "lat": 56.5840428, "lon": 42.0109249 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -29837,7 +29837,7 @@
       "prepositional": "Свирске",
       "locative": "Свирске"
     },
-    "coords": { "lat": 53.0842668, "lon": 103.3364093 },
+    "coords": { "lat": 53.066269, "lon": 103.342331 },
     "timezone": {
       "tzid": "Asia/Irkutsk",
       "abbreviation": "IRKT",
@@ -30263,7 +30263,7 @@
       "prepositional": "Усть-Кут",
       "locative": "Усть-Кут"
     },
-    "coords": { "lat": 56.7928178, "lon": 105.7757343 },
+    "coords": { "lat": 56.7810026, "lon": 105.7460255 },
     "timezone": {
       "tzid": "Asia/Irkutsk",
       "abbreviation": "IRKT",
@@ -34171,7 +34171,7 @@
       "prepositional": "Кемерове",
       "locative": "Кемерове"
     },
-    "coords": { "lat": 55.3910651, "lon": 86.0467781 },
+    "coords": { "lat": 55.3550907, "lon": 86.0871213 },
     "timezone": {
       "tzid": "Asia/Krasnoyarsk",
       "abbreviation": "KRAT",
@@ -34597,7 +34597,7 @@
       "prepositional": "Новокузнецке",
       "locative": "Новокузнецке"
     },
-    "coords": { "lat": 53.794315, "lon": 87.2142745 },
+    "coords": { "lat": 53.7582436, "lon": 87.14653 },
     "timezone": {
       "tzid": "Asia/Krasnoyarsk",
       "abbreviation": "KRAT",
@@ -34810,7 +34810,7 @@
       "prepositional": "Прокопьевске",
       "locative": "Прокопьевске"
     },
-    "coords": { "lat": 53.8604265, "lon": 86.7183577 },
+    "coords": { "lat": 53.8879117, "lon": 86.7492072 },
     "timezone": {
       "tzid": "Asia/Krasnoyarsk",
       "abbreviation": "KRAT",
@@ -35165,7 +35165,7 @@
       "prepositional": "Юрге",
       "locative": "Юрге"
     },
-    "coords": { "lat": 55.7202694, "lon": 84.8886399 },
+    "coords": { "lat": 55.7136, "lon": 84.934799 },
     "timezone": {
       "tzid": "Asia/Krasnoyarsk",
       "abbreviation": "KRAT",
@@ -35662,7 +35662,7 @@
       "prepositional": "Яранске",
       "locative": "Яранске"
     },
-    "coords": { "lat": 57.3040326, "lon": 47.8478737 },
+    "coords": { "lat": 57.3042882, "lon": 47.8855774 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -36656,7 +36656,7 @@
       "prepositional": "Шарьи",
       "locative": "Шарьи"
     },
-    "coords": { "lat": 58.3760542, "lon": 45.4062414 },
+    "coords": { "lat": 58.37257, "lon": 45.519306 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -37579,7 +37579,7 @@
       "prepositional": "Куртамыше",
       "locative": "Куртамыше"
     },
-    "coords": { "lat": 54.9368539, "lon": 64.4203722 },
+    "coords": { "lat": 54.9095859, "lon": 64.4283925 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -38289,7 +38289,7 @@
       "prepositional": "Льгове",
       "locative": "Льгове"
     },
-    "coords": { "lat": 51.6597148, "lon": 35.2612491 },
+    "coords": { "lat": 51.6906587, "lon": 35.2839999 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -38928,7 +38928,7 @@
       "prepositional": "Волхове",
       "locative": "Волхове"
     },
-    "coords": { "lat": 59.9005958, "lon": 32.3520756 },
+    "coords": { "lat": 59.9275868, "lon": 32.3276803 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -39425,7 +39425,7 @@
       "prepositional": "Кириши",
       "locative": "Кириши"
     },
-    "coords": { "lat": 59.4742862, "lon": 32.0624947 },
+    "coords": { "lat": 59.450325, "lon": 32.010578 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -40837,7 +40837,7 @@
       "prepositional": "Сосновом Боре",
       "locative": "Сосновом Бору"
     },
-    "coords": { "lat": 59.8772884, "lon": 29.1291619 },
+    "coords": { "lat": 59.8968655, "lon": 29.0765628 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -40979,7 +40979,7 @@
       "prepositional": "Тихвине",
       "locative": "Тихвине"
     },
-    "coords": { "lat": 59.6272904, "lon": 33.5072731 },
+    "coords": { "lat": 59.644323, "lon": 33.5418624 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -41192,7 +41192,7 @@
       "prepositional": "Буграх",
       "locative": "Буграх"
     },
-    "coords": { "lat": 60.068722, "lon": 30.393806 },
+    "coords": { "lat": 60.0684741, "lon": 30.3947002 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -41263,7 +41263,7 @@
       "prepositional": "Тельмана",
       "locative": "Тельмана"
     },
-    "coords": { "lat": 59.725444, "lon": 30.612106 },
+    "coords": { "lat": 59.726498, "lon": 30.612122 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -41334,7 +41334,7 @@
       "prepositional": "Новоселье",
       "locative": "Новоселье"
     },
-    "coords": { "lat": 59.809048, "lon": 30.077563 },
+    "coords": { "lat": 59.808731, "lon": 30.075998 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -41476,7 +41476,7 @@
       "prepositional": "Ельце",
       "locative": "Ельце"
     },
-    "coords": { "lat": 52.6152411, "lon": 38.5289342 },
+    "coords": { "lat": 52.6219865, "lon": 38.5003298 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -42178,7 +42178,7 @@
       "prepositional": "Апрелевке",
       "locative": "Апрелевке"
     },
-    "coords": { "lat": 55.5276918, "lon": 37.065143 },
+    "coords": { "lat": 55.5454306, "lon": 37.0730417 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -42675,7 +42675,7 @@
       "prepositional": "Воскресенске",
       "locative": "Воскресенске"
     },
-    "coords": { "lat": 55.3071519, "lon": 38.7027953 },
+    "coords": { "lat": 55.322518, "lon": 38.6816824 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -42746,7 +42746,7 @@
       "prepositional": "Высоковске",
       "locative": "Высоковске"
     },
-    "coords": { "lat": 56.3359513, "lon": 36.5251837 },
+    "coords": { "lat": 56.3205097, "lon": 36.5521708 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -43811,7 +43811,7 @@
       "prepositional": "Кашире",
       "locative": "Кашире"
     },
-    "coords": { "lat": 54.853337, "lon": 38.1904392 },
+    "coords": { "lat": 54.837449, "lon": 38.1505119 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -44024,7 +44024,7 @@
       "prepositional": "Королёве",
       "locative": "Королёве"
     },
-    "coords": { "lat": 55.9161773, "lon": 37.8545415 },
+    "coords": { "lat": 55.9190049, "lon": 37.8150443 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -44663,7 +44663,7 @@
       "prepositional": "Лобне",
       "locative": "Лобне"
     },
-    "coords": { "lat": 56.0328881, "lon": 37.4614035 },
+    "coords": { "lat": 56.012884, "lon": 37.474914 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -44947,7 +44947,7 @@
       "prepositional": "Люберцах",
       "locative": "Люберцах"
     },
-    "coords": { "lat": 55.7003989, "lon": 37.9606238 },
+    "coords": { "lat": 55.6783142, "lon": 37.89377 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -45941,7 +45941,7 @@
       "prepositional": "Раменском",
       "locative": "Раменском"
     },
-    "coords": { "lat": 55.5495132, "lon": 38.2728914 },
+    "coords": { "lat": 55.5709361, "lon": 38.2282099 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -46793,7 +46793,7 @@
       "prepositional": "Хотькове",
       "locative": "Хотькове"
     },
-    "coords": { "lat": 56.2516982, "lon": 37.9396017 },
+    "coords": { "lat": 56.2516797, "lon": 37.9780219 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -48071,7 +48071,7 @@
       "prepositional": "Мурманске",
       "locative": "Мурманске"
     },
-    "coords": { "lat": 69.007721, "lon": 33.0685865 },
+    "coords": { "lat": 68.970665, "lon": 33.07497 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -50343,7 +50343,7 @@
       "prepositional": "Кстове",
       "locative": "Кстове"
     },
-    "coords": { "lat": 56.1432084, "lon": 44.1664198 },
+    "coords": { "lat": 56.149551, "lon": 44.198032 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -50414,7 +50414,7 @@
       "prepositional": "Павлове",
       "locative": "Павлове"
     },
-    "coords": { "lat": 55.9797564, "lon": 43.0995042 },
+    "coords": { "lat": 55.965137, "lon": 43.071114 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -51763,7 +51763,7 @@
       "prepositional": "Куйбышеве",
       "locative": "Куйбышеве"
     },
-    "coords": { "lat": 55.4685094, "lon": 78.3242048 },
+    "coords": { "lat": 55.4454258, "lon": 78.3222294 },
     "timezone": {
       "tzid": "Asia/Krasnoyarsk",
       "abbreviation": "KRAT",
@@ -52686,7 +52686,7 @@
       "prepositional": "Оренбурге",
       "locative": "Оренбурге"
     },
-    "coords": { "lat": 51.7875092, "lon": 55.1018828 },
+    "coords": { "lat": 51.7671248, "lon": 55.0978517 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -54532,7 +54532,7 @@
       "prepositional": "Пензе",
       "locative": "Пензе"
     },
-    "coords": { "lat": 53.1753314, "lon": 45.0348625 },
+    "coords": { "lat": 53.19519, "lon": 45.010529 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -55313,7 +55313,7 @@
       "prepositional": "Чусовое",
       "locative": "Чусовое"
     },
-    "coords": { "lat": 58.2974596, "lon": 57.8193615 },
+    "coords": { "lat": 58.2797802, "lon": 57.8127468 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -55952,7 +55952,7 @@
       "prepositional": "Красновишерске",
       "locative": "Красновишерске"
     },
-    "coords": { "lat": 60.3901321, "lon": 57.0535682 },
+    "coords": { "lat": 60.4132694, "lon": 57.083236 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -57230,7 +57230,7 @@
       "prepositional": "Порхове",
       "locative": "Порхове"
     },
-    "coords": { "lat": 57.7765219, "lon": 29.5436626 },
+    "coords": { "lat": 57.7594629, "lon": 29.5587337 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -57798,7 +57798,7 @@
       "prepositional": "Волгодонске",
       "locative": "Волгодонске"
     },
-    "coords": { "lat": 47.5165338, "lon": 42.1984951 },
+    "coords": { "lat": 47.528765, "lon": 42.13864 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -59431,7 +59431,7 @@
       "prepositional": "Тольятти",
       "locative": "Тольятти"
     },
-    "coords": { "lat": 53.5205348, "lon": 49.3894028 },
+    "coords": { "lat": 53.513583, "lon": 49.409656 },
     "timezone": {
       "tzid": "Europe/Samara",
       "abbreviation": "SAMT",
@@ -59644,7 +59644,7 @@
       "prepositional": "Чапаевске",
       "locative": "Чапаевске"
     },
-    "coords": { "lat": 52.928961, "lon": 49.8673269 },
+    "coords": { "lat": 52.981285, "lon": 49.711193 },
     "timezone": {
       "tzid": "Europe/Samara",
       "abbreviation": "SAMT",
@@ -60993,7 +60993,7 @@
       "prepositional": "Балакове",
       "locative": "Балакове"
     },
-    "coords": { "lat": 52.0224231, "lon": 47.7827765 },
+    "coords": { "lat": 52.01812, "lon": 47.819141 },
     "timezone": {
       "tzid": "Europe/Samara",
       "abbreviation": "SAMT",
@@ -61064,7 +61064,7 @@
       "prepositional": "Балашове",
       "locative": "Балашове"
     },
-    "coords": { "lat": 51.5388697, "lon": 43.1839757 },
+    "coords": { "lat": 51.5546717, "lon": 43.1430732 },
     "timezone": {
       "tzid": "Europe/Samara",
       "abbreviation": "SAMT",
@@ -62555,7 +62555,7 @@
       "prepositional": "Невельске",
       "locative": "Невельске"
     },
-    "coords": { "lat": 46.6526899, "lon": 141.8630725 },
+    "coords": { "lat": 46.6717928, "lon": 141.8567244 },
     "timezone": {
       "tzid": "Asia/Magadan",
       "abbreviation": "MAGT",
@@ -67880,7 +67880,7 @@
       "prepositional": "Уварове",
       "locative": "Уварове"
     },
-    "coords": { "lat": 51.9767841, "lon": 42.2529799 },
+    "coords": { "lat": 51.993943, "lon": 42.266961 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -68235,7 +68235,7 @@
       "prepositional": "Вышнем Волочке",
       "locative": "Вышнем Волочке"
     },
-    "coords": { "lat": 57.568302, "lon": 34.5404016 },
+    "coords": { "lat": 57.5844081, "lon": 34.5597994 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -68448,7 +68448,7 @@
       "prepositional": "Конакове",
       "locative": "Конакове"
     },
-    "coords": { "lat": 56.7275204, "lon": 36.8012716 },
+    "coords": { "lat": 56.7126, "lon": 36.779 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -68945,7 +68945,7 @@
       "prepositional": "Калязине",
       "locative": "Калязине"
     },
-    "coords": { "lat": 57.2579478, "lon": 37.7819693 },
+    "coords": { "lat": 57.2412281, "lon": 37.8296146 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -69797,7 +69797,7 @@
       "prepositional": "Асине",
       "locative": "Асине"
     },
-    "coords": { "lat": 56.9907085, "lon": 86.1765257 },
+    "coords": { "lat": 56.999187, "lon": 86.14167 },
     "timezone": {
       "tzid": "Asia/Krasnoyarsk",
       "abbreviation": "KRAT",
@@ -71856,7 +71856,7 @@
       "prepositional": "Ульяновске",
       "locative": "Ульяновске"
     },
-    "coords": { "lat": 54.3079415, "lon": 48.3748487 },
+    "coords": { "lat": 54.3150278, "lon": 48.403373 },
     "timezone": {
       "tzid": "Europe/Samara",
       "abbreviation": "SAMT",
@@ -72708,7 +72708,7 @@
       "prepositional": "Карабаше",
       "locative": "Карабаше"
     },
-    "coords": { "lat": 55.4852323, "lon": 60.2358881 },
+    "coords": { "lat": 55.4885688, "lon": 60.2028784 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -73702,7 +73702,7 @@
       "prepositional": "Сатке",
       "locative": "Сатке"
     },
-    "coords": { "lat": 55.0405288, "lon": 59.0288975 },
+    "coords": { "lat": 55.0456321, "lon": 58.9745689 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -74767,7 +74767,7 @@
       "prepositional": "Петровске-Забайкальском",
       "locative": "Петровске-Забайкальском"
     },
-    "coords": { "lat": 51.2748592, "lon": 108.846681 },
+    "coords": { "lat": 51.2530206, "lon": 108.827223 },
     "timezone": {
       "tzid": "Asia/Yakutsk",
       "abbreviation": "YAKT",
@@ -75477,7 +75477,7 @@
       "prepositional": "Ростове Великом",
       "locative": "Ростове Великом"
     },
-    "coords": { "lat": 57.2051315, "lon": 39.4378622 },
+    "coords": { "lat": 57.1860076, "lon": 39.4249825 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -76045,7 +76045,7 @@
       "prepositional": "Нарьян-Маре",
       "locative": "Нарьян-Маре"
     },
-    "coords": { "lat": 67.6569479, "lon": 52.9762152 },
+    "coords": { "lat": 67.6380175, "lon": 53.0071044 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -76332,7 +76332,7 @@
       "prepositional": "Лянторе",
       "locative": "Лянторе"
     },
-    "coords": { "lat": 61.6392863, "lon": 72.179409 },
+    "coords": { "lat": 61.622494, "lon": 72.165138 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -76620,7 +76620,7 @@
       "prepositional": "Нягани",
       "locative": "Нягани"
     },
-    "coords": { "lat": 62.1454701, "lon": 65.3946047 },
+    "coords": { "lat": 62.14577, "lon": 65.433921 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -77910,7 +77910,7 @@
       "prepositional": "Салехарде",
       "locative": "Салехарде"
     },
-    "coords": { "lat": 66.5492077, "lon": 66.6085318 },
+    "coords": { "lat": 66.5298656, "lon": 66.6146311 },
     "timezone": {
       "tzid": "Asia/Yekaterinburg",
       "abbreviation": "YEKT",
@@ -78340,7 +78340,7 @@
       "prepositional": "Ачхое-Мартане",
       "locative": "Ачхое-Мартане"
     },
-    "coords": { "lat": 43.1920655, "lon": 45.2602509 },
+    "coords": { "lat": 43.1926252, "lon": 45.2879291 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -78556,7 +78556,7 @@
       "prepositional": "Наурской",
       "locative": "Наурской"
     },
-    "coords": { "lat": 43.65, "lon": 45.308333 },
+    "coords": { "lat": 43.650589, "lon": 45.311901 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -78628,7 +78628,7 @@
       "prepositional": "Ойсхаре",
       "locative": "Ойсхаре"
     },
-    "coords": { "lat": 43.262283, "lon": 46.249129 },
+    "coords": { "lat": 43.2665386, "lon": 46.2530693 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -78700,7 +78700,7 @@
       "prepositional": "Серноводском",
       "locative": "Серноводском"
     },
-    "coords": { "lat": 43.314931, "lon": 45.160164 },
+    "coords": { "lat": 43.3096786, "lon": 45.1631269 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
@@ -78772,7 +78772,7 @@
       "prepositional": "Шелковской",
       "locative": "Шелковской"
     },
-    "coords": { "lat": 43.507563, "lon": 46.336854 },
+    "coords": { "lat": 43.506142, "lon": 46.333469 },
     "timezone": {
       "tzid": "Europe/Moscow",
       "abbreviation": "MSK",
