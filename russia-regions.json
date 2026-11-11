@@ -68,7 +68,7 @@
       "label": "ufa",
       "id": "0200000100000",
       "okato": "80401000000",
-      "oktmo": "80701000",
+      "oktmo": "80701000001",
       "contentType": "city"
     }
   },
@@ -1705,7 +1705,7 @@
       "label": "gatchina",
       "id": "4700700100000",
       "okato": "41218501000",
-      "oktmo": "41618101001",
+      "oktmo": "41518000001",
       "contentType": "city"
     }
   },
@@ -1884,7 +1884,7 @@
     "capital": {
       "name": "Нижний Новгород",
       "label": "nizhny_novgorod",
-      "id": "5200000100000",
+      "id": "5200100000000",
       "okato": "22401000000",
       "oktmo": "22701000001",
       "contentType": "city"
@@ -2283,7 +2283,7 @@
       "label": "samara",
       "id": "6300000100000",
       "okato": "36401000000",
-      "oktmo": "36701000",
+      "oktmo": "36701000001",
       "contentType": "city"
     }
   },
